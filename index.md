@@ -365,7 +365,7 @@ Guest speaker at local primary school to teach fundamentals of ecology and field
 
 **languages** English and intermediate skill in Spanish
 
-**Computer languages** Proficient in bash/unix, R, and python.
+**Computer languages** Proficient in bash/unix, R, & python.
 
 <!-- ### Footer
 
