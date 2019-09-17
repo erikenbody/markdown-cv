@@ -22,14 +22,14 @@ title: Erik Enbody CV
 `2008 - 2012`
 **Colorado College, Colorado**
 
-- B.A. with Distinction in Biology. Advisor: Dr. Brian Linkart
+- B.A. with Distinction in Biology. Advisor: Dr. Brian Linkhart
 
-## Apointments
+## Appointments
 
 `2018-`
-**Uppsala Univeristy, Sweden**
+**Uppsala University, Sweden**
 
-- Postdoctoral Reseacher in Bioinformatics with Dr. Leif Andersson
+- Postdoctoral Researcher in Bioinformatics with Dr. Leif Andersson
 
 ## Publications
 
@@ -54,7 +54,7 @@ Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvo
 `2017`
 Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Colombelli-Négrel, **E.D. Enbody**, K. Gielow, M. L. Hall, A. E. Johnson, J. Karubian, S. A. Kingma, S. Kleindorfer, M. Louter, R.A. Mulder, A. Peters, S. Pruett-Jones, K. A. Tarvin, D.J. Thrasher, C.W. Varian-Ramos, M.S. Webster, A. Cockburn. 2017. Multiple hypotheses explain variation in extra-pair paternity at different levels in a highly variable avian family. [Molecular Ecology. 26:6717–6729](http://onlinelibrary.wiley.com/doi/10.1111/mec.14385/full).
 
-### Manuscripts in preperation
+### Manuscripts in preparation
 
 **Enbody, E.D**, Sin, S.Y.W., Boersma, J., Schwabl, H., Edwards, S.V., Webster, M.S., Karubian, J. *in prep*. Genomic and transcriptional evidence for selection on female ornamentation. 
 
@@ -138,7 +138,7 @@ Female Ornamentation in the White-shouldered Fairywren. Guest lecture at Binatan
 **Enbody, E.D.**, C. J. Rubin, M. Carneiro, L. Andersson. Structural variants in a haplotype-resolved hybrid rabbit genome. The 2019 Congress of the European Society for Evolutionary Biology. Turku, Finland.
 
 `2019`
-Khalil, S., J. Walsh, **E.D. Enbody**, D.T. Baldassarre, M.S. Webster, J. Karubian. Evolutionary Genomics of Variable CarotenoidBased Ornamentation in the Red-Backed Fairywren. American Ornithological Society Meeting. Anchorage, AK. USA. 
+Khalil, S., J. Walsh, **E.D. Enbody**, D.T. Baldassarre, M.S. Webster, J. Karubian. Evolutionary Genomics of Variable Carotenoid-Based Ornamentation in the Red-Backed Fairywren. American Ornithological Society Meeting. Anchorage, AK. USA. 
  
 `2019`
 Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, H. Schwabl, J. Karubian. Taking a proximate view of a female ornament: do androgens mediate acquisition of the ornamented phenotype in female White-shouldered Fairywrens? Society of Integrative and Comparative Biology. Tampa, FL, USA.
@@ -147,7 +147,7 @@ Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, H. Schwabl, J. Kar
 Jones, J.A., J. Boersma, **E.D. Enbody**, M.J. Fuxjager, K.A. Rosvall, H. Schwabl, M.S. Webster, J. Karubian. Experimental inhibition of peripheral androgen receptors dampens ornament expression in a female tropical passerine. Society of Integrative and Comparative Biology. Tampa, FL, USA.
 
 `2018`
-Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Selection pressures tied to elaborate female and male song across Fairy-wrens.American Ornithological Society Meeting. Tucson, AZ. USA. 
+Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Selection pressures tied to elaborate female and male song across Fairy-wrens. American Ornithological Society Meeting. Tucson, AZ. USA. 
 
 `2018`
 **Enbody, E.D.**, Y.W. Sin, J. Boersma, H. Schwabl, M.S. Webster, S.V. Edwards, J. Karubian. Evolutionary genomics and transcriptomics of variable female plumage ornamentation in a New Guinea Malurus fairywren. American Ornithological Society Meeting. Tucson, AZ. USA. **winner of a best student presentation award**
@@ -217,7 +217,7 @@ Developed and performed an independent research project on Red Squirrel predatio
 
 `2011`
 Undergraduate research, Ecuador
-Conducted various class projects surveying birds, frogs, and butterflies in the Ecuadorian Amazon and Manabí Province. Designed playback experiment to test hterospecific responses between two sympatric antshrike species. 
+Conducted various class projects surveying birds, frogs, and butterflies in the Ecuadorian Amazon and Manabí Province. Designed playback experiment to test heterospecific responses between two sympatric antshrike species. 
 
 `2009-10 - summers`
 Avian Field Assistant, Central Nevada Mountains,High Desert Research Institute and John Muir Institute of the Environment, UC Davis
