@@ -219,7 +219,7 @@ Developed and performed an independent research project on Red Squirrel predatio
 Undergraduate research, Ecuador
 Conducted various class projects surveying birds, frogs, and butterflies in the Ecuadorian Amazon and Manabí Province. Designed playback experiment to test heterospecific responses between two sympatric antshrike species. 
 
-`2009-10 - summers`
+`2009/10 - summer`
 Avian Field Assistant, Central Nevada Mountains,High Desert Research Institute and John Muir Institute of the Environment, UC Davis
 Summers: performed bird and vegetation surveys in the mountains of Central Nevada for a long-term study of Great Basin bird communities. 
 
