@@ -12,6 +12,9 @@ title: Erik Enbody's CV
 _test_
 *test*
 
+*test*
+<i>super test</i>
+
 ## Education
 
 `2013 - 2018`
