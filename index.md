@@ -7,28 +7,14 @@ Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="erik.enbody(AT)gmail.com">erik.enbody(AT)gmail.com</a>
-| <a href="https://erikenbody@github.io">erikenbody@github.io</a>
+| <a href="https://erikenbody@github.io">erikenbody.github.io</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-`
+__Uppsala Univeristy__: Postdoctoral Reseacher in bioinformatics
 
 `June 1661 - now`
 __Trinity College, Cambridge__
