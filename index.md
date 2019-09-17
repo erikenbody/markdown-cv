@@ -196,37 +196,169 @@ Co-led team with Per Alström to collect a blood sample for generating a new ref
 Dissertation fieldwork
 Papua New Guinea (Milne Bay, Western, Madang, Highlands, Enga, and Morobe Provinces)
 "Evolution of female ornamentation in the White-shouldered Fairywren (*Malurus alboscapulatus*)"
-Advisor: Dr. Jordan Karubian
+Advisor: Dr. Jordan Karubian, Tulane University
 
-`2012`	
+`2012 - fall`	
 Banding intern at the Palomarin field station, Bolinas, California.
+Seasonal internship banding passerines at various locations in the Point Reyes National Seashore (480 birds processed).
 
-`2012`	
+`2012 - summer`	
 Seasonal field biologist surveying grassland birds in North and South Dakota, Rocky Mountain Bird Observatory, Brighton, CO.
+Performed point counts and vegetation sampling in the Central Plains. Field work was conducted from remote regions. Interacted with private landowners for planning transects.
 
 `2011` 
 Thesis research and Flammulated Owl crew research assistant
 “Factors affecting the predation of avian nest cavities by Red Squirrels (Tamiasciurus hudsonicus)”
-Advisor: Dr. Brian Linkhart, Biology Department Chair, Colorado College
+Advisor: Dr. Brian Linkhart, Colorado College
+Developed and performed an independent research project on Red Squirrel predation of Flammulated Owls using artificial nests in natural cavities. Also assisted with spot mapping, nest searching, and banding of owls.
 
-`2009-10`
+`2011`
+Undergraduate research, Ecuador
+Conducted various class projects surveying birds, frogs, and butterflies in the Ecuadorian Amazon and Manabí Province. Designed playback experiment to test hterospecific responses between two sympatric antshrike species. 
+
+`2009-10 - summers`
 Avian Field Assistant, Central Nevada Mountains,High Desert Research Institute and John Muir Institute of the Environment, UC Davis
+Summers: performed bird and vegetation surveys in the mountains of Central Nevada for a long-term study of Great Basin bird communities. 
 
-`2010`
+`2010 - summer`
 Vegetation Sampling Assistant, 
 U.S. Geological Survey, Elko, Nevada
 
-`2009`
+`2009 - winter`
 Volunteer Field Assistant, Monteverde, Costa Rica
 University of Washington
+Developed and implemented protocols for surveying birds and conducted vegetation surveys in reforested pasture lands.
 
-`2008`
+`2008 - summer`
 Yellow-billed Cuckoo Field Assistant, Lake Havasu City, AZ
 Southern Sierra Research Station
+Conducted playback surveys, nest searching, and mist netting on the endangered western subspecies of the Yellow-billed Cuckoo along the Lower Colorado River.
 
 `2006-08`
 Research Assistant, East Lansing, MI 
 Bird Acoustics Research Lab, Michigan State University, MI, Dr. Stuart Gage
+Established ground truth for remote sensing of bird populations, conducted point- count surveys, and assisted in the development of automatic song recognition.
+
+## Teaching & Mentoring Experience
+
+### Teaching assistant and guest lectures
+
+`2017 - spring` Ornithology, Guest Lecture – D. Henry, Tulane University
+
+`2017 - spring` Behavioral Ecology, Guest Lecture – D. Henry, Tulane University
+
+`2016 - fall`	Introduction to Plant Biology, TA – L.T. Martínez, Tulane University
+
+`2016 - fall`	Global Environmental Change, TA – S. Doosey, Tulane University 
+
+`2015 - fall`	Behavioral Ecology, TA – J. Karubian, Tulane University
+
+`2015 - spring`	Experimental Animal Behavior, TA & Guest Lecture - J. Karubian, Tulane University
+
+`2014 - spring/fall`	Plant and Human Affairs, TA – S. Darwin, Tulane University
+
+`2013 - fall`	Diversity of Life, TA – D. Henry, Tulane University
+
+### Workshops
+
+`2018` 
+Differential Expression workshop
+Designed and implemented a short workshop to teach the fundamentals and methods for RNAseq data processing and differential expression analysis. Included as a part of the first Bioinformatics & Genomics Course taught at Tulane University. 
+
+`2016 - Jul-Aug` Summer Bioinformatics Workshop, Cofounder & instructor, Tulane University
+Focus on using python, R, and UNIX for analysis of RADseq datasets (eight participants).
+
+### Student mentoring
+
+`2019` Navaneeth Menon - intern training in bioinformatics techniques for the study of wagtail evolution.
+
+`09/15-06/17`	Hunter Rust – photospectroscopy techniques and bird song analysis
+
+`10/13-09/16`	Kent Gowan (recent graduate) – photospectroscopy techniques and DNA extraction (Enbody et. al. 2019).
+
+`01/15-06/15`	Alexander Rose – photospectroscopy techniques and electron microscopy analyses
+
+`03/14-04/15`	Miles Hegedus – photospectroscopy techniques
+
+`09/15-06/16`	Amelia Lormund – photospectroscopy techniques
+
+`09/15-06/16`	Zoe Albert – video based nest observation data collection (Enbody et. al. 2019).
+
+`06/14-06/17`	Six international recent graduates in field data collection methods in New Guinea
+
+## Service, Outreach, and Training
+
+## Service & Outreach
+`2016`		
+Girls in STEM, Tulane University, New Orleans, LA
+Module co-instructor for “A little birdie told me”. GIST is a long-term program aimed at introducing female middle school students to science and female scientists. 
+
+`2015`	
+Linking Scholarship & Applied Research: Community-based Conservation & Development, Tulane University; Workshop participant and presenter.
+
+`2014,2015`	
+Environmental Fair,  Milne Bay Province, Papua New Guinea
+Co-organizer for community fair celebrating the environment to >500 students and members from surrounding communities. 
+
+`2014`
+Conservation training workshop, Milne Bay Province, Papua New Guinea
+Organizer and instructor for 20 leaders in local communities in conservation techniques
+
+`2014-16`
+Community Symposium and Awareness, Garuahi, Porotona, and Obo, PNG
+Annual presentations with the goal of raising awareness about the environment, sustainable practices, and status updates on field research focal communities.
+
+`2014-17`
+Research scientist training, Garuahi, Porotona, and Obo, PNG
+I co-trained six local biologists in the techniques necessary to conduct field research. These individuals have become community leaders for environment outreach and work together to spread environmental awareness throughout the region
+
+`2014`
+Garuahi Primary School Guest Teacher, Milne Bay Province, Papua New Guinea
+Guest speaker at local primary school to teach fundamentals of ecology and field biology
+
+`2014` 
+Porotona Primary School Guest Teacher, Milne Bay Province, Papua New Guinea
+Guest speaker at local primary school to teach fundamentals of ecology and field biology
+
+### Specialized Training
+
+`2012`		Certified Bird Bander by the North American Banding Council
+
+`2015`		UCLA La Kretz Conservation Genomics Workshop, Santa Monica, California
+
+`2013`		Michigan State University CSE Python Workshop, East Lansing, MI
+
+`2011`		Boston University Tropical Ecology Program, Ecuador - Spring
+
+`2009`		National Outdoor Leadership School, Baja California – January
+
+## Popular Press Articles
+
+`2015` Enbody, E.D. Photos (x3) in Bird Families of the World, eds. Winkler, D.W., Billerman, S. M., Lovette, I.J. (Lynx Editions). 
+
+`2008` Enbody, E. D. Birding Hot Spots. Birder’s World 22(1), 46.
+
+`2005` Enbody, E. D. Book Review: A Birder’s Guide to Michigan. A Bird’s Eye View Jul-Aug, 7.
+
+`2004` Enbody, E. D. A Report on Camp Chiricahua. A Bird's Eye View. Sep-Oct, 4-5.
+
+`2005` Enbody, E. D. The Big Invasion. A Bird's Eye View. Jan-Feb, 1-2.
+
+`2005` Enbody, E. D., Bankert, A. Owls, Owls, Owls: a Midwest Trip Report. A Bird’s Eye View J-F, 1-2.
+
+`2005` Enbody, E. D. Atlantic Puffin and Sanderlings (photos). Birding Magazine. 
+
+`2005` Enbody, E. D. Sanderlings in Flight (photos). ABA Institute for Field Ornithology.
+
+`2004` Enbody, E. D. Sanderlings, Red Knot, and Willet (photos). A Bird's Eye View
+
+## Interests and skills
+
+**Lifelong naturalist and birder** My interest in science was developed as a result of my natural interest in wildlife and birds in particular. I am a passionate field biologist enjoy contributing to natural history knowledge, particularly through observations, photographs, and recordings to the citizen science platform [eBird profile](https://ebird.org/profile/NTIzOTc/world).
+
+**languages** English and intermediate in Spanish
+
+**Computer languages** Proficient in bash/unix, R, and python.
 
 <!-- ### Footer
 
