@@ -50,9 +50,19 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 ## Grants and Honors
 
-### Major Grants
+### Research Grants
 
-`2017` National Science Foundation Dissertation Improvement Grant, $20.000.00. PI: Jordan Karubian; Collaborators: Scott V. Edwards
+`2017`  National Science Foundation Dissertation Improvement Grant, $20.000.00. PI: Jordan Karubian, Collaborators: Scott V. Edwards
+`2016`  Tulane Department of Ecology and Evolution Student Research Award, $989
+`2016`	Tulane Department of Ecology and Evolution Student Research Award, $900
+`2015`	National Geographic Society Young Explorers Grant, $5,000
+`2015`	Animal Behavior Society, $1,000
+`2015`	Chapman Memorial Fund award, AMNH, $1,500
+`2014`	American Ornithologist Union Research Award, $1,607
+`2011`	Colorado College Venture Grant for thesis research, $1,000
+`2011`	Colorado College Student-Faculty Collaborative Grant for thesis research, $2,500
+
+
 
 ### Other Honors
 
@@ -71,6 +81,3 @@ Richard G. and Reba Beidleman Award in Ecology
 <!-- ### Footer
 
 Last updated: September 2019 -->
-
-
-what
