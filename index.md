@@ -9,9 +9,7 @@ title: Erik Enbody's CV
 | <a href="https://erikenbody.github.io">erikenbody.github.io</a>
 </div>
 
-
 ## Education
-
 
 `2013 - 2018`
 __Tulane University, New Orleans__
@@ -33,7 +31,7 @@ __Uppsala Univeristy, Sweden__
 ## Publications
 
 `2019`
-**Enbody, E. D.**, J. Boersma, J. A. Jones, M. W. H. Chatfield, S. Ketaloya, D. Nason, D. T. Baldassarre, J. Hazlehurst, O. Gowen, H. Schwabl, J. Karubian. Social organization and breeding biology of the White-shouldered Fairywren *Malurus alboscapulatus*. *Emu: Austral Ornithology.* 
+**Enbody, E. D.**, J. Boersma, J. A. Jones, M. W. H. Chatfield, S. Ketaloya, D. Nason, D. T. Baldassarre, J. Hazlehurst, O. Gowen, H. Schwabl, J. Karubian. Social organization and breeding biology of the White-shouldered Fairywren _Malurus alboscapulatus_. _Emu: Austral Ornithology_.
 
 `2018`
 **Enbody, E. D.**, J. Boersma, H. Schwabl, J. Karubian. 2018. Female ornamentation is associated with elevated aggression and testosterone in a tropical songbird. *Behavioral Ecology* 29(5), 1056–1066. 
