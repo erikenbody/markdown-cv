@@ -30,6 +30,8 @@ __Uppsala Univeristy, Sweden__
 
 ## Publications
 
+### Peer reviewed journal articles
+
 `2019`
 Javůrková, V.G., **E.D. Enbody**, J. Kreisinger, K. Chmel, J. Mrázek, Jordan Karubian. 2019. Plumage iridescence is associated with distinct feather microbiota in a tropical passerine. [Scientific Reports (12921)](https://www.nature.com/articles/s41598-019-49220-y).
 
@@ -47,6 +49,12 @@ Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvo
 
 `2017`
 Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Colombelli-Négrel, **E.D. Enbody**, K. Gielow, M. L. Hall, A. E. Johnson, J. Karubian, S. A. Kingma, S. Kleindorfer, M. Louter, R.A. Mulder, A. Peters, S. Pruett-Jones, K. A. Tarvin, D.J. Thrasher, C.W. Varian-Ramos, M.S. Webster, A. Cockburn. 2017. Multiple hypotheses explain variation in extra-pair paternity at different levels in a highly variable avian family. [Molecular Ecology. 26:6717–6729](http://onlinelibrary.wiley.com/doi/10.1111/mec.14385/full).
+
+### Manuscripts in preperation
+
+**Enbody, E.D**, Sin, S.Y.W., Boersma, J., Schwabl, H., Edwards, S.V., Webster, M.S., Karubian, J. *in prep*. Genomic and transcriptional evidence for selection on female ornamentation. 
+
+Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, J. Karubian, H. Schwabl. *in prep*. Exogenous testosterone induces partial ornamentation which enhances vocal aggression in a female tropical songbird. 
 
 ## Grants and Honors
 
@@ -102,6 +110,52 @@ Best Dissertation, Dept. of Ecology & Evolutionary Biology, Tulane University.
 `2012`
 Richard G. and Reba Beidleman Award in Ecology
 “Awarded to a Colorado College student demonstrating outstanding potential for becoming a professional ecologist and/or field biologist.”
+
+## Invited Seminars and Visiting Lectures
+
+`2018`
+Genetic, transcriptional, and endocrine factors drive evolutionary transitions in female ornamentation. Department of Biological and Environmental Sciences Seminar Series, University of Gothenburg, Gothenburg, Sweden. Invited lecture.
+
+`2018`
+Genetic, transcriptional, and endocrine factors drive evolutionary transitions in female ornamentation. Department of Medical Biochemistry and Microbiology, Comparative genetics and Functional Genomics Seminar Series, Uppsala University, Uppsala, Sweden. 
+
+`2018`
+Evolution of female ornamentation in the White-shouldered Fairywren (*Malurus alboscapulatus*). School of Biological Sciences course in Behavioral Ecology guest lecture (via Skype), Hong Kong University. 
+
+`2018`
+Genetic, transcriptional, and endocrine factors drive evolutionary transitions in female ornamentation. Louisiana State University Natural History Museum Series, Baton Rouge, Louisiana. Invited lecture. 
+
+## Conference Presentations
+
+`2019`
+**Enbody, E.D.**, C. J. Rubin, M. Carneiro, L. Andersson. Structural variants in a haplotype-resolved hybrid rabbit genome. The 2019 Congress of the European Society for Evolutionary Biology. Turku, Finland.
+
+`2019`
+Khalil, S., J. Walsh, **E.D. Enbody**, D.T. Baldassarre, M.S. Webster, J. Karubian. Evolutionary Genomics of Variable CarotenoidBased Ornamentation in the Red-Backed Fairywren. American Ornithological Society Meeting. Anchorage, AK. USA. 
+ 
+`2019`
+Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, H. Schwabl, J. Karubian. Taking a proximate view of a female ornament: do androgens mediate acquisition of the ornamented phenotype in female White-shouldered Fairywrens? Society of Integrative and Comparative Biology. Tampa, FL, USA.
+
+`2019`
+Jones, J.A., J. Boersma, **E.D. Enbody**, M.J. Fuxjager, K.A. Rosvall, H. Schwabl, M.S. Webster, J. Karubian. Experimental inhibition of peripheral androgen receptors dampens ornament expression in a female tropical passerine. Society of Integrative and Comparative Biology. Tampa, FL, USA.
+
+`2018`
+Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Selection pressures tied to elaborate female and male song across Fairy-wrens.American Ornithological Society Meeting. Tucson, AZ. USA. 
+
+`2018`
+**Enbody, E.D.**, Y.W. Sin, J. Boersma, H. Schwabl, M.S. Webster, S.V. Edwards, J. Karubian. Evolutionary genomics and transcriptomics of variable female plumage ornamentation in a New Guinea Malurus fairywren. American Ornithological Society Meeting. Tucson, AZ. USA. **winner of a best presentation award*
+
+`2018`
+**Enbody, E.D.** Early Professional Symposium Presenter. American Ornithological Society Meeting. Tucson, AZ. USA. 
+
+`2017`
+**Enbody, E.D.**, J. Boersma, H. Schwabl, J. Karubian. Female ornamentation is associated with increased aggression and circulating androgens in a tropical passerine bird. Joint meeting of the American Ornithological Society and Society of Canadian Ornithologists. East Lansing, MI. USA.
+
+`2017`
+**Enbody, E.D.**, S.M. Lantz, J. Karubian. Production of plumage ornaments among males and females of two closely related tropical passerine bird species. Society for Integrative and Comparative Biology. New Orleans, LA. USA.
+
+`2016`
+**Enbody, E.D.**, S.M. Lantz, J. Karubian. Structural mechanisms of plumage ornament production are maintained within sexes and across sister species of tropical passerine birds. North American Ornithological Congress. Washington, D.C. USA.
 
 <!-- ### Footer
 
