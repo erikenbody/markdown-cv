@@ -1,12 +1,15 @@
 ---
 layout: cv
-title: Erik Enbody's CV
+title: Erik Enbody CV
 ---
 # Erik Enbody
 
 <div id="webaddress">
-<a href="erik.enbody@gmail.com">erik.enbody@gmail.com</a>
-| <a href="https://erikenbody.github.io">erikenbody.github.io</a>
+<a href="mailto:erik.enbody@gmail.com">erik.enbody@gmail.com</a>
+| 
+<a href="https://erikenbody.github.io">erikenbody.github.io</a>
+|
+<i class="fa fa-twitter"></i> <a href="https://twitter.com/erikenbody">@erikenbody</a>
 </div>
 
 ## Education
@@ -26,12 +29,12 @@ title: Erik Enbody's CV
 `2018-`
 **Uppsala Univeristy, Sweden**
 
-  - Postdoctoral Reseacher in Bioinformatics with Dr. Leif Andersson
+- Postdoctoral Reseacher in Bioinformatics with Dr. Leif Andersson
 
 ## Publications
 
 ### Peer reviewed journal articles
-(+ = Papua New Guinea national & researcher)
+(\* = Papua New Guinea national & researcher)
 
 `2019`
 Javůrková, V.G., **E.D. Enbody**, J. Kreisinger, K. Chmel, J. Mrázek, Jordan Karubian. 2019. Plumage iridescence is associated with distinct feather microbiota in a tropical passerine. [Scientific Reports (12921)](https://www.nature.com/articles/s41598-019-49220-y).
@@ -40,7 +43,7 @@ Javůrková, V.G., **E.D. Enbody**, J. Kreisinger, K. Chmel, J. Mrázek, Jordan 
 Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvord, L. Laikre, G. Kleinau, P. Scheerer, L. Andersson. 2019. Recurrent convergent evolution at amino acid residue 261 in fish rhodopsin. [Proceedings of the National Academy of Sciences. 116(37): 18473-18478](https://www.pnas.org/content/116/37/18473). Press: [Science Daily](https://www.sciencedaily.com/releases/2019/08/190826153632.html), [phys.org](https://phys.org/news/2019-08-herring-environment-baltic-sea.html), [Sveriges Radio](https://sverigesradio.se/sida/artikel.aspx?programid=105&artikel=7287645).
 
 `2019`
-**Enbody, E.D.**, J. Boersma, J. A. Jones, M. W. H. Chatfield, S. Ketaloya (+), D. Nason (+), D. T. Baldassarre, J. Hazlehurst, O. Gowen, H. Schwabl, J. Karubian. 2019. Social organization and breeding biology of the White-shouldered Fairywren *Malurus alboscapulatus*. [Emu: Austral Ornithology](https://www.tandfonline.com/doi/full/10.1080/01584197.2019.1595663). (invited contribution & cover photo).
+**Enbody, E.D.**, J. Boersma, J. A. Jones, M. W. H. Chatfield, S. Ketaloya \*, D. Nason \*, D. T. Baldassarre, J. Hazlehurst, O. Gowen, H. Schwabl, J. Karubian. 2019. Social organization and breeding biology of the White-shouldered Fairywren *Malurus alboscapulatus*. [Emu: Austral Ornithology](https://www.tandfonline.com/doi/full/10.1080/01584197.2019.1595663). (invited contribution & cover photo).
 
 `2018`
 **Enbody, E.D.**, J. Boersma, H. Schwabl, J. Karubian. 2018. Female ornamentation is associated with elevated aggression and testosterone in a tropical songbird. [Behavioral Ecology. 29(5): 1056–1066](https://academic.oup.com/beheco/article/29/5/1056/5026290).
@@ -112,7 +115,7 @@ Best Dissertation, Dept. of Ecology & Evolutionary Biology, Tulane University.
 Richard G. and Reba Beidleman Award in Ecology
 “Awarded to a Colorado College student demonstrating outstanding potential for becoming a professional ecologist and/or field biologist.”
 
-## Invited Seminars and Visiting Lectures
+## Invited Seminars & Visiting Lectures
 
 `2018`
 Genetic, transcriptional, and endocrine factors drive evolutionary transitions in female ornamentation. Department of Biological and Environmental Sciences Seminar Series, University of Gothenburg, Gothenburg, Sweden. Invited lecture.
@@ -162,7 +165,7 @@ Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Se
 **Enbody, E.D.**, S.M. Lantz, J. Karubian. Structural mechanisms of plumage ornament production are maintained within sexes and across sister species of tropical passerine birds. North American Ornithological Congress. Washington, D.C. USA.
 
 ## Poster Presentations 
-(^ = undergraduate student, + = Papua New Guinea national & researcher)
+(^ = undergraduate student, \* = Papua New Guinea national & researcher)
 
 `2018`
 **Enbody, E.D.**, Y.W. Sin, J. Boersma, H. Schwabl, M.S. Webster, S.V. Edwards, J. Karubian. The genomic architecture of female ornament evolution. Joint Congress on Evolutionary Biology. Montpellier, France. 
@@ -177,7 +180,7 @@ Boersma, J., Enbody, E.D., J. Jones, J. Karubian, H. Schwabl. Androgens and the 
 Jones, J.A., J. Boersma, **E.D. Enbody**, J. Karubian. Ecological determinants of phenotypic divergence in female coloration of Papua fairywrens. Society for Integrative and Comparative Biology. New Orleans, LA. USA.
 
 `2015`
-**Enbody, E.D.**, H. Schwabl, S. Ketaloya (+), J. Karubian. Variable female plumage in White-shouldered Fairywrens: ornamentation decoupled with testosterone. Tulane SSE Poster Day. New Orleans, LA. USA. 
+**Enbody, E.D.**, H. Schwabl, S. Ketaloya \*, J. Karubian. Variable female plumage in White-shouldered Fairywrens: ornamentation decoupled with testosterone. Tulane SSE Poster Day. New Orleans, LA. USA. 
 
 `2015`
 Rose, A.^, S.M. Lantz, **E.D. Enbody**, J. Karubian. How do feathers relevant to sexual selection differ within two Malurus bird species. Tulane SSE Poster Day. New Orleans, LA. USA.
