@@ -5,26 +5,26 @@ title: Erik Enbody's CV
 # Erik Enbody
 
 <div id="webaddress">
-<a href="erik.enbody(AT)gmail.com">erik.enbody(AT)gmail.com</a>
+<a href="erik.enbody@gmail.com">erik.enbody@gmail.com</a>
 | <a href="https://erikenbody.github.io">erikenbody.github.io</a>
 </div>
 
 ## Education
 
 `2013 - 2018`
-__Tulane University, New Orleans__
+**Tulane University, New Orleans**
 
 - Ph.D. Ecology and Evolutionary Biology. Advisor: Dr. Jordan Karubian
 
 `2008 - 2012`
-__Colorado College, Colorado__
+**Colorado College, Colorado**
 
 - B.A. with Distinction in Biology. Advisor: Dr. Brian Linkart
 
 ## Apointments
 
 `2018-`
-__Uppsala Univeristy, Sweden__
+**Uppsala Univeristy, Sweden**
 
   - Postdoctoral Reseacher in Bioinformatics with Dr. Leif Andersson
 
@@ -354,9 +354,9 @@ Guest speaker at local primary school to teach fundamentals of ecology and field
 
 ## Interests and skills
 
-**Lifelong naturalist and birder** My interest in science was developed as a result of my natural interest in wildlife and birds in particular. I am a passionate field biologist enjoy contributing to natural history knowledge, particularly through observations, photographs, and recordings to the citizen science platform [eBird profile](https://ebird.org/profile/NTIzOTc/world).
+**Lifelong naturalist and birder** My interest in science was a natural progression from my lifelong passion for wildlife and birds in particular. I am a passionate field biologist and enjoy contributing to natural history knowledge, particularly through observations, photographs, and recordings to the citizen science platform [eBird profile](https://ebird.org/profile/NTIzOTc/world).
 
-**languages** English and intermediate in Spanish
+**languages** English and intermediate skill in Spanish
 
 **Computer languages** Proficient in bash/unix, R, and python.
 
