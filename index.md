@@ -14,12 +14,14 @@ Physicist, Mathematician, Cambridge professor.
 ## Education
 
 `2018-`
-__Uppsala Univeristy__: Postdoctoral Reseacher in bioinformatics
+__Uppsala Univeristy, Sweden__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+  - Postdoctoral Reseacher in bioinformatics
 
-- Sizar
+`2013 - 2018`
+__Tulane University, New Orleans__
+
+- Ph.D. Ecology and Evolutionary Biology. Advisor: Dr. Jordan Karubian
 
 `1667 - death`
 __Trinity College, Cambridge__
