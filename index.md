@@ -33,45 +33,33 @@ __Uppsala Univeristy, Sweden__
 ## Publications
 
 `2019`
-Enbody, E. D., J. Boersma, J. A. Jones, M. W. H. Chatfield, S. Ketaloya, D. Nason, D. T. Baldassarre, J. Hazlehurst, O. Gowen, H. Schwabl, J. Karubian. Social organization and breeding biology of the White-shouldered Fairywren Malurus alboscapulatus. Emu: Austral Ornithology. 
+**Enbody, E. D.**, J. Boersma, J. A. Jones, M. W. H. Chatfield, S. Ketaloya, D. Nason, D. T. Baldassarre, J. Hazlehurst, O. Gowen, H. Schwabl, J. Karubian. Social organization and breeding biology of the White-shouldered Fairywren *Malurus alboscapulatus*. *Emu: Austral Ornithology.* 
 
-`1669`
-Lectiones opticæ.
+`2018`
+**Enbody, E. D.**, J. Boersma, H. Schwabl, J. Karubian. 2018. Female ornamentation is associated with elevated aggression and testosterone in a tropical songbird. *Behavioral Ecology* 29(5), 1056–1066. 
 
-etc. etc. etc.
+## Grants and Honors
 
-### Patents
+### Major Grants
+
+`2017` National Science Foundation Dissertation Improvement Grant, $20.000.00. PI: Jordan Karubian; Collaborators: Scott V. Edwards
+
+### Other Honors
+
+`2018`
+American Ornithological Society Council Best Student Presentation Award
+
+`2018`
+The George Henry Penn Award
+Best Dissertation, Dept. of Ecology & Evolutionary Biology, Tulane University.
 
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Richard G. and Reba Beidleman Award in Ecology
+“Awarded to a Colorado College student demonstrating outstanding potential for becoming a professional ecologist and/or field biologist.”
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2019 -->
 
 
