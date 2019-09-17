@@ -174,8 +174,8 @@ a:hover {
 }
 
 em {
-	font-weight: bold;
-	/*font-style: italic;*/
+	/*font-weight: bold;*/
+	font-style: italic;
 }
 
 strong {
