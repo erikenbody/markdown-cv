@@ -295,7 +295,7 @@ Focus on using python, R, and UNIX for analysis of RADseq datasets (eight partic
 
 ## Service, Outreach, and Training
 
-## Service & Outreach
+### Service & Outreach
 `2016`		
 Girls in STEM, Tulane University, New Orleans, LA
 Module co-instructor for “A little birdie told me”. GIST is a long-term program aimed at introducing female middle school students to science and female scientists. 
