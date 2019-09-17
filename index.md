@@ -30,7 +30,7 @@ Evolutionary biologist fascinated with biodiversity and the evolutionary process
 
 ## Appointments
 
-`2018-`
+`2018 -`
 **Uppsala University, Sweden**
 
 - Postdoctoral Researcher in Bioinformatics with Dr. Leif Andersson
