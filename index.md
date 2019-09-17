@@ -6,8 +6,8 @@ title: Erik Enbody's CV
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="erik.enbody(AT)gmail.com">isaac@applesdofall.org</a>
+| <a href="https://erikenbody@github.io">erikenbody@github.io</a>
 </div>
 
 
