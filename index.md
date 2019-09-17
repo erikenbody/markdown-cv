@@ -33,7 +33,7 @@ title: Erik Enbody CV
 
 ## Publications
 
-### Peer reviewed journal articles
+### Peer-reviewed journal articles
 (\* = Papua New Guinea national & researcher)
 
 `2019`
