@@ -26,11 +26,12 @@ __Colorado College, Colorado__
 `2018-`
 __Uppsala Univeristy, Sweden__
 
-  - Postdoctoral Reseacher in bioinformatics
+  - Postdoctoral Reseacher in Bioinformatics with Dr. Leif Andersson
 
 ## Publications
 
 ### Peer reviewed journal articles
+(+ = Papua New Guinea national & researcher)
 
 `2019`
 Javůrková, V.G., **E.D. Enbody**, J. Kreisinger, K. Chmel, J. Mrázek, Jordan Karubian. 2019. Plumage iridescence is associated with distinct feather microbiota in a tropical passerine. [Scientific Reports (12921)](https://www.nature.com/articles/s41598-019-49220-y).
@@ -39,7 +40,7 @@ Javůrková, V.G., **E.D. Enbody**, J. Kreisinger, K. Chmel, J. Mrázek, Jordan 
 Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvord, L. Laikre, G. Kleinau, P. Scheerer, L. Andersson. 2019. Recurrent convergent evolution at amino acid residue 261 in fish rhodopsin. [Proceedings of the National Academy of Sciences. 116(37): 18473-18478](https://www.pnas.org/content/116/37/18473). Press: [Science Daily](https://www.sciencedaily.com/releases/2019/08/190826153632.html), [phys.org](https://phys.org/news/2019-08-herring-environment-baltic-sea.html), [Sveriges Radio](https://sverigesradio.se/sida/artikel.aspx?programid=105&artikel=7287645).
 
 `2019`
-**Enbody, E.D.**, J. Boersma, J. A. Jones, M. W. H. Chatfield, S. Ketaloya, D. Nason, D. T. Baldassarre, J. Hazlehurst, O. Gowen, H. Schwabl, J. Karubian. 2019. Social organization and breeding biology of the White-shouldered Fairywren *Malurus alboscapulatus*. [Emu: Austral Ornithology](https://www.tandfonline.com/doi/full/10.1080/01584197.2019.1595663). (invited contribution & cover photo).
+**Enbody, E.D.**, J. Boersma, J. A. Jones, M. W. H. Chatfield, S. Ketaloya (+), D. Nason (+), D. T. Baldassarre, J. Hazlehurst, O. Gowen, H. Schwabl, J. Karubian. 2019. Social organization and breeding biology of the White-shouldered Fairywren *Malurus alboscapulatus*. [Emu: Austral Ornithology](https://www.tandfonline.com/doi/full/10.1080/01584197.2019.1595663). (invited contribution & cover photo).
 
 `2018`
 **Enbody, E.D.**, J. Boersma, H. Schwabl, J. Karubian. 2018. Female ornamentation is associated with elevated aggression and testosterone in a tropical songbird. [Behavioral Ecology. 29(5): 1056–1066](https://academic.oup.com/beheco/article/29/5/1056/5026290).
@@ -125,6 +126,9 @@ Evolution of female ornamentation in the White-shouldered Fairywren (*Malurus al
 `2018`
 Genetic, transcriptional, and endocrine factors drive evolutionary transitions in female ornamentation. Louisiana State University Natural History Museum Series, Baton Rouge, Louisiana. Invited lecture. 
 
+`2016`
+Female Ornamentation in the White-shouldered Fairywren. Guest lecture at Binatang Research Center, Madang Province, Papua New Guinea.
+
 ## Conference Presentations
 
 `2019`
@@ -143,7 +147,7 @@ Jones, J.A., J. Boersma, **E.D. Enbody**, M.J. Fuxjager, K.A. Rosvall, H. Schwab
 Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Selection pressures tied to elaborate female and male song across Fairy-wrens.American Ornithological Society Meeting. Tucson, AZ. USA. 
 
 `2018`
-**Enbody, E.D.**, Y.W. Sin, J. Boersma, H. Schwabl, M.S. Webster, S.V. Edwards, J. Karubian. Evolutionary genomics and transcriptomics of variable female plumage ornamentation in a New Guinea Malurus fairywren. American Ornithological Society Meeting. Tucson, AZ. USA. **winner of a best presentation award*
+**Enbody, E.D.**, Y.W. Sin, J. Boersma, H. Schwabl, M.S. Webster, S.V. Edwards, J. Karubian. Evolutionary genomics and transcriptomics of variable female plumage ornamentation in a New Guinea Malurus fairywren. American Ornithological Society Meeting. Tucson, AZ. USA. **winner of a best student presentation award**
 
 `2018`
 **Enbody, E.D.** Early Professional Symposium Presenter. American Ornithological Society Meeting. Tucson, AZ. USA. 
@@ -156,6 +160,73 @@ Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Se
 
 `2016`
 **Enbody, E.D.**, S.M. Lantz, J. Karubian. Structural mechanisms of plumage ornament production are maintained within sexes and across sister species of tropical passerine birds. North American Ornithological Congress. Washington, D.C. USA.
+
+## Poster Presentations 
+(^ = undergraduate student, + = Papua New Guinea national & researcher)
+
+`2018`
+**Enbody, E.D.**, Y.W. Sin, J. Boersma, H. Schwabl, M.S. Webster, S.V. Edwards, J. Karubian. The genomic architecture of female ornament evolution. Joint Congress on Evolutionary Biology. Montpellier, France. 
+
+`2017`
+Jones, J.A., J. Boersma, **E.D. Enbody**, J. Karubian. Ecological determinants of phenotypic divergence in female coloration of Papua fairywrens. American Ornithological Society and Society of Canadian Ornithologists. East Lansing, MI. USA.
+
+`2017`
+Boersma, J., Enbody, E.D., J. Jones, J. Karubian, H. Schwabl. Androgens and the evolution of male and multiple female phenotypes in a tropical passerine. Society for Integrative and Comparative Biology. New Orleans, LA. USA.
+
+`2017`
+Jones, J.A., J. Boersma, **E.D. Enbody**, J. Karubian. Ecological determinants of phenotypic divergence in female coloration of Papua fairywrens. Society for Integrative and Comparative Biology. New Orleans, LA. USA.
+
+`2015`
+**Enbody, E.D.**, H. Schwabl, S. Ketaloya (+), J. Karubian. Variable female plumage in White-shouldered Fairywrens: ornamentation decoupled with testosterone. Tulane SSE Poster Day. New Orleans, LA. USA. 
+
+`2015`
+Rose, A.^, S.M. Lantz, **E.D. Enbody**, J. Karubian. How do feathers relevant to sexual selection differ within two Malurus bird species. Tulane SSE Poster Day. New Orleans, LA. USA.
+
+`2014`
+**Enbody, E.D.**, H. Schwabl, S. Ketaloya, J. Karubian. The adaptive consequences of female plumage in White-shouldered Fairywrens. American Ornithologist Union. Estes Park, CO. USA. 
+
+## Fieldwork Experience
+
+`2018`
+Postdoctoral fieldwork
+Sweden, Ottenby Fågelstation
+Co-led team with Per Alström to collect a blood sample for generating a new reference genome for White Wagtail (*Motacilla alba*)
+
+`2013-2017`
+Dissertation fieldwork
+Papua New Guinea (Milne Bay, Western, Madang, Highlands, Enga, and Morobe Provinces)
+"Evolution of female ornamentation in the White-shouldered Fairywren (*Malurus alboscapulatus*)"
+Advisor: Dr. Jordan Karubian
+
+`2012`	
+Banding intern at the Palomarin field station, Bolinas, California.
+
+`2012`	
+Seasonal field biologist surveying grassland birds in North and South Dakota, Rocky Mountain Bird Observatory, Brighton, CO.
+
+`2011` 
+Thesis research and Flammulated Owl crew research assistant
+“Factors affecting the predation of avian nest cavities by Red Squirrels (Tamiasciurus hudsonicus)”
+Advisor: Dr. Brian Linkhart, Biology Department Chair, Colorado College
+
+`2009-10`
+Avian Field Assistant, Central Nevada Mountains,High Desert Research Institute and John Muir Institute of the Environment, UC Davis
+
+`2010`
+Vegetation Sampling Assistant, 
+U.S. Geological Survey, Elko, Nevada
+
+`2009`
+Volunteer Field Assistant, Monteverde, Costa Rica
+University of Washington
+
+`2008`
+Yellow-billed Cuckoo Field Assistant, Lake Havasu City, AZ
+Southern Sierra Research Station
+
+`2006-08`
+Research Assistant, East Lansing, MI 
+Bird Acoustics Research Lab, Michigan State University, MI, Dr. Stuart Gage
 
 <!-- ### Footer
 
