@@ -258,7 +258,7 @@ Established ground truth for remote sensing of bird populations, conducted point
 
 `2015 - spring`	Experimental Animal Behavior, TA & Guest Lecture - J. Karubian, Tulane University
 
-`2014 - spring/fall`	Plant and Human Affairs, TA – S. Darwin, Tulane University
+`2014 - sp/fa`	Plant and Human Affairs, TA – S. Darwin, Tulane University
 
 `2013 - fall`	Diversity of Life, TA – D. Henry, Tulane University
 
