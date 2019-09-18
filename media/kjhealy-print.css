@@ -155,7 +155,7 @@ h3 {
 
 a {
 	color: inherit;
-	text-decoration:none
+	/*text-decoration:none*/
 }
 
 a:hover {
@@ -170,11 +170,11 @@ a:hover {
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
-
+/*
 #webaddress a {
 	text-decoration: none;
 }
-
+*/
 em {
 	/*font-weight: bold;*/
 	font-style: italic;
