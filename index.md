@@ -14,31 +14,33 @@ title: Erik Enbody CV
 
 ## About Me
 
-Evolutionary biologist fascinated with biodiversity and the evolutionary processes that generate diversity in wild populations. My research leverages current technologies in genomic sequencing and behavioral ecology to study the mechanisms that maintain population and trait diveristy through natural, social, and sexual selection processess. These projects span a diverse group of organisms.
+Evolutionary biologist fascinated with biodiversity and the evolutionary processes that generate diversity in wild populations. My research leverages current technologies in genomic sequencing and field ecology to study the mechanisms that maintain population and trait diveristy through natural, social, and sexual selection processess. These projects span a diverse group of organisms. 
 
 ## Education
 
 `2013-18`
 **Tulane University, New Orleans**
 
-- Ph.D. Ecology and Evolutionary Biology. Advisor: Dr. Jordan Karubian
+Ph.D. Ecology and Evolutionary Biology. Advisor: Dr. Jordan Karubian
+Dissertation: "Evolution of female ornamentation in the White-shouldered Fairywren (*Malurus alboscapulatus*)"
 
 `2008-12`
 **Colorado College, Colorado**
 
-- B.A. with Distinction in Biology. Advisor: Dr. Brian Linkhart
+B.A. with Distinction in Biology. Advisor: Dr. Brian Linkhart
+Thesis: “Factors affecting the predation of avian nest cavities by Red Squirrels (Tamiasciurus hudsonicus)”
 
 ## Appointments
 
 `2018-`
 **Uppsala University, Sweden**
 
-- Postdoctoral Researcher in Bioinformatics with Dr. Leif Andersson
+- Postdoctoral Researcher in Genomics & Bioinformatics with Dr. Leif Andersson
 
 ## Publications
 
 ### Peer-reviewed journal articles
-(\* = Papua New Guinea national & researcher)
+(\*Papua New Guinea national & researcher)
 
 `2019`
 Javůrková, V.G., **E.D. Enbody**, J. Kreisinger, K. Chmel, J. Mrázek, Jordan Karubian. 2019. Plumage iridescence is associated with distinct feather microbiota in a tropical passerine. [Scientific Reports (12921)](https://www.nature.com/articles/s41598-019-49220-y).
@@ -154,7 +156,7 @@ Jones, J.A., J. Boersma, **E.D. Enbody**, M.J. Fuxjager, K.A. Rosvall, H. Schwab
 Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Selection pressures tied to elaborate female and male song across Fairy-wrens. American Ornithological Society Meeting. Tucson, AZ. USA. 
 
 `2018`
-**Enbody, E.D.**, Y.W. Sin, J. Boersma, H. Schwabl, M.S. Webster, S.V. Edwards, J. Karubian. Evolutionary genomics and transcriptomics of variable female plumage ornamentation in a New Guinea Malurus fairywren. American Ornithological Society Meeting. Tucson, AZ. USA. **winner of a best student presentation award**
+**Enbody, E.D.**, Y.W. Sin, J. Boersma, H. Schwabl, M.S. Webster, S.V. Edwards, J. Karubian. Evolutionary genomics and transcriptomics of variable female plumage ornamentation in a New Guinea Malurus fairywren. American Ornithological Society Meeting. Tucson, AZ. USA. **Winner of a best student presentation award**
 
 `2018`
 **Enbody, E.D.** Early Professional Symposium Presenter. American Ornithological Society Meeting. Tucson, AZ. USA. 
@@ -194,16 +196,14 @@ Rose, A.^, S.M. Lantz, **E.D. Enbody**, J. Karubian. How do feathers relevant to
 
 ## Fieldwork Experience
 
-`2018`
+`2019`
 Postdoctoral fieldwork
 Sweden, Ottenby Fågelstation
-Co-led team with Per Alström to collect a blood sample for generating a new reference genome for White Wagtail (*Motacilla alba*)
+Co-led team with Per Alström to collect blood samples for generating a new reference genome for White Wagtail (*Motacilla alba*)
 
 `2013-17`
 Dissertation fieldwork
 Papua New Guinea (Milne Bay, Western, Madang, Highlands, Enga, and Morobe Provinces)
-"Evolution of female ornamentation in the White-shouldered Fairywren (*Malurus alboscapulatus*)"
-Advisor: Dr. Jordan Karubian, Tulane University
 
 `2012/fa`	
 Banding intern at the Palomarin field station, Bolinas, California.
@@ -215,21 +215,19 @@ Summer: Performed point counts and vegetation sampling in the Central Plains. Fi
 
 `2011` 
 Thesis research and Flammulated Owl crew research assistant
-“Factors affecting the predation of avian nest cavities by Red Squirrels (Tamiasciurus hudsonicus)”
-Advisor: Dr. Brian Linkhart, Colorado College
 Developed and performed an independent research project on Red Squirrel predation of Flammulated Owls using artificial nests in natural cavities. Also assisted with spot mapping, nest searching, and banding of owls.
 
 `2011`
 Undergraduate research, Ecuador
 Conducted various class projects surveying birds, frogs, and butterflies in the Ecuadorian Amazon and Manabí Province. Designed playback experiment to test heterospecific responses between two sympatric antshrike species. 
 
-`2009/10`
-Avian Field Assistant, Central Nevada Mountains,High Desert Research Institute and John Muir Institute of the Environment, UC Davis
-Summers: performed bird and vegetation surveys in the mountains of Central Nevada for a long-term study of Great Basin bird communities. 
-
 `2010`
 Summer: Vegetation Sampling Assistant, 
 U.S. Geological Survey, Elko, Nevada
+
+`2009/10`
+Avian Field Assistant, Central Nevada Mountains,High Desert Research Institute and John Muir Institute of the Environment, UC Davis
+Summers: performed bird and vegetation surveys in the mountains of Central Nevada for a long-term study of Great Basin bird communities. 
 
 `2009`
 Volunteer Field Assistant, Monteverde, Costa Rica
@@ -296,9 +294,14 @@ Focus on using python, R, and UNIX for analysis of RADseq datasets (eight partic
 ## Service, Outreach, and Training
 
 ### Service & Outreach
+
+`2016-18` 
+Volunteer bird bander with Louisiana Bird Observatory / Audubon Louisiana at Palmetto State Park
+Regular weekend volunteer at local bird banding station to assist with mist net set up and bird banding. 
+
 `2016`		
 Girls in STEM, Tulane University, New Orleans, LA
-Module co-instructor for “A little birdie told me”. GIST is a long-term program aimed at introducing female middle school students to science and female scientists. 
+Module co-instructor for “A little birdie told me”. GIST is a long-term program aimed at introducing female elementary and middle school students to science and female scientists. 
 
 `2015`	
 Linking Scholarship & Applied Research: Community-based Conservation & Development, Tulane University; Workshop participant and presenter.
@@ -317,7 +320,7 @@ Annual presentations with the goal of raising awareness about the environment, s
 
 `2014-17`
 Research scientist training, Garuahi, Porotona, and Obo, PNG
-I co-trained six local biologists in the techniques necessary to conduct field research. These individuals have become community leaders for environment outreach and work together to spread environmental awareness throughout the region
+Co-trained six local biologists in the techniques necessary to conduct field research. These individuals have become community leaders for environment outreach and work together to spread environmental awareness throughout the region
 
 `2014`
 Garuahi Primary School Guest Teacher, Milne Bay Province, Papua New Guinea
@@ -326,6 +329,10 @@ Guest speaker at local primary school to teach fundamentals of ecology and field
 `2014` 
 Porotona Primary School Guest Teacher, Milne Bay Province, Papua New Guinea
 Guest speaker at local primary school to teach fundamentals of ecology and field biology
+
+`2013,16,17`
+Volunteer at Louisiana Rice & Rails festival
+Annual event focused on bringing together birdwatchers and rice farmers to further appreciate the rich cultural traditions of Southern Louisiana and monitor populations of Yellow Rails. Assisted with bird banding and co-led local birding tours. 
 
 ### Specialized Training
 
@@ -347,8 +354,6 @@ Guest speaker at local primary school to teach fundamentals of ecology and field
 
 `2005` Enbody, E. D. Book Review: A Birder’s Guide to Michigan. A Bird’s Eye View Jul-Aug, 7.
 
-`2004` Enbody, E. D. A Report on Camp Chiricahua. A Bird's Eye View. Sep-Oct, 4-5.
-
 `2005` Enbody, E. D. The Big Invasion. A Bird's Eye View. Jan-Feb, 1-2.
 
 `2005` Enbody, E. D., Bankert, A. Owls, Owls, Owls: a Midwest Trip Report. A Bird’s Eye View J-F, 1-2.
@@ -357,15 +362,23 @@ Guest speaker at local primary school to teach fundamentals of ecology and field
 
 `2005` Enbody, E. D. Sanderlings in Flight (photos). ABA Institute for Field Ornithology.
 
+`2004` Enbody, E. D. A Report on Camp Chiricahua. A Bird's Eye View. Sep-Oct, 4-5.
+
 `2004` Enbody, E. D. Sanderlings, Red Knot, and Willet (photos). A Bird's Eye View
 
 ## Interests and skills
 
 **Lifelong naturalist and birder** My interest in science was a natural progression from my lifelong passion for wildlife and birds in particular. I am a passionate field biologist and enjoy contributing to natural history knowledge, particularly through observations, photographs, and recordings to the citizen science platform [eBird profile](https://ebird.org/profile/NTIzOTc/world).
 
-**languages** English and intermediate skill in Spanish
+**Languages** English, Spanish (Intermediate), Swedish (Beginner)
 
-**Computer languages** Proficient in bash/unix, R, & python.
+**Programming** R (Advanced), bash/unix (Advanced), Python (Intermediate). 
+
+**Database** Filemaker
+
+**Version Control** GIT
+
+**Other Interests** Running my dog's [Instagram](https://www.instagram.com/halliewiththeblueeyes/), photography, skiing, sketching.
 
 <!-- ### Footer
 
