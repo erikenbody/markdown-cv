@@ -12,7 +12,7 @@ title: Erik Enbody CV
 <i class="fa fa-twitter"></i> <a href="https://twitter.com/erikenbody">@erikenbody</a>
 </div>
 
-## Interests
+## About Me
 
 Evolutionary biologist fascinated with biodiversity and the evolutionary processes that generate diversity in wild populations. My research leverages current technologies in genomic sequencing and behavioral ecology to study the mechanisms that maintain population and trait diveristy through natural, social, and sexual selection processess. These projects span a diverse group of organisms.
 
