@@ -171,7 +171,7 @@ Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Se
 **Enbody, E.D.**, S.M. Lantz, J. Karubian. Structural mechanisms of plumage ornament production are maintained within sexes and across sister species of tropical passerine birds. North American Ornithological Congress. Washington, D.C. USA.
 
 ## Poster Presentations 
-(^ = undergraduate student, \* = Papua New Guinea national & researcher)
+(^undergraduate student, \*Papua New Guinea national & researcher)
 
 `2018`
 **Enbody, E.D.**, Y.W. Sin, J. Boersma, H. Schwabl, M.S. Webster, S.V. Edwards, J. Karubian. The genomic architecture of female ornament evolution. Joint Congress on Evolutionary Biology. Montpellier, France. 
@@ -197,52 +197,37 @@ Rose, A.^, S.M. Lantz, **E.D. Enbody**, J. Karubian. How do feathers relevant to
 ## Fieldwork Experience
 
 `2019`
-Postdoctoral fieldwork
-Sweden, Ottenby Fågelstation
-Co-led team with Per Alström to collect blood samples for generating a new reference genome for White Wagtail (*Motacilla alba*)
+Postdoctoral fieldwork. Sweden, Ottenby Fågelstation: Co-led team with Per Alström to collect blood samples for generating a new reference genome for White Wagtail (*Motacilla alba*)
 
 `2013-17`
-Dissertation fieldwork
-Papua New Guinea (Milne Bay, Western, Madang, Highlands, Enga, and Morobe Provinces)
+Dissertation fieldwork: Papua New Guinea (Milne Bay, Western, Madang, Highlands, Enga, and Morobe Provinces)
 
 `2012/fa`	
-Banding intern at the Palomarin field station, Bolinas, California.
-Seasonal internship banding passerines at various locations in the Point Reyes National Seashore (480 birds processed).
+Banding intern at the Palomarin field station, Bolinas, California: Seasonal internship banding passerines at various locations in the Point Reyes National Seashore (480 birds processed).
 
 `2012`	
-Seasonal field biologist surveying grassland birds in North and South Dakota, Rocky Mountain Bird Observatory, Brighton, CO.
-Summer: Performed point counts and vegetation sampling in the Central Plains. Field work was conducted from remote regions. Interacted with private landowners for planning transects.
+Summer field biologist surveying grassland birds in North and South Dakota, Rocky Mountain Bird Observatory, Brighton, CO: Performed point counts and vegetation sampling in the Central Plains. Field work was conducted from remote regions. Interacted with private landowners for planning transects.
 
 `2011` 
-Thesis research and Flammulated Owl crew research assistant
-Developed and performed an independent research project on Red Squirrel predation of Flammulated Owls using artificial nests in natural cavities. Also assisted with spot mapping, nest searching, and banding of owls.
+Thesis research and Flammulated Owl crew research assistant: Developed and performed an independent research project on Red Squirrel predation of Flammulated Owls using artificial nests in natural cavities. Also assisted with spot mapping, nest searching, and banding of owls.
 
 `2011`
-Undergraduate research, Ecuador
-Conducted various class projects surveying birds, frogs, and butterflies in the Ecuadorian Amazon and Manabí Province. Designed playback experiment to test heterospecific responses between two sympatric antshrike species. 
+Undergraduate research, Ecuador: Conducted various class projects surveying birds, frogs, and butterflies in the Ecuadorian Amazon and Manabí Province. Designed playback experiment to test heterospecific responses between two sympatric antshrike species. 
 
 `2010`
-Summer: Vegetation Sampling Assistant, 
-U.S. Geological Survey, Elko, Nevada
+Vegetation Sampling Assistant (summer): U.S. Geological Survey, Elko, Nevada
 
 `2009/10`
-Avian Field Assistant, Central Nevada Mountains,High Desert Research Institute and John Muir Institute of the Environment, UC Davis
-Summers: performed bird and vegetation surveys in the mountains of Central Nevada for a long-term study of Great Basin bird communities. 
+Avian Field Assistant (summers), Central Nevada Mountains. High Desert Research Institute and John Muir Institute of the Environment, UC Davis: performed bird and vegetation surveys in the mountains of Central Nevada for a long-term study of Great Basin bird communities. 
 
 `2009`
-Volunteer Field Assistant, Monteverde, Costa Rica
-University of Washington
-Winter: Developed and implemented protocols for surveying birds and conducted vegetation surveys in reforested pasture lands.
+Volunteer Field Assistant (winter), Monteverde, Costa Rica. University of Washington: Developed and implemented protocols for surveying birds and conducted vegetation surveys in reforested pasture lands.
 
 `2008`
-Yellow-billed Cuckoo Field Assistant, Lake Havasu City, AZ
-Southern Sierra Research Station
-Summer: Conducted playback surveys, nest searching, and mist netting on the endangered western subspecies of the Yellow-billed Cuckoo along the Lower Colorado River.
+Yellow-billed Cuckoo Field Assistant (summer), Lake Havasu City, AZ. Southern Sierra Research Station: Conducted playback surveys, nest searching, and mist netting on the endangered western subspecies of the Yellow-billed Cuckoo along the Lower Colorado River.
 
 `2006-08`
-Research Assistant, East Lansing, MI 
-Bird Acoustics Research Lab, Michigan State University, MI, Dr. Stuart Gage
-Established ground truth for remote sensing of bird populations, conducted point- count surveys, and assisted in the development of automatic song recognition.
+Research Assistant, East Lansing, MI. Bird Acoustics Research Lab, Michigan State University, MI, Dr. Stuart Gage: Established ground truth for remote sensing of bird populations, conducted point- count surveys, and assisted in the development of automatic song recognition.
 
 ## Teaching & Mentoring Experience
 
@@ -267,72 +252,61 @@ Established ground truth for remote sensing of bird populations, conducted point
 ### Workshops
 
 `2018` 
-Differential Expression workshop
-Designed and implemented a short workshop to teach the fundamentals and methods for RNAseq data processing and differential expression analysis. Included as a part of the first Bioinformatics & Genomics Course taught at Tulane University. 
+Differential Expression workshop: Designed and implemented a short workshop to teach the fundamentals and methods for RNAseq data processing and differential expression analysis. Included as a part of the first Bioinformatics & Genomics Course taught at Tulane University. 
 
-`2016 - Jul-Aug` Summer Bioinformatics Workshop, Cofounder & instructor, Tulane University
-Focus on using python, R, and UNIX for analysis of RADseq datasets (eight participants).
+`2016 - Jul-Aug` Summer Bioinformatics Workshop, Cofounder & instructor, Tulane University: Focus on using python, R, and UNIX for analysis of RADseq datasets (eight participants).
 
 ### Student mentoring
 
 `2019` Navaneeth Menon - intern training in bioinformatics techniques for the study of wagtail evolution.
 
-`2015-17`	Hunter Rust – photospectroscopy techniques and bird song analysis
+`2015-17`	Hunter Rust – photospectroscopy techniques and bird song analysis.
 
 `2013-16`	Kent Gowan (recent graduate) – photospectroscopy techniques and DNA extraction (Enbody et. al. 2019).
 
-`2015`	Alexander Rose – photospectroscopy techniques and electron microscopy analyses
+`2015`	Alexander Rose – photospectroscopy techniques and electron microscopy analyses.
 
-`2014-15`	Miles Hegedus – photospectroscopy techniques
+`2014-15`	Miles Hegedus – photospectroscopy techniques.
 
-`2015-16`	Amelia Lormund – photospectroscopy techniques
+`2015-16`	Amelia Lormund – photospectroscopy techniques.
 
 `2015-16`	Zoe Albert – video based nest observation data collection (Enbody et. al. 2019).
 
-`2013-17`	Six international recent graduates in field data collection methods in New Guinea
+`2013-17`	Six international recent graduates in field data collection methods in New Guinea.
 
 ## Service, Outreach, and Training
 
 ### Service & Outreach
 
 `2016-18` 
-Volunteer bird bander with Louisiana Bird Observatory / Audubon Louisiana at Palmetto State Park
-Regular weekend volunteer at local bird banding station to assist with mist net set up and bird banding. 
+Volunteer bird bander with Louisiana Bird Observatory / Audubon Louisiana at Palmetto State Park: Regular weekend volunteer at local bird banding station to assist with mist net set up and bird banding. 
 
 `2016`		
-Girls in STEM, Tulane University, New Orleans, LA
-Module co-instructor for “A little birdie told me”. GIST is a long-term program aimed at introducing female elementary and middle school students to science and female scientists. 
+Girls in STEM, Tulane University, New Orleans, LA: Module co-instructor for “A little birdie told me”. GIST is a long-term program aimed at introducing female elementary and middle school students to science and female scientists. 
 
 `2015`	
-Linking Scholarship & Applied Research: Community-based Conservation & Development, Tulane University; Workshop participant and presenter.
+Linking Scholarship & Applied Research: Community-based Conservation & Development, Tulane University: Workshop participant and presenter.
 
 `2014,2015`	
-Environmental Fair,  Milne Bay Province, Papua New Guinea
-Co-organizer for community fair celebrating the environment to >500 students and members from surrounding communities. 
+Environmental Fair,  Milne Bay Province, Papua New Guinea: Co-organizer for community fair celebrating the environment to >500 students and members from surrounding communities. 
 
 `2014`
-Conservation training workshop, Milne Bay Province, Papua New Guinea
-Organizer and instructor for 20 leaders in local communities in conservation techniques
+Conservation training workshop, Milne Bay Province, Papua New Guinea: Organizer and instructor for 20 leaders in local communities in conservation techniques
 
 `2014-16`
-Community Symposium and Awareness, Garuahi, Porotona, and Obo, PNG
-Annual presentations with the goal of raising awareness about the environment, sustainable practices, and status updates on field research focal communities.
+Community Symposium and Awareness, Garuahi, Porotona, and Obo, PNG: Annual presentations with the goal of raising awareness about the environment, sustainable practices, and status updates on field research focal communities.
 
 `2014-17`
-Research scientist training, Garuahi, Porotona, and Obo, PNG
-Co-trained six local biologists in the techniques necessary to conduct field research. These individuals have become community leaders for environment outreach and work together to spread environmental awareness throughout the region
+Research scientist training, Garuahi, Porotona, and Obo, PNG: Co-trained six local biologists in the techniques necessary to conduct field research. These individuals have become community leaders for environment outreach and work together to spread environmental awareness throughout the region
 
 `2014`
-Garuahi Primary School Guest Teacher, Milne Bay Province, Papua New Guinea
-Guest speaker at local primary school to teach fundamentals of ecology and field biology
+Garuahi Primary School Guest Teacher, Milne Bay Province, Papua New Guinea: Guest speaker at local primary school to teach fundamentals of ecology and field biology
 
 `2014` 
-Porotona Primary School Guest Teacher, Milne Bay Province, Papua New Guinea
-Guest speaker at local primary school to teach fundamentals of ecology and field biology
+Porotona Primary School Guest Teacher, Milne Bay Province, Papua New Guinea: Guest speaker at local primary school to teach fundamentals of ecology and field biology
 
 `2013,16,17`
-Volunteer at Louisiana Rice & Rails festival
-Annual event focused on bringing together birdwatchers and rice farmers to further appreciate the rich cultural traditions of Southern Louisiana and monitor populations of Yellow Rails. Assisted with bird banding and co-led local birding tours. 
+Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing together birdwatchers and rice farmers to further appreciate the rich cultural traditions of Southern Louisiana and monitor populations of Yellow Rails. Assisted with bird banding and co-led local birding tours. 
 
 ### Specialized Training
 
@@ -364,7 +338,7 @@ Annual event focused on bringing together birdwatchers and rice farmers to furth
 
 `2004` Enbody, E. D. A Report on Camp Chiricahua. A Bird's Eye View. Sep-Oct, 4-5.
 
-`2004` Enbody, E. D. Sanderlings, Red Knot, and Willet (photos). A Bird's Eye View
+`2004` Enbody, E. D. Sanderlings, Red Knot, and Willet (photos). A Bird's Eye View.
 
 ## Interests and skills
 
