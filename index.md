@@ -352,8 +352,6 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 **Version Control** GIT
 
-**Other Interests** Running my dog's [Instagram](https://www.instagram.com/halliewiththeblueeyes/), photography, skiing, sketching.
-
 <!-- ### Footer
 
 Last updated: September 2019 -->
