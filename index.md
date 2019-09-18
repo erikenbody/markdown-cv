@@ -18,19 +18,19 @@ Evolutionary biologist fascinated with biodiversity and the evolutionary process
 
 ## Education
 
-`2013 - 2018`
+`2013-18`
 **Tulane University, New Orleans**
 
 - Ph.D. Ecology and Evolutionary Biology. Advisor: Dr. Jordan Karubian
 
-`2008 - 2012`
+`2008-12`
 **Colorado College, Colorado**
 
 - B.A. with Distinction in Biology. Advisor: Dr. Brian Linkhart
 
 ## Appointments
 
-`2018 -`
+`2018-`
 **Uppsala University, Sweden**
 
 - Postdoctoral Researcher in Bioinformatics with Dr. Leif Andersson
