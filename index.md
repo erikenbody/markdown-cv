@@ -250,21 +250,21 @@ Established ground truth for remote sensing of bird populations, conducted point
 
 ### Teaching assistant and guest lectures
 
-`2017 - spring` Ornithology, Guest Lecture – D. Henry, Tulane University
+`2017/fa` Ornithology, Guest Lecture – D. Henry, Tulane University
 
-`2017 - spring` Behavioral Ecology, Guest Lecture – D. Henry, Tulane University
+`2017/sp` Behavioral Ecology, Guest Lecture – D. Henry, Tulane University
 
-`2016 - fall`	Introduction to Plant Biology, TA – L.T. Martínez, Tulane University
+`2016/fa`	Introduction to Plant Biology, TA – L.T. Martínez, Tulane University
 
-`2016 - fall`	Global Environmental Change, TA – S. Doosey, Tulane University 
+`2016/fa`	Global Environmental Change, TA – S. Doosey, Tulane University 
 
-`2015 - fall`	Behavioral Ecology, TA – J. Karubian, Tulane University
+`2015/fa`	Behavioral Ecology, TA – J. Karubian, Tulane University
 
-`2015 - spring`	Experimental Animal Behavior, TA & Guest Lecture - J. Karubian, Tulane University
+`2015/sp`	Experimental Animal Behavior, TA & Guest Lecture - J. Karubian, Tulane University
 
-`2014 - sp/fa`	Plant and Human Affairs, TA – S. Darwin, Tulane University
+`2014/sp/fa`	Plant and Human Affairs, TA – S. Darwin, Tulane University
 
-`2013 - fall`	Diversity of Life, TA – D. Henry, Tulane University
+`2013/fa`	Diversity of Life, TA – D. Henry, Tulane University
 
 ### Workshops
 
@@ -279,19 +279,19 @@ Focus on using python, R, and UNIX for analysis of RADseq datasets (eight partic
 
 `2019` Navaneeth Menon - intern training in bioinformatics techniques for the study of wagtail evolution.
 
-`09/15-06/17`	Hunter Rust – photospectroscopy techniques and bird song analysis
+`2015-17`	Hunter Rust – photospectroscopy techniques and bird song analysis
 
-`10/13-09/16`	Kent Gowan (recent graduate) – photospectroscopy techniques and DNA extraction (Enbody et. al. 2019).
+`2013-16`	Kent Gowan (recent graduate) – photospectroscopy techniques and DNA extraction (Enbody et. al. 2019).
 
-`01/15-06/15`	Alexander Rose – photospectroscopy techniques and electron microscopy analyses
+`2015`	Alexander Rose – photospectroscopy techniques and electron microscopy analyses
 
-`03/14-04/15`	Miles Hegedus – photospectroscopy techniques
+`2014-15`	Miles Hegedus – photospectroscopy techniques
 
-`09/15-06/16`	Amelia Lormund – photospectroscopy techniques
+`2015-16`	Amelia Lormund – photospectroscopy techniques
 
-`09/15-06/16`	Zoe Albert – video based nest observation data collection (Enbody et. al. 2019).
+`2015-16`	Zoe Albert – video based nest observation data collection (Enbody et. al. 2019).
 
-`06/14-06/17`	Six international recent graduates in field data collection methods in New Guinea
+`2013-17`	Six international recent graduates in field data collection methods in New Guinea
 
 ## Service, Outreach, and Training
 
