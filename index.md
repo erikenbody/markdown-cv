@@ -209,9 +209,9 @@ Advisor: Dr. Jordan Karubian, Tulane University
 Banding intern at the Palomarin field station, Bolinas, California.
 Seasonal internship banding passerines at various locations in the Point Reyes National Seashore (480 birds processed).
 
-`2012 - summer`	
+`2012`	
 Seasonal field biologist surveying grassland birds in North and South Dakota, Rocky Mountain Bird Observatory, Brighton, CO.
-Performed point counts and vegetation sampling in the Central Plains. Field work was conducted from remote regions. Interacted with private landowners for planning transects.
+Summer: Performed point counts and vegetation sampling in the Central Plains. Field work was conducted from remote regions. Interacted with private landowners for planning transects.
 
 `2011` 
 Thesis research and Flammulated Owl crew research assistant
@@ -223,23 +223,23 @@ Developed and performed an independent research project on Red Squirrel predatio
 Undergraduate research, Ecuador
 Conducted various class projects surveying birds, frogs, and butterflies in the Ecuadorian Amazon and Manabí Province. Designed playback experiment to test heterospecific responses between two sympatric antshrike species. 
 
-`2009/10 - summer`
+`2009/10`
 Avian Field Assistant, Central Nevada Mountains,High Desert Research Institute and John Muir Institute of the Environment, UC Davis
 Summers: performed bird and vegetation surveys in the mountains of Central Nevada for a long-term study of Great Basin bird communities. 
 
-`2010 - summer`
-Vegetation Sampling Assistant, 
+`2010`
+Summer: Vegetation Sampling Assistant, 
 U.S. Geological Survey, Elko, Nevada
 
-`2009 - winter`
+`2009`
 Volunteer Field Assistant, Monteverde, Costa Rica
 University of Washington
-Developed and implemented protocols for surveying birds and conducted vegetation surveys in reforested pasture lands.
+Winter: Developed and implemented protocols for surveying birds and conducted vegetation surveys in reforested pasture lands.
 
-`2008 - summer`
+`2008`
 Yellow-billed Cuckoo Field Assistant, Lake Havasu City, AZ
 Southern Sierra Research Station
-Conducted playback surveys, nest searching, and mist netting on the endangered western subspecies of the Yellow-billed Cuckoo along the Lower Colorado River.
+Summer: Conducted playback surveys, nest searching, and mist netting on the endangered western subspecies of the Yellow-billed Cuckoo along the Lower Colorado River.
 
 `2006-08`
 Research Assistant, East Lansing, MI 
