@@ -236,6 +236,9 @@ Yellow-billed Cuckoo Field Assistant (summer), Lake Havasu City, AZ. Southern Si
 `2006-08`
 Research Assistant, East Lansing, MI. Bird Acoustics Research Lab, Michigan State University, MI, Dr. Stuart Gage: Established ground truth for remote sensing of bird populations, conducted point- count surveys, and assisted in the development of automatic song recognition.
 
+
+
+
 ## Teaching & Mentoring Experience
 
 ### Teaching assistant and guest lectures
