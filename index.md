@@ -28,7 +28,7 @@ Dissertation: "Evolution of female ornamentation in the White-shouldered Fairywr
 **Colorado College, Colorado**
 
 B.A. with Distinction in Biology. Advisor: Dr. Brian Linkhart
-Thesis: “Factors affecting the predation of avian nest cavities by Red Squirrels (Tamiasciurus hudsonicus)”
+Thesis: “Factors affecting the predation of avian nest cavities by Red Squirrels (*Tamiasciurus hudsonicus*)”
 
 ## Appointments
 
@@ -49,7 +49,7 @@ Javůrková, V.G., **E.D. Enbody**, J. Kreisinger, K. Chmel, J. Mrázek, Jordan 
 Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvord, L. Laikre, G. Kleinau, P. Scheerer, L. Andersson. 2019. Recurrent convergent evolution at amino acid residue 261 in fish rhodopsin. [Proceedings of the National Academy of Sciences. 116(37): 18473-18478](https://www.pnas.org/content/116/37/18473). Press: [PNAS In This Issue](https://www.pnas.org/content/116/37/18149),  [Science Daily](https://www.sciencedaily.com/releases/2019/08/190826153632.html), [phys.org](https://phys.org/news/2019-08-herring-environment-baltic-sea.html), [Sveriges Radio](https://sverigesradio.se/sida/artikel.aspx?programid=105&artikel=7287645).
 
 `2019`
-**Enbody, E.D.**, J. Boersma, J. A. Jones, M. W. H. Chatfield, S. Ketaloya \*, D. Nason \*, D. T. Baldassarre, J. Hazlehurst, O. Gowen, H. Schwabl, J. Karubian. 2019. Social organization and breeding biology of the White-shouldered Fairywren *Malurus alboscapulatus*. [Emu: Austral Ornithology](https://www.tandfonline.com/doi/full/10.1080/01584197.2019.1595663). (invited contribution & cover photo).
+**Enbody, E.D.**, J. Boersma, J. A. Jones, M. W. H. Chatfield, S. Ketaloya \*, D. Nason \*, D. T. Baldassarre, J. Hazlehurst, O. Gowen, H. Schwabl, J. Karubian. 2019. Social organization and breeding biology of the White-shouldered Fairywren *Malurus alboscapulatus*. [Emu: Austral Ornithology. 19(3): 274-285. Special issue: Ornithology of New Guinea and the Indo-Pacific Islands](https://www.tandfonline.com/doi/full/10.1080/01584197.2019.1595663). (invited contribution & cover photo).
 
 `2018`
 **Enbody, E.D.**, J. Boersma, H. Schwabl, J. Karubian. 2018. Female ornamentation is associated with elevated aggression and testosterone in a tropical songbird. [Behavioral Ecology. 29(5): 1056–1066](https://academic.oup.com/beheco/article/29/5/1056/5026290).
@@ -115,13 +115,16 @@ American Ornithological Society Council Best Student Presentation Award
 
 `2018`
 The George Henry Penn Award
-Best Dissertation, Dept. of Ecology & Evolutionary Biology, Tulane University.
+Best Dissertation, Department of Ecology & Evolutionary Biology, Tulane University.
 
 `2012`
 Richard G. and Reba Beidleman Award in Ecology
 “Awarded to a Colorado College student demonstrating outstanding potential for becoming a professional ecologist and/or field biologist.”
 
 ## Invited Seminars & Visiting Lectures
+
+`2019`
+Detecting selection in the past and present. Department of Biological Sciences, University of Cyprus, Nicosia, Cyprus. Invited speaker for the Departmental Postgraduate Seminars series.
 
 `2018`
 Genetic, transcriptional, and endocrine factors drive evolutionary transitions in female ornamentation. Department of Biological and Environmental Sciences Seminar Series, University of Gothenburg, Gothenburg, Sweden. Invited lecture.
@@ -139,6 +142,10 @@ Genetic, transcriptional, and endocrine factors drive evolutionary transitions i
 Female Ornamentation in the White-shouldered Fairywren. Guest lecture at Binatang Research Center, Madang Province, Papua New Guinea.
 
 ## Conference Presentations
+
+
+`2019`
+**Enbody, E.D.** Evolutionary genomics looking forward: the importance of natural history knowledge. Department of Medical Biochemistry and Microbiology, IMBIM Days "The Scientific Frontiers", Marholmen, Sweden.
 
 `2019`
 **Enbody, E.D.**, C. J. Rubin, M. Carneiro, L. Andersson. Structural variants in a haplotype-resolved hybrid rabbit genome. The 2019 Congress of the European Society for Evolutionary Biology. Turku, Finland.
@@ -320,9 +327,13 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 `2009`		National Outdoor Leadership School, Baja California – January
 
-## Popular Press Articles
+## Popular Press Articles & Photographs
 
-`2015` Enbody, E.D. Photos (x3) in Bird Families of the World, eds. Winkler, D.W., Billerman, S. M., Lovette, I.J. (Lynx Editions). 
+`2019` Photo of duetting White-shouldered Fairywrens selected for cover of special issue on New Guinea ornithology. Emu - Austral Ornithology (19), 2019.
+
+`2019` Photos (x2) in Multiple components of feather microstructure contribute to structural plumage colour diversity in fairy-wrens, Fan et al. 2019, Biological Journal of the Linnean Society. 
+
+`2015` Photos (x3) in Bird Families of the World, eds. Winkler, D.W., Billerman, S. M., Lovette, I.J. (Lynx Editions). 
 
 `2008` Enbody, E. D. Birding Hot Spots. Birder’s World 22(1), 46.
 
