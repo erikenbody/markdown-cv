@@ -294,8 +294,8 @@ Girls in STEM, Tulane University, New Orleans, LA: Module co-instructor for “A
 `2015`	
 Linking Scholarship & Applied Research: Community-based Conservation & Development, Tulane University: Workshop participant and presenter.
 
-`2014,2015`	
-Environmental Fair,  Milne Bay Province, Papua New Guinea: Co-organizer for community fair celebrating the environment to >500 students and members from surrounding communities. 
+`2014-15`	
+Annual Environmental Fair,  Milne Bay Province, Papua New Guinea: Co-organizer for community fair celebrating the environment to >500 students and members from surrounding communities. 
 
 `2014`
 Conservation training workshop, Milne Bay Province, Papua New Guinea: Organizer and instructor for 20 leaders in local communities in conservation techniques
@@ -312,8 +312,8 @@ Garuahi Primary School Guest Teacher, Milne Bay Province, Papua New Guinea: Gues
 `2014` 
 Porotona Primary School Guest Teacher, Milne Bay Province, Papua New Guinea: Guest speaker at local primary school to teach fundamentals of ecology and field biology
 
-`2013,16,17`
-Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing together birdwatchers and rice farmers to further appreciate the rich cultural traditions of Southern Louisiana and monitor populations of Yellow Rails. Assisted with bird banding and co-led local birding tours. 
+`2013-17`
+Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing together birdwatchers and rice farmers to further appreciate the rich cultural traditions of Southern Louisiana and monitor populations of Yellow Rails. Assisted with bird banding and co-led local birding tours (2013, 2016, 2017).
 
 ### Specialized Training
 
