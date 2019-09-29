@@ -252,7 +252,7 @@ Research Assistant, East Lansing, MI. Bird Acoustics Research Lab, Michigan Stat
 
 `2015/sp`	Experimental Animal Behavior, TA & Guest Lecture - J. Karubian, Tulane University
 
-`2014/sp/fa`	Plant and Human Affairs, TA – S. Darwin, Tulane University
+`2014/s/f`	Plant and Human Affairs, TA – S. Darwin, Tulane University
 
 `2013/fa`	Diversity of Life, TA – D. Henry, Tulane University
 
@@ -261,7 +261,7 @@ Research Assistant, East Lansing, MI. Bird Acoustics Research Lab, Michigan Stat
 `2018` 
 Differential Expression workshop: Designed and implemented a short workshop to teach the fundamentals and methods for RNAseq data processing and differential expression analysis. Included as a part of the first Bioinformatics & Genomics Course taught at Tulane University. 
 
-`2016 - Jul-Aug` Summer Bioinformatics Workshop, Cofounder & instructor, Tulane University: Focus on using python, R, and UNIX for analysis of RADseq datasets (eight participants).
+`2016/su` Summer Bioinformatics Workshop, Cofounder & instructor, Tulane University: Focus on using python, R, and UNIX for analysis of RADseq datasets (eight participants).
 
 ### Student mentoring
 
