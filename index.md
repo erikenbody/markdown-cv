@@ -283,6 +283,12 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 ## Service, Outreach, and Training
 
+### Manuscript reviews
+
+		
+Behavioral Ecology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
+
+
 ### Service & Outreach
 
 `2016-18` 
