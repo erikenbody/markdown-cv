@@ -209,6 +209,9 @@ Postdoctoral fieldwork. Sweden, Ottenby Fågelstation: Co-led team with Per Alst
 `2013-17`
 Dissertation fieldwork: Papua New Guinea (Milne Bay, Western, Madang, Highlands, Enga, and Morobe Provinces)
 
+`2013/su`
+Research assistant Red-backed Fairywren behavioral ecology study, Batchelor, Northern Territory. 
+
 `2012/fa`	
 Banding intern at the Palomarin field station, Bolinas, California: Seasonal internship banding passerines at various locations in the Point Reyes National Seashore (480 birds processed).
 
