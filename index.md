@@ -16,6 +16,13 @@ title: Erik Enbody CV
 
 Evolutionary biologist fascinated with biodiversity and the evolutionary processes that generate diversity in wild populations. My research leverages current technologies in genomic sequencing and field ecology to study the mechanisms that maintain population and trait diveristy through natural, social, and sexual selection processess. These projects span a diverse group of organisms. 
 
+## Appointments
+
+`2018-`
+**Uppsala University, Sweden**
+
+- **Current**: Postdoctoral Researcher in Genomics & Bioinformatics with Dr. Leif Andersson
+
 ## Education
 
 `2013-18`
@@ -29,13 +36,6 @@ Dissertation: "Evolution of female ornamentation in the White-shouldered Fairywr
 
 B.A. with Distinction in Biology. Advisor: Dr. Brian Linkhart
 Thesis: “Factors affecting the predation of avian nest cavities by Red Squirrels (*Tamiasciurus hudsonicus*)”
-
-## Appointments
-
-`2018-`
-**Uppsala University, Sweden**
-
-- Postdoctoral Researcher in Genomics & Bioinformatics with Dr. Leif Andersson
 
 ## Publications
 
