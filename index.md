@@ -21,7 +21,7 @@ Evolutionary biologist fascinated with biodiversity and the evolutionary process
 `2018-`
 **Uppsala University, Sweden**
 
-- **Current**: Postdoctoral Researcher in Genomics & Bioinformatics with Dr. Leif Andersson
+- **Current**: Postdoctoral Researcher in Genomics & Bioinformatics with Dr. Leif Andersson. Department of Medical Biochemistry and Microbiology.
 
 ## Education
 
