@@ -266,13 +266,13 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 `2016/su` Summer Bioinformatics Workshop, Cofounder & instructor, Tulane University: Focus on using python, R, and UNIX for analysis of RADseq datasets (eight participants).
 
-### Student mentoring
+### Mentoring
 
 `2019` Navaneeth Menon - intern training in bioinformatics techniques for the study of wagtail evolution.
 
 `2015-17`	Hunter Rust – photospectroscopy techniques and bird song analysis.
 
-`2013-16`	Kent Gowan (recent graduate) – photospectroscopy techniques and DNA extraction (Enbody et. al. 2019).
+`2013-16`	Olivia Gowan – photospectroscopy techniques and DNA extraction (Enbody et. al. 2019).
 
 `2015`	Alexander Rose – photospectroscopy techniques and electron microscopy analyses.
 
