@@ -28,13 +28,13 @@ Evolutionary biologist fascinated with biodiversity and the evolutionary process
 `2013-18`
 **Tulane University, New Orleans**
 
-Ph.D. Ecology and Evolutionary Biology. Advisor: Dr. Jordan Karubian
+Ph.D. Ecology and Evolutionary Biology. Advisor: Dr. Jordan Karubian. 
 Dissertation: "Evolution of female ornamentation in the White-shouldered Fairywren (*Malurus alboscapulatus*)"
 
 `2008-12`
 **Colorado College, Colorado**
 
-B.A. with Distinction in Biology. Advisor: Dr. Brian Linkhart
+B.A. with Distinction in Biology. Advisor: Dr. Brian Linkhart.
 Thesis: “Factors affecting the predation of avian nest cavities by Red Squirrels (*Tamiasciurus hudsonicus*)”
 
 ## Publications
@@ -187,7 +187,7 @@ Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Se
 Jones, J.A., J. Boersma, **E.D. Enbody**, J. Karubian. Ecological determinants of phenotypic divergence in female coloration of Papua fairywrens. American Ornithological Society and Society of Canadian Ornithologists. East Lansing, MI. USA.
 
 `2017`
-Boersma, J., Enbody, E.D., J. Jones, J. Karubian, H. Schwabl. Androgens and the evolution of male and multiple female phenotypes in a tropical passerine. Society for Integrative and Comparative Biology. New Orleans, LA. USA.
+Boersma, J., **Enbody, E.D.**, J. Jones, J. Karubian, H. Schwabl. Androgens and the evolution of male and multiple female phenotypes in a tropical passerine. Society for Integrative and Comparative Biology. New Orleans, LA. USA.
 
 `2017`
 Jones, J.A., J. Boersma, **E.D. Enbody**, J. Karubian. Ecological determinants of phenotypic divergence in female coloration of Papua fairywrens. Society for Integrative and Comparative Biology. New Orleans, LA. USA.
