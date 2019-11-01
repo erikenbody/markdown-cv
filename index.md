@@ -14,7 +14,7 @@ title: Erik Enbody CV
 
 ## About Me
 
-Evolutionary biologist fascinated with biodiversity and the evolutionary processes that generate diversity in wild populations. My research leverages current technologies in genomic sequencing and field ecology to study the mechanisms that maintain population and trait diveristy through natural, social, and sexual selection processess. These projects span a diverse group of organisms. 
+Evolutionary biologist fascinated with biodiversity and the evolutionary processes that generate diversity in wild populations. My research leverages current technologies in genomic sequencing and field ecology to study the mechanisms that maintain population and trait diversity through natural, social, and sexual selection processes. These projects span a diverse group of organisms. 
 
 ## Appointments
 
@@ -280,7 +280,7 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 `2015-16`	Amelia Lormund – photospectroscopy techniques.
 
-`2015-16`	Zoe Albert – video based nest observation data collection (Enbody et. al. 2019).
+`2015-16`	Zoe Albert – video-based nest observation data collection (Enbody et. al. 2019).
 
 `2013-17`	Six international recent graduates in field data collection methods in New Guinea.
 
@@ -304,7 +304,7 @@ Girls in STEM, Tulane University, New Orleans, LA: Module co-instructor for “A
 Workshop on Engaged Scholarly Research: Bridging the Natural Sciences and Community-based Conservation, Tulane University: Workshop participant and presenter.
 
 `2014-15`	
-Annual Environmental Fair,  Milne Bay Province, Papua New Guinea: Co-organizer for community fair celebrating the environment to >500 students and members from surrounding communities. 
+Annual Environmental Fair, Milne Bay Province, Papua New Guinea: Co-organizer for community fair celebrating the environment to >500 students and members from surrounding communities. 
 
 `2014`
 Conservation training workshop, Milne Bay Province, Papua New Guinea: Organizer and instructor for 20 leaders in local communities in conservation techniques
