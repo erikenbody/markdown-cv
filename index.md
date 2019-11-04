@@ -270,6 +270,8 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 `2019` Navaneeth Menon - intern training in bioinformatics techniques for the study of wagtail evolution.
 
+`2019` Fahime Mohamadnejad - Visiting Ph.D. student in animal genomics, training in fundamentals of bioinformatics.
+
 `2015-17`	Hunter Rust – photospectroscopy techniques and bird song analysis.
 
 `2013-16`	Olivia Gowan – photospectroscopy techniques and DNA extraction (Enbody et. al. 2019).
