@@ -315,7 +315,8 @@ Conservation training workshop, Milne Bay Province, Papua New Guinea: Organizer 
 Community Symposium and Awareness, Garuahi, Porotona, and Obo, PNG: Annual presentations with the goal of raising awareness about the environment, sustainable practices, and status updates on field research focal communities.
 
 `2014-17`
-Research scientist training, Garuahi, Porotona, and Obo, PNG: Co-trained six local biologists in the techniques necessary to conduct field research. These individuals have become community leaders for environment outreach and work together to spread environmental awareness throughout the region
+Research scientist training, Garuahi, Porotona, and Obo, PNG: Co-trained six local biologists in the techniques necessary to conduct field research. These individuals have become community leaders for environment outreach and work together to spread environmental awareness throughout the region. Watch a video about our work here: https://youtu.be/aFrmmB0-CbY
+
 
 `2014`
 Garuahi Primary School Guest Teacher, Milne Bay Province, Papua New Guinea: Guest speaker at local primary school to teach fundamentals of ecology and field biology
