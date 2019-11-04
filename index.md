@@ -339,9 +339,9 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 `2009`		National Outdoor Leadership School, Baja California – January
 
 ### Professional memberships
-* American Ornithological Society
-* Society for the Study of Evolution
-* European Society for Evolutionary Biology
+`2014-20` American Ornithological Society
+`2014-20` Society for the Study of Evolution
+`2019-20` European Society for Evolutionary Biology
 
 ## Popular Press Articles & Photographs
 
