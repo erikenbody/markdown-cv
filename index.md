@@ -338,6 +338,11 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 `2009`		National Outdoor Leadership School, Baja California – January
 
+### Professional memberships
+* American Ornithological Society
+* Society for the Study of Evolution
+* European Society for Evolutionary Biology
+
 ## Popular Press Articles & Photographs
 
 `2019` Photo of duetting White-shouldered Fairywrens selected for cover of special issue on New Guinea ornithology. Emu - Austral Ornithology (19), 2019.
