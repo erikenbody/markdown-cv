@@ -19,20 +19,20 @@ Evolutionary biologist fascinated with biodiversity and the evolutionary process
 ## Appointments
 
 `2018-`
-**Uppsala University, Sweden**
+**Uppsala University, Uppsala, Sweden**
 
-- **Current**: Postdoctoral Researcher in Genomics & Bioinformatics with Dr. Leif Andersson. Department of Medical Biochemistry and Microbiology.
+**Current**: Postdoctoral Researcher in Genomics & Bioinformatics with Dr. Leif Andersson. Department of Medical Biochemistry and Microbiology.
 
 ## Education
 
 `2013-18`
-**Tulane University, New Orleans**
+**Tulane University, New Orleans, Louisiana**
 
 Ph.D. Ecology and Evolutionary Biology. Advisor: Dr. Jordan Karubian.
 Dissertation: "Evolution of female ornamentation in the White-shouldered Fairywren (*Malurus alboscapulatus*)"
 
 `2008-12`
-**Colorado College, Colorado**
+**Colorado College, Colorado College, Colorado**
 
 B.A. with Distinction in Biology. Advisor: Dr. Brian Linkhart.
 Thesis: “Factors affecting the predation of avian nest cavities by Red Squirrels (*Tamiasciurus hudsonicus*)”
