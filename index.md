@@ -64,7 +64,7 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 **Enbody, E.D**, Sin, S.Y.W., Boersma, J., Schwabl, H., Edwards, S.V., Webster, M.S., Karubian, J. *in prep*. Genomic and transcriptional evidence for selection on female ornamentation.
 
-Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, J. Karubian, H. Schwabl. *in prep*. Exogenous testosterone induces partial ornamentation which enhances vocal aggression in a female tropical songbird.
+Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, J. Karubian, H. Schwabl. *in review*. Exogenous testosterone induces partial ornamentation which enhances vocal aggression in a female tropical songbird.
 
 ## Grants and Honors
 
@@ -122,6 +122,12 @@ Richard G. and Reba Beidleman Award in Ecology
 “Awarded to a Colorado College student demonstrating outstanding potential for becoming a professional ecologist and/or field biologist.”
 
 ## Invited Seminars & Visiting Lectures
+
+`2020`
+Evolution of color in Darwin's Finches and *Motacilla* Wagtails. Department of Medical Biochemistry and Microbiology, Comparative genetics and Functional Genomics Seminar Series, Uppsala University, Uppsala, Sweden.
+
+`2020`
+Evolutionary genomics in wild populations: examples from adaptive radiations in birds and visual adaptation in Baltic herring. Invited seminar speaker for the Systematic Biology Program at Uppsala University, Sweden.
 
 `2019`
 Recurrent convergent evolution at amino acid residue 261 in fish rhodopsin.  Science and SciLifeLab Prize, Karolinska Institutet, Solna, Sweden. Presentation of the 2019 SciLifeLab's Highlight in Ecology and Environment.
