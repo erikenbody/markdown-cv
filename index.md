@@ -42,6 +42,9 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher)
 
+`2020`
+Grant, P.R., R. Grant, **E.D. Enbody**, S. Lamichhaney, L. Andersson. 2020. Darwin’s finches, an iconic adaptive radiation. eLS. *in press*
+
 `2019`
 Javůrková, V.G., **E.D. Enbody**, J. Kreisinger, K. Chmel, J. Mrázek, Jordan Karubian. 2019. Plumage iridescence is associated with distinct feather microbiota in a tropical passerine. [Scientific Reports (12921)](https://www.nature.com/articles/s41598-019-49220-y).
 
@@ -251,6 +254,8 @@ Research Assistant, East Lansing, MI. Bird Acoustics Research Lab, Michigan Stat
 ## Teaching & Mentoring Experience
 
 ### Teaching assistant and guest lectures
+
+`2020/sp` Bioinformatics, Laboratory instructor - Uppsala University
 
 `2017/fa` Ornithology, Guest Lecture – D. Henry, Tulane University
 
