@@ -32,7 +32,7 @@ Ph.D. Ecology and Evolutionary Biology. Advisor: Dr. Jordan Karubian.
 Dissertation: "Evolution of female ornamentation in the White-shouldered Fairywren (*Malurus alboscapulatus*)"
 
 `2008-12`
-**Colorado College, Colorado College, Colorado**
+**Colorado College, Colorado Springs, Colorado**
 
 B.A. with Distinction in Biology. Advisor: Dr. Brian Linkhart.
 Thesis: “Factors affecting the predation of avian nest cavities by Red Squirrels (*Tamiasciurus hudsonicus*)”
@@ -41,6 +41,7 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher)
+
 
 `2020`
 Grant, P.R., R. Grant, **E.D. Enbody**, S. Lamichhaney, L. Andersson. 2020. Darwin’s finches, an iconic adaptive radiation. eLS. *in press*
@@ -63,11 +64,24 @@ Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvo
 `2017`
 Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Colombelli-Négrel, **E.D. Enbody**, K. Gielow, M. L. Hall, A. E. Johnson, J. Karubian, S. A. Kingma, S. Kleindorfer, M. Louter, R.A. Mulder, A. Peters, S. Pruett-Jones, K. A. Tarvin, D.J. Thrasher, C.W. Varian-Ramos, M.S. Webster, A. Cockburn. 2017. Multiple hypotheses explain variation in extra-pair paternity at different levels in a highly variable avian family. [Molecular Ecology. 26:6717–6729](http://onlinelibrary.wiley.com/doi/10.1111/mec.14385/full).
 
+### Manuscripts under review
+
+`.`
+Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. *in review*. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens.
+
+`.`
+Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, J. Karubian, H. Schwabl. *in review*. Exogenous testosterone induces partial ornamentation which enhances vocal aggression in a female tropical songbird.
+
+`.`
+Liu, H., C. Chen, M. Lv, N. Liu, Y. Hu, H. Zhang, **E. D. Enbody**, Z. Gao, L. Andersson, W. Wang. *in review* Comparative genomic analysis reveals ecological adaptation of teleost olfactory receptor repertoires.
+
 ### Manuscripts in preparation
 
-**Enbody, E.D**, Sin, S.Y.W., Boersma, J., Schwabl, H., Edwards, S.V., Webster, M.S., Karubian, J. *in prep*. Genomic and transcriptional evidence for selection on female ornamentation.
+`.`
+**Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *in prep*. Genomic and transcriptional evidence for selection on female ornamentation.
 
-Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, J. Karubian, H. Schwabl. *in review*. Exogenous testosterone induces partial ornamentation which enhances vocal aggression in a female tropical songbird.
+`.`
+Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. *in prep*. Anthropogenic hybridization and asymmetric introgression reveal the genetic architecture of a plumage trait.
 
 ## Grants and Honors
 
@@ -127,7 +141,7 @@ Richard G. and Reba Beidleman Award in Ecology
 ## Invited Seminars & Visiting Lectures
 
 `2020`
-Evolution of color in Darwin's Finches and *Motacilla* Wagtails. Department of Medical Biochemistry and Microbiology, Comparative genetics and Functional Genomics Seminar Series, Uppsala University, Uppsala, Sweden.
+Evolution of color in Darwin's Finches and *Motacilla* Wagtails. Department of Medical Biochemistry and Microbiology, Comparative Genetics and Functional Genomics Seminar Series, Uppsala University, Uppsala, Sweden.
 
 `2020`
 Evolutionary genomics in wild populations: examples from adaptive radiations in birds and visual adaptation in Baltic herring. Invited seminar speaker for the Systematic Biology Program at Uppsala University, Sweden.
@@ -142,7 +156,7 @@ Detecting selection in the past and present. Department of Biological Sciences, 
 Genetic, transcriptional, and endocrine factors drive evolutionary transitions in female ornamentation. Department of Biological and Environmental Sciences Seminar Series, University of Gothenburg, Gothenburg, Sweden. Invited lecture.
 
 `2018`
-Genetic, transcriptional, and endocrine factors drive evolutionary transitions in female ornamentation. Department of Medical Biochemistry and Microbiology, Comparative genetics and Functional Genomics Seminar Series, Uppsala University, Uppsala, Sweden.
+Genetic, transcriptional, and endocrine factors drive evolutionary transitions in female ornamentation. Department of Medical Biochemistry and Microbiology, Comparative Genetics and Functional Genomics Seminar Series, Uppsala University, Uppsala, Sweden.
 
 `2018`
 Evolution of female ornamentation in the White-shouldered Fairywren (*Malurus alboscapulatus*). School of Biological Sciences course in Behavioral Ecology guest lecture (via Skype), Hong Kong University.
@@ -155,6 +169,8 @@ Female Ornamentation in the White-shouldered Fairywren. Guest lecture at Binatan
 
 ## Conference Presentations
 
+`2020`
+**Enbody, E.D.**, P. R. Grant, B. R. Grant, C. G. Sprehn, A. Abzhanov, M. Dobreva, O. Osborne, C. Wang, L. Andersson. Genetic Basis and Long-Term Dynamics of a Color Polymorphism in Darwin's Finches. North American Ornithological Congress, virtual conference. 
 
 `2019`
 **Enbody, E.D.** Evolutionary genomics looking forward: the importance of natural history knowledge. Department of Medical Biochemistry and Microbiology, IMBIM Days "The Scientific Frontiers", Marholmen, Sweden.
@@ -249,7 +265,7 @@ Volunteer Field Assistant (winter), Monteverde, Costa Rica. University of Washin
 Yellow-billed Cuckoo Field Assistant (summer), Lake Havasu City, AZ. Southern Sierra Research Station: Conducted playback surveys, nest searching, and mist netting on the endangered western subspecies of the Yellow-billed Cuckoo along the Lower Colorado River.
 
 `2006-08`
-Research Assistant, East Lansing, MI. Bird Acoustics Research Lab, Michigan State University, MI, Dr. Stuart Gage: Established ground truth for remote sensing of bird populations, conducted point- count surveys, and assisted in the development of automatic song recognition.
+Research Assistant, East Lansing, MI. Bird Acoustics Research Lab, Michigan State University, MI, Dr. Stuart Gage: Established ground truth for remote sensing of bird populations, conducted point-count surveys, and assisted in the development of automatic song recognition.
 
 ## Teaching & Mentoring Experience
 
@@ -282,13 +298,15 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 ### Mentoring
 
-`2019` Navaneeth Menon - intern training in bioinformatics techniques for the study of wagtail evolution.
+`2019-` Navaneeth Menon - intern training in bioinformatics techniques for the study of wagtail evolution.
 
 `2019` Fahime Mohamadnejad - Visiting Ph.D. student in animal genomics, training in fundamentals of bioinformatics.
 
+`2017-` Sarah Khalil - Ph.D. student in fundamentals of bioinformatics
+
 `2015-17`	Hunter Rust – photospectroscopy techniques and bird song analysis.
 
-`2013-16`	Olivia Gowan – photospectroscopy techniques and DNA extraction (Enbody et. al. 2019).
+`2013-16`	Olivia Gowan – photospectroscopy techniques and DNA extraction.
 
 `2015`	Alexander Rose – photospectroscopy techniques and electron microscopy analyses.
 
@@ -296,7 +314,7 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 `2015-16`	Amelia Lormund – photospectroscopy techniques.
 
-`2015-16`	Zoe Albert – video-based nest observation data collection (Enbody et. al. 2019).
+`2015-16`	Zoe Albert – video-based nest observation data collection.
 
 `2013-17`	Six international recent graduates in field data collection methods in New Guinea.
 
@@ -305,7 +323,7 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 ### Manuscript reviews
 
 
-Behavioral Ecology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
+Behavioral Ecology (1), Behavioral Ecology and Sociobiology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
 
 
 ### Service & Outreach
@@ -330,7 +348,6 @@ Community Symposium and Awareness, Garuahi, Porotona, and Obo, PNG: Annual prese
 
 `2014-17`
 Research scientist training, Garuahi, Porotona, and Obo, PNG: Co-trained six local biologists in the techniques necessary to conduct field research. These individuals have become community leaders for environment outreach and work together to spread environmental awareness throughout the region. Watch a video about our work here: https://youtu.be/aFrmmB0-CbY
-
 
 `2014`
 Garuahi Primary School Guest Teacher, Milne Bay Province, Papua New Guinea: Guest speaker at local primary school to teach fundamentals of ecology and field biology
@@ -363,6 +380,8 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 ## Popular Press Articles & Photographs
 
+``2019`` Press for Recurrent convergent evolution at amino acid residue 261 in fish rhodopsin. [PNAS In This Issue](https://www.pnas.org/content/116/37/18149),  [Science Daily](https://www.sciencedaily.com/releases/2019/08/190826153632.html), [phys.org](https://phys.org/news/2019-08-herring-environment-baltic-sea.html), [Sveriges Radio](https://sverigesradio.se/sida/artikel.aspx?programid=105&artikel=7287645).
+
 `2019` Photo of duetting White-shouldered Fairywrens selected for cover of special issue on New Guinea ornithology. Emu - Austral Ornithology (19), 2019.
 
 `2019` Photos (x2) in Multiple components of feather microstructure contribute to structural plumage colour diversity in fairy-wrens, Fan et al. 2019, Biological Journal of the Linnean Society.
@@ -393,7 +412,7 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 **Programming** R (Advanced), bash/unix (Advanced), Python (Intermediate).
 
-**Database** Filemaker
+**Database** Filemaker, FreezerPro
 
 **Version Control** GIT
 
