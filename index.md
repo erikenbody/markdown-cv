@@ -170,7 +170,10 @@ Female Ornamentation in the White-shouldered Fairywren. Guest lecture at Binatan
 ## Conference Presentations
 
 `2020`
-**Enbody, E.D.**, P. R. Grant, B. R. Grant, C. G. Sprehn, A. Abzhanov, M. Dobreva, O. Osborne, C. Wang, L. Andersson. Genetic Basis and Long-Term Dynamics of a Color Polymorphism in Darwin's Finches. North American Ornithological Congress, virtual conference. 
+**Enbody, E.D.**, P. R. Grant, B. R. Grant, C. G. Sprehn, A. Abzhanov, M. Dobreva, O. Osborne, C. Wang, L. Andersson. Genetic Basis and Long-Term Dynamics of a Color Polymorphism in Darwin's Finches. Invited symposium "Studies of avian radiations in the 21st century", North American Ornithological Congress, virtual conference.
+
+`2020`
+**Enbody, E.D.**, P. Alström, N. Menon, T. Van der Valk, R. Harris, Y. Liu, F. Lei, L. Andersson. Evolutionary genomics of a widespread continental radiation: the Motacilla wagtails. Invited symposium "Studies of avian radiations in the 21st century", North American Ornithological Congress, virtual conference. 
 
 `2019`
 **Enbody, E.D.** Evolutionary genomics looking forward: the importance of natural history knowledge. Department of Medical Biochemistry and Microbiology, IMBIM Days "The Scientific Frontiers", Marholmen, Sweden.
