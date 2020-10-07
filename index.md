@@ -42,6 +42,8 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher)
 
+`2020`
+Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, J. Karubian, H. Schwabl. 2020. Exogenous testosterone induces partial ornamentation which enhances vocal aggression in a female tropical songbird. [Behavioral Ecology: *in press*](https://doi.org/10.1093/beheco/araa077).
 
 `2020`
 Grant, P.R., R. Grant, **E.D. Enbody**, S. Lamichhaney, L. Andersson. 2020. Darwin’s finches, an iconic adaptive radiation. eLS. *in press*
@@ -64,24 +66,27 @@ Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvo
 `2017`
 Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Colombelli-Négrel, **E.D. Enbody**, K. Gielow, M. L. Hall, A. E. Johnson, J. Karubian, S. A. Kingma, S. Kleindorfer, M. Louter, R.A. Mulder, A. Peters, S. Pruett-Jones, K. A. Tarvin, D.J. Thrasher, C.W. Varian-Ramos, M.S. Webster, A. Cockburn. 2017. Multiple hypotheses explain variation in extra-pair paternity at different levels in a highly variable avian family. [Molecular Ecology. 26:6717–6729](http://onlinelibrary.wiley.com/doi/10.1111/mec.14385/full).
 
-### Manuscripts under review
+### Manuscripts under review or in revision
+(† denotes shared authorship)
+
+`.`
+**Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *in revision*. Genomic and transcriptional evidence for selection on female ornamentation.
+
+`.`
+**Erik D. Enbody†**, M.E. Pettersson†, C. Grace Sprehn, S. Palm, H. Wickström, L. Andersson. *in review* Adaptation to diverse ecological conditions in adult European eels is based on phenotypic plasticity
 
 `.`
 Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. *in review*. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens.
 
 `.`
-Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, J. Karubian, H. Schwabl. *in review*. Exogenous testosterone induces partial ornamentation which enhances vocal aggression in a female tropical songbird.
+Liu, H., C. Chen, M. Lv, N. Liu, Y. Hu, H. Zhang, **E.D. Enbody**, Z. Gao, L. Andersson, W. Wang. *in review* Comparative genomic analysis reveals ecological adaptation of teleost olfactory receptor repertoires.
 
 `.`
-Liu, H., C. Chen, M. Lv, N. Liu, Y. Hu, H. Zhang, **E. D. Enbody**, Z. Gao, L. Andersson, W. Wang. *in review* Comparative genomic analysis reveals ecological adaptation of teleost olfactory receptor repertoires.
+Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. *in revision*. Anthropogenic hybridization and asymmetric introgression reveal the genetic architecture of a plumage trait.
 
 ### Manuscripts in preparation
 
-`.`
-**Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *in prep*. Genomic and transcriptional evidence for selection on female ornamentation.
-
-`.`
-Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. *in prep*. Anthropogenic hybridization and asymmetric introgression reveal the genetic architecture of a plumage trait.
+**E. D. Enbody**, P.R. Grant, B.R. Grant, C.G. Sprehn, A. Abzhanov, M. Dobreva, O. Osborne, C. Wang, L. Andersson. *in prep*. Genetic basis and long-term dynamics of a color polymorphism in Darwin's finches.
 
 ## Grants and Honors
 
@@ -173,7 +178,7 @@ Female Ornamentation in the White-shouldered Fairywren. Guest lecture at Binatan
 **Enbody, E.D.**, P. R. Grant, B. R. Grant, C. G. Sprehn, A. Abzhanov, M. Dobreva, O. Osborne, C. Wang, L. Andersson. Genetic Basis and Long-Term Dynamics of a Color Polymorphism in Darwin's Finches. Invited symposium "Studies of avian radiations in the 21st century", North American Ornithological Congress, virtual conference.
 
 `2020`
-**Enbody, E.D.**, P. Alström, N. Menon, T. Van der Valk, R. Harris, Y. Liu, F. Lei, L. Andersson. Evolutionary genomics of a widespread continental radiation: the Motacilla wagtails. Invited symposium "Studies of avian radiations in the 21st century", North American Ornithological Congress, virtual conference. 
+**Enbody, E.D.**, P. Alström, N. Menon, T. Van der Valk, R. Harris, Y. Liu, F. Lei, L. Andersson. Evolutionary genomics of awidespread continental radiation: the Motacilla wagtails. Invited symposium "Studies of avian radiations in the 21st century", North American Ornithological Congress, virtual conference.
 
 `2019`
 **Enbody, E.D.** Evolutionary genomics looking forward: the importance of natural history knowledge. Department of Medical Biochemistry and Microbiology, IMBIM Days "The Scientific Frontiers", Marholmen, Sweden.
@@ -326,7 +331,7 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 ### Manuscript reviews
 
 
-Behavioral Ecology (1), Behavioral Ecology and Sociobiology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
+Behavioral Ecology (2), Behavioral Ecology and Sociobiology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
 
 
 ### Service & Outreach
