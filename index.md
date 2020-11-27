@@ -40,10 +40,13 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ## Publications
 
 ### Peer-reviewed journal articles
-(\*Papua New Guinea national & researcher)
+(\*Papua New Guinea national & researcher, † denotes equal contribution)
+
+`in press`
+**Erik D. Enbody†**, M.E. Pettersson†, C. Grace Sprehn, S. Palm, H. Wickström, L. Andersson. Ecological adaptation in European eels is based on phenotypic plasticity. Proceedings of the National Academy of Sciences. *in press*
 
 `2020`
-Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, J. Karubian, H. Schwabl. 2020. Exogenous testosterone induces partial ornamentation which enhances vocal aggression in a female tropical songbird. [Behavioral Ecology: *in press*](https://doi.org/10.1093/beheco/araa077).
+Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, J. Karubian, H. Schwabl. 2020. Exogenous testosterone induces partial ornamentation which enhances vocal aggression in a female tropical songbird. [Behavioral Ecology. 31(5):1233-1241](https://doi.org/10.1093/beheco/araa077).
 
 `2020`
 Grant, P.R., R. Grant, **E.D. Enbody**, S. Lamichhaney, L. Andersson. 2020. Darwin’s finches, an iconic adaptive radiation. eLS. *in press*
@@ -66,27 +69,32 @@ Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvo
 `2017`
 Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Colombelli-Négrel, **E.D. Enbody**, K. Gielow, M. L. Hall, A. E. Johnson, J. Karubian, S. A. Kingma, S. Kleindorfer, M. Louter, R.A. Mulder, A. Peters, S. Pruett-Jones, K. A. Tarvin, D.J. Thrasher, C.W. Varian-Ramos, M.S. Webster, A. Cockburn. 2017. Multiple hypotheses explain variation in extra-pair paternity at different levels in a highly variable avian family. [Molecular Ecology. 26:6717–6729](http://onlinelibrary.wiley.com/doi/10.1111/mec.14385/full).
 
-### Manuscripts under review or in revision
-(† denotes shared authorship)
+### Under review or in revision
+
+
+**E. D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. *submitted*. Transspecies beak color polymorphism in the Darwin’s finch radiation.
 
 `.`
-**Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *in revision*. Genomic and transcriptional evidence for selection on female ornamentation.
 
-`.`
-**Erik D. Enbody†**, M.E. Pettersson†, C. Grace Sprehn, S. Palm, H. Wickström, L. Andersson. *in review* Adaptation to diverse ecological conditions in adult European eels is based on phenotypic plasticity
-
-`.`
-Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. *in review*. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens.
-
-`.`
-Liu, H., C. Chen, M. Lv, N. Liu, Y. Hu, H. Zhang, **E.D. Enbody**, Z. Gao, L. Andersson, W. Wang. *in review* Comparative genomic analysis reveals ecological adaptation of teleost olfactory receptor repertoires.
+Gustafsson, R., U. Eckhard, W. Ye, **E.D. Enbody**, M.
+Pettersson, P. Jemth, L. Andersson, M. Selmer. *in revision*. Structure and characterization of phosphoglucomutase 5 from Atlantic
+and Baltic herring - an inactive enzyme with intact substrate binding.
 
 `.`
 Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. *in revision*. Anthropogenic hybridization and asymmetric introgression reveal the genetic architecture of a plumage trait.
 
+`.`
+Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. *in revision*. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens.
+
+`.`
+**Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *submitted*. Genomic and transcriptional evidence for selection on female ornamentation.
+
+`.`
+Liu, H., C. Chen, M. Lv, N. Liu, Y. Hu, H. Zhang, **E.D. Enbody**, Z. Gao, L. Andersson, W. Wang. *submitted*. Comparative genomic analysis reveals ecological adaptation of teleost olfactory receptor repertoires.
+
 ### Manuscripts in preparation
 
-**E. D. Enbody**, P.R. Grant, B.R. Grant, C.G. Sprehn, A. Abzhanov, M. Dobreva, O. Osborne, C. Wang, L. Andersson. *in prep*. Genetic basis and long-term dynamics of a color polymorphism in Darwin's finches.
+**Enbody, E.D.**, C. J. Rubin, D. Saito, M. Carneiro, L. Andersson. *in prep*. Structural variants in a haplotype-resolved hybrid rabbit genome.
 
 ## Grants and Honors
 
@@ -426,4 +434,4 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 <!-- ### Footer
 
-Last updated: December 2019 -->
+Last updated: November 2020 -->
