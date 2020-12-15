@@ -43,7 +43,14 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
 `in press`
-**Erik D. Enbody†**, M.E. Pettersson†, C. Grace Sprehn, S. Palm, H. Wickström, L. Andersson. Ecological adaptation in European eels is based on phenotypic plasticity. Proceedings of the National Academy of Sciences. *in press*
+Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. *in press*. Anthropogenic hybridization and asymmetric introgression reveal the genetic architecture of a plumage trait. **Nature Communications**.
+
+`2020`
+
+Gustafsson, R., U. Eckhard, W. Ye, **E.D. Enbody**, M.
+Pettersson, P. Jemth, L. Andersson, M. Selmer. 2020. Structure and characterization of phosphoglucomutase 5 from Atlantic
+and Baltic herring - an inactive enzyme with intact substrate binding. [Biomolecules. 10(2):1631](https://www.mdpi.com/2218-273X/10/12/1631)
+
 
 `2020`
 Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, J. Karubian, H. Schwabl. 2020. Exogenous testosterone induces partial ornamentation which enhances vocal aggression in a female tropical songbird. [Behavioral Ecology. 31(5):1233-1241](https://doi.org/10.1093/beheco/araa077).
@@ -71,17 +78,11 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 ### Under review or in revision
 
-
-**E. D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. *submitted*. Transspecies beak color polymorphism in the Darwin’s finch radiation.
+`.`
+**Erik D. Enbody†**, M.E. Pettersson†, C. Grace Sprehn, S. Palm, H. Wickström, L. Andersson. Ecological adaptation in European eels is based on phenotypic plasticity. Proceedings of the National Academy of Sciences. *final revision submitted*
 
 `.`
-
-Gustafsson, R., U. Eckhard, W. Ye, **E.D. Enbody**, M.
-Pettersson, P. Jemth, L. Andersson, M. Selmer. *in revision*. Structure and characterization of phosphoglucomutase 5 from Atlantic
-and Baltic herring - an inactive enzyme with intact substrate binding.
-
-`.`
-Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. *in revision*. Anthropogenic hybridization and asymmetric introgression reveal the genetic architecture of a plumage trait.
+**E. D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. *in review*. Transspecies beak color polymorphism in the Darwin’s finch radiation.
 
 `.`
 Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. *in revision*. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens.
