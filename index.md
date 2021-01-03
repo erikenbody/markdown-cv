@@ -43,20 +43,18 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
 `in press`
-Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. *in press*. Anthropogenic hybridization and asymmetric introgression reveal the genetic architecture of a plumage trait. **Nature Communications**.
+Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. *in press*. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Communications*.
+
+`in press`
+Grant, P.R., R. Grant, **E.D. Enbody**, S. Lamichhaney, L. Andersson. *in press*. Darwin’s finches, an iconic adaptive radiation. *eLS*.
 
 `2020`
-
 Gustafsson, R., U. Eckhard, W. Ye, **E.D. Enbody**, M.
 Pettersson, P. Jemth, L. Andersson, M. Selmer. 2020. Structure and characterization of phosphoglucomutase 5 from Atlantic
 and Baltic herring - an inactive enzyme with intact substrate binding. [Biomolecules. 10(2):1631](https://www.mdpi.com/2218-273X/10/12/1631)
 
-
 `2020`
 Boersma, J., **E.D. Enbody**, J.A. Jones, E. Lopez-Contreras, J. Karubian, H. Schwabl. 2020. Exogenous testosterone induces partial ornamentation which enhances vocal aggression in a female tropical songbird. [Behavioral Ecology. 31(5):1233-1241](https://doi.org/10.1093/beheco/araa077).
-
-`2020`
-Grant, P.R., R. Grant, **E.D. Enbody**, S. Lamichhaney, L. Andersson. 2020. Darwin’s finches, an iconic adaptive radiation. eLS. *in press*
 
 `2019`
 Javůrková, V.G., **E.D. Enbody**, J. Kreisinger, K. Chmel, J. Mrázek, Jordan Karubian. 2019. Plumage iridescence is associated with distinct feather microbiota in a tropical passerine. [Scientific Reports (12921)](https://www.nature.com/articles/s41598-019-49220-y).
@@ -427,7 +425,7 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 **Languages** English, Spanish (Intermediate), Swedish (Beginner)
 
-**Programming** R (Advanced), bash/unix (Advanced), Python (Intermediate).
+**Programming** R, bash/unix, Python.
 
 **Database** Filemaker, FreezerPro
 
