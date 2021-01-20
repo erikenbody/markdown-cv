@@ -14,7 +14,7 @@ title: Erik Enbody CV
 
 ## About Me
 
-Evolutionary biologist fascinated with biodiversity and the evolutionary processes that generate diversity in wild populations. My research leverages current technologies in genomic sequencing and field ecology to study the mechanisms that maintain population and trait diversity through natural, social, and sexual selection processes. These projects span a diverse group of organisms.
+I am an evolutionary biologist trained in bioinformatics, field ecology, and behavioral research. My research is driven by my fascination with the evolutionary processes that generate diversity in wild populations. This research includes projects on birds, mammals, and fish from the Americas, Eurasia, and Oceania.
 
 ## Appointments
 
@@ -43,14 +43,16 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
 `in press`
-Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. *in press*. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Communications*.
+**Erik D. Enbody†**, M.E. Pettersson†, C. Grace Sprehn, S. Palm, H. Wickström, L. Andersson. *in press*. Ecological adaptation in European eels is based on phenotypic plasticity. *Proceedings of the National Academy of Sciences*.
 
 `in press`
-Grant, P.R., R. Grant, **E.D. Enbody**, S. Lamichhaney, L. Andersson. *in press*. Darwin’s finches, an iconic adaptive radiation. *eLS*.
+Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. *in press*. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Communications*.
 
 `2020`
-Gustafsson, R., U. Eckhard, W. Ye, **E.D. Enbody**, M.
-Pettersson, P. Jemth, L. Andersson, M. Selmer. 2020. Structure and characterization of phosphoglucomutase 5 from Atlantic
+Grant, P.R., R. Grant, **E.D. Enbody**, S. Lamichhaney, L. Andersson. 2020. Darwin’s finches, an iconic adaptive radiation. [eLS.1:672–682](https://onlinelibrary.wiley.com/doi/10.1002/9780470015902.a0029107).
+
+`2020`
+Gustafsson, R., U. Eckhard, W. Ye, **E.D. Enbody**, M. Pettersson, P. Jemth, L. Andersson, M. Selmer. 2020. Structure and characterization of phosphoglucomutase 5 from Atlantic
 and Baltic herring - an inactive enzyme with intact substrate binding. [Biomolecules. 10(2):1631](https://www.mdpi.com/2218-273X/10/12/1631)
 
 `2020`
@@ -74,13 +76,12 @@ Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvo
 `2017`
 Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Colombelli-Négrel, **E.D. Enbody**, K. Gielow, M. L. Hall, A. E. Johnson, J. Karubian, S. A. Kingma, S. Kleindorfer, M. Louter, R.A. Mulder, A. Peters, S. Pruett-Jones, K. A. Tarvin, D.J. Thrasher, C.W. Varian-Ramos, M.S. Webster, A. Cockburn. 2017. Multiple hypotheses explain variation in extra-pair paternity at different levels in a highly variable avian family. [Molecular Ecology. 26:6717–6729](http://onlinelibrary.wiley.com/doi/10.1111/mec.14385/full).
 
+### Preprints
+
+`.`
+**E. D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. *in review*. Transspecies beak color polymorphism in the Darwin’s finch radiation. [Link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.01.19.426595v1)
+
 ### Under review or in revision
-
-`.`
-**Erik D. Enbody†**, M.E. Pettersson†, C. Grace Sprehn, S. Palm, H. Wickström, L. Andersson. Ecological adaptation in European eels is based on phenotypic plasticity. Proceedings of the National Academy of Sciences. *final revision submitted*
-
-`.`
-**E. D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. *in review*. Transspecies beak color polymorphism in the Darwin’s finch radiation.
 
 `.`
 Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. *in revision*. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens.
@@ -94,6 +95,18 @@ Liu, H., C. Chen, M. Lv, N. Liu, Y. Hu, H. Zhang, **E.D. Enbody**, Z. Gao, L. An
 ### Manuscripts in preparation
 
 **Enbody, E.D.**, C. J. Rubin, D. Saito, M. Carneiro, L. Andersson. *in prep*. Structural variants in a haplotype-resolved hybrid rabbit genome.
+
+### Genome assemblies
+
+[White Wagtail assembly](https://www.ncbi.nlm.nih.gov/assembly/GCF_015832195.1)
+
+[Small Tree Finch assembly](https://www.ncbi.nlm.nih.gov/assembly/GCA_902806625.1)
+
+[European Rabbit (in progress)](https://www.ncbi.nlm.nih.gov/assembly/GCA_013371645.1)
+
+Ruff: Calidris pugnax (in progress)
+
+White-shouldered Fairywrren: Malurus alboscapulatus (in progress)
 
 ## Grants and Honors
 
@@ -338,7 +351,7 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 ### Manuscript reviews
 
 
-Behavioral Ecology (2), Behavioral Ecology and Sociobiology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
+Journal of Evolutionary Biology (1), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
 
 
 ### Service & Outreach
@@ -387,11 +400,11 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 ### Professional memberships
 
-`2014-20`	American Ornithological Society
+`2014-21`	American Ornithological Society
 
-`2014-20`	Society for the Study of Evolution
+`2014-21`	Society for the Study of Evolution
 
-`2019-20`	European Society for Evolutionary Biology
+`2019-21`	European Society for Evolutionary Biology
 
 ## Popular Press Articles & Photographs
 
