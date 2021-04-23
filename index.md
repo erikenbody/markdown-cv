@@ -2,7 +2,7 @@
 layout: cv
 title: Erik Enbody CV
 ---
-# Erik Enbody
+# Erik D. Enbody
 
 <div id="webaddress">
 <a href="mailto:erik.enbody@gmail.com">erik.enbody@gmail.com</a>
@@ -12,9 +12,18 @@ title: Erik Enbody CV
 <i class="fa fa-twitter"></i> <a href="https://twitter.com/erikenbody">@erikenbody</a>
 </div>
 
+
 ## About Me
 
+` `
+American citizen
+
+` `
+Uppsala BMC, Husargatan 3, SE-751 23 Uppsala, Sweden
+
+` `
 I am an evolutionary biologist trained in bioinformatics, field ecology, and behavioral research. My research is driven by my fascination with the evolutionary processes that generate diversity in wild populations. This research includes projects on birds, mammals, and fish from the Americas, Eurasia, and Oceania.
+
 
 ## Appointments
 
@@ -42,14 +51,14 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
-`in press`
-**Erik D. Enbody†**, M.E. Pettersson†, C. Grace Sprehn, S. Palm, H. Wickström, L. Andersson. *in press*. Ecological adaptation in European eels is based on phenotypic plasticity. *Proceedings of the National Academy of Sciences*.
+`2021`
+Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. 2021. Asymmetric introgression reveals the genetic architecture of a plumage trait. [Nature Communications: 1019](https://www.nature.com/articles/s41467-021-21340-y).
 
-`in press`
-Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. *in press*. Asymmetric introgression reveals the genetic architecture of a plumage trait. *Nature Communications*.
+`2021`
+**Erik D. Enbody†**, M.E. Pettersson†, C. Grace Sprehn, S. Palm, H. Wickström, L. Andersson. 2021. Ecological adaptation in European eels is based on phenotypic plasticity. [Proceedings of the National Academy of Sciences. 118(4): e2022620118](https://www.pnas.org/content/118/4/e2022620118).
 
 `2020`
-Grant, P.R., R. Grant, **E.D. Enbody**, S. Lamichhaney, L. Andersson. 2020. Darwin’s finches, an iconic adaptive radiation. [eLS.1:672–682](https://onlinelibrary.wiley.com/doi/10.1002/9780470015902.a0029107).
+Grant, P.R., R. Grant, **E.D. Enbody**, L. Andersson, S. Lamichhaney. 2020. Darwin’s finches, an iconic adaptive radiation. [eLS.1:672–682](https://onlinelibrary.wiley.com/doi/10.1002/9780470015902.a0029107).
 
 `2020`
 Gustafsson, R., U. Eckhard, W. Ye, **E.D. Enbody**, M. Pettersson, P. Jemth, L. Andersson, M. Selmer. 2020. Structure and characterization of phosphoglucomutase 5 from Atlantic
@@ -84,17 +93,13 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 ### Under review or in revision
 
 `.`
+**Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *under review*. The evolutionary history and mechanistic basis of female ornamentation in a tropical songbird.
+
+`.`
+Liu, H., C. Chen, M. Lv, N. Liu, Y. Hu, H. Zhang, **E.D. Enbody**, Z. Gao, L. Andersson, W. Wang. *under review*. Comparative genomic analysis reveals ecological adaptation of teleost olfactory receptor repertoires.
+
+`.`
 Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. *in revision*. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens.
-
-`.`
-**Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *submitted*. Genomic and transcriptional evidence for selection on female ornamentation.
-
-`.`
-Liu, H., C. Chen, M. Lv, N. Liu, Y. Hu, H. Zhang, **E.D. Enbody**, Z. Gao, L. Andersson, W. Wang. *submitted*. Comparative genomic analysis reveals ecological adaptation of teleost olfactory receptor repertoires.
-
-### Manuscripts in preparation
-
-**Enbody, E.D.**, C. J. Rubin, D. Saito, M. Carneiro, L. Andersson. *in prep*. Structural variants in a haplotype-resolved hybrid rabbit genome.
 
 ### Genome assemblies
 
@@ -299,7 +304,9 @@ Research Assistant, East Lansing, MI. Bird Acoustics Research Lab, Michigan Stat
 
 ### Teaching assistant and guest lectures
 
-`2020/sp` Bioinformatics, Laboratory instructor - Uppsala University
+`2021/sp` Bioinformatics, Laboratory instructor - Uppsala University (remote)
+
+`2020/sp` Bioinformatics, Laboratory instructor - Uppsala University (remote)
 
 `2017/fa` Ornithology, Guest Lecture – D. Henry, Tulane University
 
@@ -351,10 +358,13 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 ### Manuscript reviews
 
 
-Journal of Evolutionary Biology (1), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
+PLOS Genetics (1), Molecular Ecology (1), Journal of Evolutionary Biology (1), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
 
 
 ### Service & Outreach
+
+`2020-01-16`
+"Skype-a-scientist" Webber Middle School, Fort Collins, CO
 
 `2016-18`
 Volunteer bird bander with Louisiana Bird Observatory / Audubon Louisiana at Palmetto State Park: Regular weekend volunteer at local bird banding station to assist with mist net set up and bird banding.
@@ -438,7 +448,7 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 **Languages** English, Spanish (Intermediate), Swedish (Beginner)
 
-**Programming** R, bash/unix, Python.
+**Programming** R, bash/unix, Python
 
 **Database** Filemaker, FreezerPro
 
