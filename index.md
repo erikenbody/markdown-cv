@@ -16,21 +16,21 @@ title: Erik Enbody CV
 ## About Me
 
 ` `
-American citizen
-
-` `
-Uppsala BMC, Husargatan 3, SE-751 23 Uppsala, Sweden
-
-` `
 I am an evolutionary biologist trained in bioinformatics, field ecology, and behavioral research. My research is driven by my fascination with the evolutionary processes that generate diversity in wild populations. This research includes projects on birds, mammals, and fish from the Americas, Eurasia, and Oceania.
 
 
 ## Appointments
 
-`2018-`
+`2021-`
+**University of California, Santa Cruz, CA**
+
+**Current**: Postdoctoral Scholar in Genomics & Bioinformatics with Dr. Russ Corbett-Detig. Biomolecular
+Engineering Department, UCSC and the California Conservation Genomics Project.
+
+`2018-21`
 **Uppsala University, Uppsala, Sweden**
 
-**Current**: Postdoctoral Researcher in Genomics & Bioinformatics with Dr. Leif Andersson. Department of Medical Biochemistry and Microbiology.
+Postdoctoral Researcher in Genomics & Bioinformatics with Dr. Leif Andersson. Department of Medical Biochemistry and Microbiology.
 
 ## Education
 
@@ -50,6 +50,15 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
+
+`.`
+**E. D.Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. *Accepted ms*. A multispecies BCO2 beak color polymorphism in the Darwin’s finch radiation. Current Biology.  [Link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.01.19.426595v1)
+
+`2021`
+Turbek, S.P., G. A. Semenov, **E.D. Enbody**, L. Campagna, S.A. Taylor. *in press*. Variable signatures of selection despite conserved recombination landscapes early in speciation. Journal of Heredity.
+
+`2021`
+Liu, H., C. Chen, M. Lv, N. Liu, Y. Hu, H. Zhang, **E.D. Enbody**, Z. Gao, L. Andersson, W. Wang. Comparative genomic analysis reveals ecological adaptation of teleost olfactory receptor repertoires. Molecular Biology and Evolution.[Molecular Biology & Evolution: msab152](https://doi.org/10.1093/molbev/msab152).
 
 `2021`
 Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. 2021. Asymmetric introgression reveals the genetic architecture of a plumage trait. [Nature Communications: 1019](https://www.nature.com/articles/s41467-021-21340-y).
@@ -88,15 +97,13 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 ### Preprints
 
 `.`
-**E. D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. *in review*. Transspecies beak color polymorphism in the Darwin’s finch radiation. [Link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.01.19.426595v1)
+C.-J. Rubin†, **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. *under review*. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Link to preprint](https://www.biorxiv.org/content/10.1101/2021.09.17.460815v1)
 
 ### Under review or in revision
+(† denotes equal contribution)
 
 `.`
 **Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *under review*. The evolutionary history and mechanistic basis of female ornamentation in a tropical songbird.
-
-`.`
-Liu, H., C. Chen, M. Lv, N. Liu, Y. Hu, H. Zhang, **E.D. Enbody**, Z. Gao, L. Andersson, W. Wang. *under review*. Comparative genomic analysis reveals ecological adaptation of teleost olfactory receptor repertoires.
 
 `.`
 Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. *in revision*. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens.
@@ -262,6 +269,63 @@ Rose, A.^, S.M. Lantz, **E.D. Enbody**, J. Karubian. How do feathers relevant to
 `2014`
 **Enbody, E.D.**, H. Schwabl, S. Ketaloya, J. Karubian. The adaptive consequences of female plumage in White-shouldered Fairywrens. American Ornithologist Union. Estes Park, CO. USA.
 
+## Teaching & Mentoring Experience
+
+### Instructor
+
+`2021/su` Tropical Field Biology & Conservation, Instructor - Tulane University / FCAT-Ecuador. Facilitated student-designed and implemented research projects in tropical ecology, in addition to logistics coordination.
+
+### Teaching assistant and guest lectures
+
+`2021/sp` Bioinformatics, Laboratory instructor - Uppsala University (remote)
+
+`2020/sp` Bioinformatics, Laboratory instructor - Uppsala University (remote)
+
+`2017/fa` Ornithology, Guest Lecture – D. Henry, Tulane University
+
+`2017/sp` Behavioral Ecology, Guest Lecture – D. Henry, Tulane University
+
+`2016/fa`	Introduction to Plant Biology, TA – L.T. Martínez, Tulane University
+
+`2016/fa`	Global Environmental Change, TA – S. Doosey, Tulane University
+
+`2015/fa`	Behavioral Ecology, TA – J. Karubian, Tulane University
+
+`2015/sp`	Experimental Animal Behavior, TA & Guest Lecture - J. Karubian, Tulane University
+
+`2014/s/f`	Plant and Human Affairs, TA – S. Darwin, Tulane University
+
+`2013/fa`	Diversity of Life, TA – D. Henry, Tulane University
+
+### Workshops
+
+`2018`
+Differential Expression workshop: Designed and implemented a short workshop to teach the fundamentals and methods for RNAseq data processing and differential expression analysis. Included as a part of the first Bioinformatics & Genomics Course taught at Tulane University.
+
+`2016/su` Summer Bioinformatics Workshop, Cofounder & instructor, Tulane University: Focus on using python, R, and UNIX for analysis of RADseq datasets (eight participants).
+
+### Mentoring
+
+`2019-20` Navaneeth Menon - intern training in bioinformatics techniques for the study of wagtail evolution.
+
+`2019-` Fahime Mohamadnejad - Ph.D. student in animal genomics, training in fundamentals of bioinformatics.
+
+`2017-` Sarah Khalil - Ph.D. student in fundamentals of bioinformatics.
+
+`2015-17`	Hunter Rust – photospectroscopy techniques and bird song analysis.
+
+`2013-16`	Olivia Gowan – photospectroscopy techniques and DNA extraction.
+
+`2015`	Alexander Rose – photospectroscopy techniques and electron microscopy analyses.
+
+`2014-15`	Miles Hegedus – photospectroscopy techniques.
+
+`2015-16`	Amelia Lormund – photospectroscopy techniques.
+
+`2015-16`	Zoe Albert – video-based nest observation data collection.
+
+`2013-17`	Six international recent graduates in field data collection methods in New Guinea.
+
 ## Fieldwork Experience
 
 `2019`
@@ -300,59 +364,6 @@ Yellow-billed Cuckoo Field Assistant (summer), Lake Havasu City, AZ. Southern Si
 `2006-08`
 Research Assistant, East Lansing, MI. Bird Acoustics Research Lab, Michigan State University, MI, Dr. Stuart Gage: Established ground truth for remote sensing of bird populations, conducted point-count surveys, and assisted in the development of automatic song recognition.
 
-## Teaching & Mentoring Experience
-
-### Teaching assistant and guest lectures
-
-`2021/sp` Bioinformatics, Laboratory instructor - Uppsala University (remote)
-
-`2020/sp` Bioinformatics, Laboratory instructor - Uppsala University (remote)
-
-`2017/fa` Ornithology, Guest Lecture – D. Henry, Tulane University
-
-`2017/sp` Behavioral Ecology, Guest Lecture – D. Henry, Tulane University
-
-`2016/fa`	Introduction to Plant Biology, TA – L.T. Martínez, Tulane University
-
-`2016/fa`	Global Environmental Change, TA – S. Doosey, Tulane University
-
-`2015/fa`	Behavioral Ecology, TA – J. Karubian, Tulane University
-
-`2015/sp`	Experimental Animal Behavior, TA & Guest Lecture - J. Karubian, Tulane University
-
-`2014/s/f`	Plant and Human Affairs, TA – S. Darwin, Tulane University
-
-`2013/fa`	Diversity of Life, TA – D. Henry, Tulane University
-
-### Workshops
-
-`2018`
-Differential Expression workshop: Designed and implemented a short workshop to teach the fundamentals and methods for RNAseq data processing and differential expression analysis. Included as a part of the first Bioinformatics & Genomics Course taught at Tulane University.
-
-`2016/su` Summer Bioinformatics Workshop, Cofounder & instructor, Tulane University: Focus on using python, R, and UNIX for analysis of RADseq datasets (eight participants).
-
-### Mentoring
-
-`2019-` Navaneeth Menon - intern training in bioinformatics techniques for the study of wagtail evolution.
-
-`2019` Fahime Mohamadnejad - Visiting Ph.D. student in animal genomics, training in fundamentals of bioinformatics.
-
-`2017-` Sarah Khalil - Ph.D. student in fundamentals of bioinformatics
-
-`2015-17`	Hunter Rust – photospectroscopy techniques and bird song analysis.
-
-`2013-16`	Olivia Gowan – photospectroscopy techniques and DNA extraction.
-
-`2015`	Alexander Rose – photospectroscopy techniques and electron microscopy analyses.
-
-`2014-15`	Miles Hegedus – photospectroscopy techniques.
-
-`2015-16`	Amelia Lormund – photospectroscopy techniques.
-
-`2015-16`	Zoe Albert – video-based nest observation data collection.
-
-`2013-17`	Six international recent graduates in field data collection methods in New Guinea.
-
 ## Service, Outreach, and Training
 
 ### Manuscript reviews
@@ -363,7 +374,7 @@ PLOS Genetics (1), Molecular Ecology (1), Journal of Evolutionary Biology (1), B
 
 ### Service & Outreach
 
-`2020-01-16`
+`2020-01`
 "Skype-a-scientist" Webber Middle School, Fort Collins, CO
 
 `2016-18`
