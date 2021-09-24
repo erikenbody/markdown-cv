@@ -15,7 +15,6 @@ title: Erik Enbody CV
 
 ## About Me
 
-` `
 I am an evolutionary biologist trained in bioinformatics, field ecology, and behavioral research. My research is driven by my fascination with the evolutionary processes that generate diversity in wild populations. This research includes projects on birds, mammals, and fish from the Americas, Eurasia, and Oceania.
 
 
@@ -52,7 +51,7 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
 `.`
-**E. D.Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. *Accepted ms*. A multispecies BCO2 beak color polymorphism in the Darwin’s finch radiation. Current Biology.  [Link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.01.19.426595v1)
+**E.D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. *Accepted ms*. A multispecies BCO2 beak color polymorphism in the Darwin’s finch radiation. Current Biology.  [Link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.01.19.426595v1)
 
 `2021`
 Turbek, S.P., G. A. Semenov, **E.D. Enbody**, L. Campagna, S.A. Taylor. *in press*. Variable signatures of selection despite conserved recombination landscapes early in speciation. Journal of Heredity.
