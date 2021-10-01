@@ -108,7 +108,7 @@ C.-J. Rubin†, **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. La
 Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. *in revision*. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens.
 
 `.`
-Boersma, J., J. A. Jones, E. D. Enbody, J. Welklin, S. Ketaloya, J. Karubian, and H. Schwabl. *under review*. Male White-shouldered Fairywrens (Malurus alboscapulatus) elevate testosterone when courting females but not during territorial challenges. 
+Boersma, J., J. A. Jones, E. D. Enbody, J. Welklin, S. Ketaloya, J. Karubian, and H. Schwabl. *under review*. Male White-shouldered Fairywrens (Malurus alboscapulatus) elevate testosterone when courting females but not during territorial challenges.
 
 ### Genome assemblies
 
