@@ -98,6 +98,10 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 `.`
 C.-J. Rubin†, **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. *under review*. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Link to preprint](https://www.biorxiv.org/content/10.1101/2021.09.17.460815v1)
 
+
+`.`
+Boersma, J., J. A. Jones, E. D. Enbody, J. Welklin, S. Ketaloya, J. Karubian, and H. Schwabl. *under review*. Male White-shouldered Fairywrens (Malurus alboscapulatus) elevate testosterone when courting females but not during territorial challenges. [Link to preprint](https://biorxiv.org/content/10.1101/2021.10.06.463071v1)
+
 ### Under review or in revision
 († denotes equal contribution)
 
@@ -106,9 +110,6 @@ C.-J. Rubin†, **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. La
 
 `.`
 Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. *in revision*. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens.
-
-`.`
-Boersma, J., J. A. Jones, E. D. Enbody, J. Welklin, S. Ketaloya, J. Karubian, and H. Schwabl. *under review*. Male White-shouldered Fairywrens (Malurus alboscapulatus) elevate testosterone when courting females but not during territorial challenges.
 
 ### Genome assemblies
 
@@ -370,8 +371,7 @@ Research Assistant, East Lansing, MI. Bird Acoustics Research Lab, Michigan Stat
 
 ### Manuscript reviews
 
-
-PLOS Genetics (1), Molecular Ecology (1), Journal of Evolutionary Biology (1), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
+Current Biology (1), PLOS Genetics (1), Molecular Ecology (1), Journal of Evolutionary Biology (1), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
 
 
 ### Service & Outreach
