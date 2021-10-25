@@ -51,7 +51,7 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
 `2021`
-**E.D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. A multispecies BCO2 beak color polymorphism in the Darwin’s finch radiation. [Current Biology](https://doi.org/10.1016/j.cub.2021.09.085)
+**E.D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. 2021. A multispecies BCO2 beak color polymorphism in the Darwin’s finch radiation. [Current Biology](https://doi.org/10.1016/j.cub.2021.09.085)
 
 `2021`
 Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. *in press*. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens. Ecology and Evolution. [Link to preprint](https://doi.org/10.22541/au.162550292.29286625/v1)
@@ -102,7 +102,7 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 C.-J. Rubin†, **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. *under review*. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Link to preprint](https://www.biorxiv.org/content/10.1101/2021.09.17.460815v1)
 
 `.`
-Boersma, J., J. A. Jones, E. D. Enbody, J. Welklin, S. Ketaloya, J. Karubian, and H. Schwabl. *under review*. Male White-shouldered Fairywrens (Malurus alboscapulatus) elevate testosterone when courting females but not during territorial challenges. [Link to preprint](https://biorxiv.org/content/10.1101/2021.10.06.463071v1)
+Boersma, J., J. A. Jones, **E. D. Enbody**, J. Welklin, S. Ketaloya, J. Karubian, and H. Schwabl. *under review*. Male White-shouldered Fairywrens (Malurus alboscapulatus) elevate testosterone when courting females but not during territorial challenges. [Link to preprint](https://biorxiv.org/content/10.1101/2021.10.06.463071v1)
 
 ### Under review or in revision
 
@@ -117,9 +117,9 @@ Boersma, J., J. A. Jones, E. D. Enbody, J. Welklin, S. Ketaloya, J. Karubian, an
 
 [European Rabbit (in progress)](https://www.ncbi.nlm.nih.gov/assembly/GCA_013371645.1)
 
-Ruff: Calidris pugnax (in progress)
+Ruff: *Calidris pugnax* (in progress)
 
-White-shouldered Fairywrren: Malurus alboscapulatus (in progress)
+White-shouldered Fairywrren: *Malurus alboscapulatus* (in progress)
 
 ## Grants and Honors
 
