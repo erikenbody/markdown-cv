@@ -50,8 +50,11 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
-`.`
-**E.D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. *Accepted ms*. A multispecies BCO2 beak color polymorphism in the Darwin’s finch radiation. Current Biology.  [Link to bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.01.19.426595v1)
+`2021`
+**E.D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. A multispecies BCO2 beak color polymorphism in the Darwin’s finch radiation. [Current Biology](https://doi.org/10.1016/j.cub.2021.09.085)
+
+`2021`
+Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. *in press*. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens. Ecology and Evolution. [Link to preprint](https://doi.org/10.22541/au.162550292.29286625/v1)
 
 `2021`
 Turbek, S.P., G. A. Semenov, **E.D. Enbody**, L. Campagna, S.A. Taylor. *in press*. Variable signatures of selection despite conserved recombination landscapes early in speciation. Journal of Heredity.
@@ -98,18 +101,13 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 `.`
 C.-J. Rubin†, **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. *under review*. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Link to preprint](https://www.biorxiv.org/content/10.1101/2021.09.17.460815v1)
 
-
 `.`
 Boersma, J., J. A. Jones, E. D. Enbody, J. Welklin, S. Ketaloya, J. Karubian, and H. Schwabl. *under review*. Male White-shouldered Fairywrens (Malurus alboscapulatus) elevate testosterone when courting females but not during territorial challenges. [Link to preprint](https://biorxiv.org/content/10.1101/2021.10.06.463071v1)
 
 ### Under review or in revision
-(† denotes equal contribution)
 
 `.`
 **Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *under review*. The evolutionary history and mechanistic basis of female ornamentation in a tropical songbird.
-
-`.`
-Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. *in revision*. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens.
 
 ### Genome assemblies
 
