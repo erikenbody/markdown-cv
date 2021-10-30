@@ -386,6 +386,9 @@ Girls in STEM, Tulane University, New Orleans, LA: Module co-instructor for “A
 `2015`
 Workshop on Engaged Scholarly Research: Bridging the Natural Sciences and Community-based Conservation, Tulane University: Workshop participant and presenter.
 
+`2015`		
+Girls in STEM, Tulane University, New Orleans, LA: Module co-instructor for “Lizard tracking”. GIST is a long-term program aimed at introducing female elementary and middle school students to science and female scientists.
+
 `2014-15`
 Annual Environmental Fair, Milne Bay Province, Papua New Guinea: Co-organizer for community fair celebrating the environment to >500 students and members from surrounding communities.
 
