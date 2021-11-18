@@ -165,6 +165,9 @@ White-shouldered Fairywrren: *Malurus alboscapulatus* (in progress)
 
 ### Other Honors
 
+`2021`
+UCSC BSOE Super Slug Award
+
 `2018`
 American Ornithological Society Council Best Student Presentation Award
 
