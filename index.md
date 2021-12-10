@@ -54,7 +54,7 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 **E.D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. 2021. A multispecies BCO2 beak color polymorphism in the Darwin’s finch radiation. [Current Biology, in press](https://doi.org/10.1016/j.cub.2021.09.085).
 
 `2021`
-Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. 2021. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens. [Ecology and Evolution](https://doi.org/10.1002/ece3.8378).
+Odom, K.J., K.E. Cain, M.L. Hall, N.E. Langmore, R.A. Mulder, S. Kleindorfer, J. Karubian, L. Brouwer, **E.D. Enbody**, J.A. Jones, J.L. Dowling, A.V. Leitão, E.I. Greig, C. Evans, A.E. Johnson, K.K.-A. Meyers, M. Araya-Salas and M.S. Webster. 2021. Sex role similarity and sexual selection predict male and female song elaboration and dimorphism in fairy-wrens. [Ecology and Evolution, in press](https://doi.org/10.1002/ece3.8378).
 
 `2021`
 Turbek, S.P., G. A. Semenov, **E.D. Enbody**, L. Campagna, S.A. Taylor. 2021. Variable signatures of selection despite conserved recombination landscapes early in speciation. [Journal of Heredity, in press](https://doi.org/10.1093/jhered/esab054).
