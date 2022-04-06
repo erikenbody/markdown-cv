@@ -167,8 +167,8 @@ White-shouldered Fairywrren: *Malurus alboscapulatus* (in progress)
 
 ### Other Honors
 
-`2021`
-UCSC BSOE Super Slug Award
+`2021-22`
+UCSC BSOE Super Slug Award x2
 
 `2018`
 American Ornithological Society Council Best Student Presentation Award
@@ -379,6 +379,9 @@ Current Biology (1), PLOS Genetics (1), Molecular Ecology (1), Journal of Evolut
 
 ### Service & Outreach
 
+`2022-`
+UC Santa Cruz Genomics Institute Diversity Committee member
+
 `2020-01`
 "Skype-a-scientist" Webber Middle School, Fort Collins, CO
 
@@ -468,6 +471,8 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 **Languages** English, Spanish (Intermediate), Swedish (Beginner)
 
 **Programming** R, bash/unix, Python
+
+**Workflow managers** Snakemake
 
 **Database** Filemaker, FreezerPro
 
