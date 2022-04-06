@@ -338,46 +338,46 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 ## Fieldwork Experience
 
 `2019`
-Postdoctoral fieldwork. Sweden, Ottenby Fågelstation: Co-led team with Per Alström to collect blood samples for generating a new reference genome for White Wagtail (*Motacilla alba*)
+**Volunteer** Postdoctoral fieldwork. Sweden, Ottenby Fågelstation: Co-led team with Per Alström to collect blood samples for generating a new reference genome for White Wagtail (*Motacilla alba*)
 
 `2013-17`
-Dissertation fieldwork: Papua New Guinea (Milne Bay, Western, Madang, Highlands, Enga, and Morobe Provinces)
+**Dissertation fieldwork**: Papua New Guinea (Milne Bay, Western, Madang, Highlands, Enga, and Morobe Provinces)
 
 `2013/su`
-Research assistant Red-backed Fairywren behavioral ecology study, Batchelor, Northern Territory.
+**Volunteer*Research assistant Red-backed Fairywren behavioral ecology study, Batchelor, Northern Territory.
 
 `2012/fa`
-Banding intern at the Palomarin field station, Bolinas, California: Seasonal internship banding passerines at various locations in the Point Reyes National Seashore (480 birds processed).
+**Full time** Banding intern at the Palomarin field station, Bolinas, California: Seasonal internship banding passerines at various locations in the Point Reyes National Seashore (480 birds processed).
 
 `2012`
-Summer field biologist surveying grassland birds in North and South Dakota, Rocky Mountain Bird Observatory, Brighton, CO: Performed point counts and vegetation sampling in the Central Plains. Field work was conducted from remote regions. Interacted with private landowners for planning transects.
+**Full time** Summer field biologist surveying grassland birds in North and South Dakota, Rocky Mountain Bird Observatory, Brighton, CO: Performed point counts and vegetation sampling in the Central Plains. Field work was conducted from remote regions. Interacted with private landowners for planning transects.
 
 `2011`
-Thesis research and Flammulated Owl crew research assistant: Developed and performed an independent research project on Red Squirrel predation of Flammulated Owls using artificial nests in natural cavities. Also assisted with spot mapping, nest searching, and banding of owls.
+**Full time** Thesis research and Flammulated Owl crew research assistant: Developed and performed an independent research project on Red Squirrel predation of Flammulated Owls using artificial nests in natural cavities. Also assisted with spot mapping, nest searching, and banding of owls.
 
 `2011`
-Undergraduate research, Ecuador: Conducted various class projects surveying birds, frogs, and butterflies in the Ecuadorian Amazon and Manabí Province. Designed playback experiment to test heterospecific responses between two sympatric antshrike species.
+**Volunteer**Undergraduate research, Ecuador: Conducted various class projects surveying birds, frogs, and butterflies in the Ecuadorian Amazon and Manabí Province. Designed playback experiment to test heterospecific responses between two sympatric antshrike species.
 
 `2010`
-Vegetation Sampling Assistant (summer): U.S. Geological Survey, Elko, Nevada
+**Full time** Vegetation Sampling Assistant (summer contractor): U.S. Geological Survey, Elko, Nevada
 
 `2009/10`
-Avian Field Assistant (summers), Central Nevada Mountains. High Desert Research Institute and John Muir Institute of the Environment, UC Davis: performed bird and vegetation surveys in the mountains of Central Nevada for a long-term study of Great Basin bird communities.
+**Full time** Avian Field Assistant (summers), Central Nevada Mountains. High Desert Research Institute and John Muir Institute of the Environment, UC Davis: performed bird and vegetation surveys in the mountains of Central Nevada for a long-term study of Great Basin bird communities.
 
 `2009`
-Volunteer Field Assistant (winter), Monteverde, Costa Rica. University of Washington: Developed and implemented protocols for surveying birds and conducted vegetation surveys in reforested pasture lands.
+**Volunteer** Volunteer Field Assistant (winter), Monteverde, Costa Rica. University of Washington: Developed and implemented protocols for surveying birds and conducted vegetation surveys in reforested pasture lands.
 
 `2008`
-Yellow-billed Cuckoo Field Assistant (summer), Lake Havasu City, AZ. Southern Sierra Research Station: Conducted playback surveys, nest searching, and mist netting on the endangered western subspecies of the Yellow-billed Cuckoo along the Lower Colorado River.
+**Full time** Yellow-billed Cuckoo Field Assistant (summer), Lake Havasu City, AZ. Southern Sierra Research Station: Conducted playback surveys, nest searching, and mist netting on the endangered western subspecies of the Yellow-billed Cuckoo along the Lower Colorado River.
 
 `2006-08`
-Research Assistant, East Lansing, MI. Bird Acoustics Research Lab, Michigan State University, MI, Dr. Stuart Gage: Established ground truth for remote sensing of bird populations, conducted point-count surveys, and assisted in the development of automatic song recognition.
+**Part time** Research Assistant, East Lansing, MI. Bird Acoustics Research Lab, Michigan State University, MI, Dr. Stuart Gage: Established ground truth for remote sensing of bird populations, conducted point-count surveys, and assisted in the development of automatic song recognition.
 
 ## Service, Outreach, and Training
 
 ### Manuscript reviews
 
-Current Biology (1), PLOS Genetics (1), Molecular Ecology (1), Journal of Evolutionary Biology (1), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
+Current Biology (1), PLOS Genetics (1), Molecular Ecology (1), Journal of Evolutionary Biology (2), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
 
 
 ### Service & Outreach
@@ -483,4 +483,4 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 <!-- ### Footer
 
-Last updated: November 2020 -->
+Last updated: April 2022 -->
