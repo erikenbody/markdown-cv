@@ -15,7 +15,7 @@ title: Erik Enbody CV
 
 ## About Me
 
-I am an evolutionary biologist trained in bioinformatics, field ecology, and behavioral research. My research is driven by my fascination with the evolutionary processes that generate diversity in wild populations. This research includes projects on birds, mammals, invertebrates, fish, and plants from the Americas, Eurasia, and Oceania.
+I am an evolutionary biologist trained in bioinformatics, field ecology, and behavioral research. My research is driven by my fascination with the processes that generate and maintain diversity in wild populations. This research includes projects on birds, mammals, invertebrates, fish, and plants from the Americas, Eurasia, and Oceania.
 
 ## Supervisor Reference
 
