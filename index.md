@@ -69,7 +69,7 @@ Liu, H., C. Chen, M. Lv, N. Liu, Y. Hu, H. Zhang, **E.D. Enbody**, Z. Gao, L. An
 Semenov, G.A., E. Linck, **E.D. Enbody**, P. Alström, L. Andersson, D.R. Khaydarov, S.A. Taylor. 2021. Asymmetric introgression reveals the genetic architecture of a plumage trait. [Nature Communications: 1019](https://www.nature.com/articles/s41467-021-21340-y).
 
 `2021`
-**Erik D. Enbody†**, M.E. Pettersson†, C. Grace Sprehn, S. Palm, H. Wickström, L. Andersson. 2021. Ecological adaptation in European eels is based on phenotypic plasticity. [Proceedings of the National Academy of Sciences. 118(4): e2022620118](https://www.pnas.org/content/118/4/e2022620118).
+**Enbody†, E.D.**, M.E. Pettersson†, C. Grace Sprehn, S. Palm, H. Wickström, L. Andersson. 2021. Ecological adaptation in European eels is based on phenotypic plasticity. [Proceedings of the National Academy of Sciences. 118(4): e2022620118](https://www.pnas.org/content/118/4/e2022620118).
 
 `2020`
 Grant, P.R., R. Grant, **E.D. Enbody**, L. Andersson, S. Lamichhaney. 2020. Darwin’s finches, an iconic adaptive radiation. [eLS.1:672–682](https://onlinelibrary.wiley.com/doi/10.1002/9780470015902.a0029107).
@@ -94,7 +94,7 @@ Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvo
 **Enbody, E.D.**, J. Boersma, H. Schwabl, J. Karubian. 2018. Female ornamentation is associated with elevated aggression and testosterone in a tropical songbird. [Behavioral Ecology. 29(5): 1056–1066](https://academic.oup.com/beheco/article/29/5/1056/5026290).
 
 `2017`
-**Enbody, E.D.**, Lantz S.M., and J. Karubian. 2017. Production of plumage ornaments among males and females of two closely related tropical passerine bird species. [Ecology and Evolution. 00:1-11](http://onlinelibrary.wiley.com/doi/10.1002/ece3.3000/full).
+**Enbody, E.D.**, S.M. Lantz, and J. Karubian. 2017. Production of plumage ornaments among males and females of two closely related tropical passerine bird species. [Ecology and Evolution. 00:1-11](http://onlinelibrary.wiley.com/doi/10.1002/ece3.3000/full).
 
 `2017`
 Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Colombelli-Négrel, **E.D. Enbody**, K. Gielow, M. L. Hall, A. E. Johnson, J. Karubian, S. A. Kingma, S. Kleindorfer, M. Louter, R.A. Mulder, A. Peters, S. Pruett-Jones, K. A. Tarvin, D.J. Thrasher, C.W. Varian-Ramos, M.S. Webster, A. Cockburn. 2017. Multiple hypotheses explain variation in extra-pair paternity at different levels in a highly variable avian family. [Molecular Ecology. 26:6717–6729](http://onlinelibrary.wiley.com/doi/10.1111/mec.14385/full).
@@ -102,12 +102,14 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 ### Preprints
 
 `.`
-C.-J. Rubin†, **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. *under review*. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Link to preprint](https://www.biorxiv.org/content/10.1101/2021.09.17.460815v1)
+Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. *under review*. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Link to preprint](https://www.biorxiv.org/content/10.1101/2021.09.17.460815v1)
 
 ### Under review or in revision
 
 `.`
 **Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *under review*. The evolutionary history and mechanistic basis of female ornamentation in a tropical songbird.
+
+`.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a 4 million-year-old inversion polymorphism in ruff. 
 
 ### Genome assemblies
 
