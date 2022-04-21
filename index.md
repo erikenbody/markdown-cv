@@ -108,7 +108,7 @@ Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. La
 `.`
 **Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *under review*. The evolutionary history and mechanistic basis of female ornamentation in a tropical songbird.
 
-`.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a 4 million-year-old inversion polymorphism in ruff. 
+`.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff.
 
 ### Genome assemblies
 
@@ -121,6 +121,8 @@ Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. La
 Ruff: *Calidris pugnax* (in progress)
 
 White-shouldered Fairywrren: *Malurus alboscapulatus* (in progress)
+
+Red-backed Fairywren: *Malurus melanocephalus* (in progress)
 
 ## Grants and Honors
 
@@ -211,11 +213,20 @@ Female Ornamentation in the White-shouldered Fairywren. Guest lecture at Binatan
 
 ## Conference Presentations
 
+`2021`
+**Enbody, E.D.**, C. Grace Sprehn, Ashley T. Sendell-Price, B. Rosemary Grant, Peter R. Grant, Leif Andersson. The evolution of Darwin’s finches — Whole genome sequencing of an entire community of finches on Daphne island. Evolution (Virtual). 
+
+`2021`
+Khalil, S. J. Walsh, **E.D. Enbody**, D. T. Baldassarre, H. Schwabl, M. S. Webster, J. Karubian. Genomic, transcriptomic, and endocrine mechanisms underlying the introgression of a sexually-selected plumage trait. Evolution (Virtual). **S.K. received a W.D. Hamilton Award for this presentation**. 
+
+`2021`
+**Enbody, E.D.**, C. Grace Sprehn, Ashley T. Sendell-Price, B. Rosemary Grant, Peter R. Grant, Leif Andersson. The evolution of Darwin’s finches — Whole genome sequencing of an entire community of finches on Daphne island. American Ornithological Society Meeting (Virtual).
+
 `2020`
 **Enbody, E.D.**, P. R. Grant, B. R. Grant, C. G. Sprehn, A. Abzhanov, M. Dobreva, O. Osborne, C. Wang, L. Andersson. Genetic Basis and Long-Term Dynamics of a Color Polymorphism in Darwin's Finches. Invited symposium "Studies of avian radiations in the 21st century", North American Ornithological Congress, virtual conference.
 
 `2020`
-**Enbody, E.D.**, P. Alström, N. Menon, T. Van der Valk, R. Harris, Y. Liu, F. Lei, L. Andersson. Evolutionary genomics of awidespread continental radiation: the Motacilla wagtails. Invited symposium "Studies of avian radiations in the 21st century", North American Ornithological Congress, virtual conference.
+**Enbody, E.D.**, P. Alström, N. Menon, T. Van der Valk, R. Harris, Y. Liu, F. Lei, L. Andersson. Evolutionary genomics of a widespread continental radiation: the Motacilla wagtails. Invited symposium "Studies of avian radiations in the 21st century", North American Ornithological Congress, virtual conference.
 
 `2019`
 **Enbody, E.D.** Evolutionary genomics looking forward: the importance of natural history knowledge. Department of Medical Biochemistry and Microbiology, IMBIM Days "The Scientific Frontiers", Marholmen, Sweden.
@@ -252,6 +263,9 @@ Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Se
 
 ## Poster Presentations
 (^undergraduate student, \*Papua New Guinea national & researcher)
+
+`2022`
+Evolutionary Genomics of the *Motacilla alba* (white wagtails) radiation. Unneberg, P., **E.D. Enbody**, T. van der Valk, L. Andersson, P. Alström. Probabalistic Modeling in Genomics Conference. Oxford, UK. 
 
 `2018`
 **Enbody, E.D.**, Y.W. Sin, J. Boersma, H. Schwabl, M.S. Webster, S.V. Edwards, J. Karubian. The genomic architecture of female ornament evolution. Joint Congress on Evolutionary Biology. Montpellier, France.
