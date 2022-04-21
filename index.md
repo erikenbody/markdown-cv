@@ -17,11 +17,7 @@ title: Erik Enbody CV
 
 I am an evolutionary biologist trained in bioinformatics, field ecology, and behavioral research. My research is driven by my fascination with the processes that generate and maintain diversity in wild populations. This research includes projects on birds, mammals, invertebrates, fish, and plants from the Americas, Eurasia, and Oceania.
 
-## Supervisor Reference
-
-Dr. Russ Corbett-Detig, Assistant Professor, UC Santa Cruz. (contact me first, phone number available on request).
-
-## Appointments (full time)
+## Appointments
 
 `2021-`
 **University of California, Santa Cruz, CA**
