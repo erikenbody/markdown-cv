@@ -57,7 +57,7 @@ Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. La
 **Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *Accepted Manuscript*. The evolutionary history and mechanistic basis of female ornamentation in a tropical songbird. Evolution.
 
 `2022`
-Boersma, J., J. A. Jones, **E. D. Enbody**, J. Welklin, S. Ketaloya, J. Karubian, and H. Schwabl. *under review*. Male White-shouldered Fairywrens (Malurus alboscapulatus) elevate testosterone when courting females but not during territorial challenges. [Hormones and Behavior: 105158](https://doi.org/10.1016/j.yhbeh.2022.105158)
+Boersma, J., J. A. Jones, **E. D. Enbody**, J. Welklin, S. Ketaloya, J. Karubian, and H. Schwabl. 2022. Male White-shouldered Fairywrens (Malurus alboscapulatus) elevate testosterone when courting females but not during territorial challenges. [Hormones and Behavior: 105158](https://doi.org/10.1016/j.yhbeh.2022.105158)
 
 `2021`
 **E.D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. 2021. A multispecies BCO2 beak color polymorphism in the Darwin’s finch radiation. [Current Biology. 31(24):5597-5604.e7](https://doi.org/10.1016/j.cub.2021.09.085).
