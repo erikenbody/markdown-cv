@@ -49,6 +49,13 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
+
+`2022`
+Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. *Accepted Manuscript*. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Science Advances, link to preprint](https://www.biorxiv.org/content/10.1101/2021.09.17.460815v1)
+
+`2022`
+**Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *Accepted Manuscript*. The evolutionary history and mechanistic basis of female ornamentation in a tropical songbird. Evolution.
+
 `2022`
 Boersma, J., J. A. Jones, **E. D. Enbody**, J. Welklin, S. Ketaloya, J. Karubian, and H. Schwabl. *under review*. Male White-shouldered Fairywrens (Malurus alboscapulatus) elevate testosterone when courting females but not during territorial challenges. [Hormones and Behavior: 105158](https://doi.org/10.1016/j.yhbeh.2022.105158)
 
@@ -98,15 +105,7 @@ Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvo
 `2017`
 Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Colombelli-Négrel, **E.D. Enbody**, K. Gielow, M. L. Hall, A. E. Johnson, J. Karubian, S. A. Kingma, S. Kleindorfer, M. Louter, R.A. Mulder, A. Peters, S. Pruett-Jones, K. A. Tarvin, D.J. Thrasher, C.W. Varian-Ramos, M.S. Webster, A. Cockburn. 2017. Multiple hypotheses explain variation in extra-pair paternity at different levels in a highly variable avian family. [Molecular Ecology. 26:6717–6729](http://onlinelibrary.wiley.com/doi/10.1111/mec.14385/full).
 
-### Preprints
-
-`.`
-Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. *under review*. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Link to preprint](https://www.biorxiv.org/content/10.1101/2021.09.17.460815v1)
-
 ### Under review or in revision
-
-`.`
-**Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *under review*. The evolutionary history and mechanistic basis of female ornamentation in a tropical songbird.
 
 `.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff.
 
@@ -127,6 +126,8 @@ Red-backed Fairywren: *Malurus melanocephalus* (in progress)
 ## Grants and Honors
 
 ### Research Grants
+
+`2020`  NBIS & Wallenberg Foundation SciLifeLab Bioinformatics Long-term Support, 500 hours
 
 `2017`  National Science Foundation Dissertation Improvement Grant, $20,000. PI: Jordan Karubian, Collaborators: Scott V. Edwards
 
@@ -183,6 +184,9 @@ Richard G. and Reba Beidleman Award in Ecology
 “Awarded to a Colorado College student demonstrating outstanding potential for becoming a professional ecologist and/or field biologist.”
 
 ## Invited Seminars & Visiting Lectures
+
+`2021`
+Big data landscape genomics: linking contemporary processes to deep time genomic inferences in an adaptive radiation. BSOE Seminar Series, UC Santa Cruz, CA, USA.
 
 `2020`
 Evolution of color in Darwin's Finches and *Motacilla* Wagtails. Department of Medical Biochemistry and Microbiology, Comparative Genetics and Functional Genomics Seminar Series, Uppsala University, Uppsala, Sweden.
@@ -263,6 +267,9 @@ Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Se
 
 ## Poster Presentations
 (^undergraduate student, \*Papua New Guinea national & researcher)
+
+`2022`
+High throughput conservation and landscape genomics. **E.D. Enbody**, C. Mirchandani, R. Corbett-Detig. USPA Postdoc Day, UC Santa Cruz, CA.
 
 `2022`
 Evolutionary Genomics of the *Motacilla alba* (white wagtails) radiation. Unneberg, P., **E.D. Enbody**, T. van der Valk, L. Andersson, P. Alström. Probabalistic Modeling in Genomics Conference. Oxford, UK. 
@@ -387,13 +394,13 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 ### Manuscript reviews
 
-Current Biology (1), PLOS Genetics (1), Molecular Ecology (1), Journal of Evolutionary Biology (2), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (1), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
+Current Biology (1), PLOS Genetics (1), Molecular Ecology (1), Journal of Evolutionary Biology (2), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (2), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
 
 
 ### Service & Outreach
 
 `2022-`
-UC Santa Cruz Genomics Institute Diversity Committee member
+UC Santa Cruz Genomics Institute Diversity Committee Member
 
 `2020-01`
 "Skype-a-scientist" Webber Middle School, Fort Collins, CO
@@ -445,9 +452,9 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 ### Professional memberships
 
-`2014-21`	American Ornithological Society
+`2014-22`	American Ornithological Society
 
-`2014-21`	Society for the Study of Evolution
+`2014-22`	Society for the Study of Evolution
 
 `2019-21`	European Society for Evolutionary Biology
 
