@@ -49,15 +49,14 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
+`2022`
+Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. *Accepted Manuscript*. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Science Advances. 8(27):eabm5982](https://doi.org/10.1126/sciadv.abm5982).
 
 `2022`
-Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. *Accepted Manuscript*. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Science Advances, link to preprint](https://www.biorxiv.org/content/10.1101/2021.09.17.460815v1)
+**Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *Accepted Manuscript*. The evolutionary history and mechanistic basis of female ornamentation in a tropical songbird. [Evolution. 76(8):1720-1736](https://doi.org/10.1111/evo.14545).
 
 `2022`
-**Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *Accepted Manuscript*. The evolutionary history and mechanistic basis of female ornamentation in a tropical songbird. Evolution.
-
-`2022`
-Boersma, J., J. A. Jones, **E. D. Enbody**, J. Welklin, S. Ketaloya, J. Karubian, and H. Schwabl. 2022. Male White-shouldered Fairywrens (Malurus alboscapulatus) elevate testosterone when courting females but not during territorial challenges. [Hormones and Behavior: 105158](https://doi.org/10.1016/j.yhbeh.2022.105158)
+Boersma, J., J. A. Jones, **E. D. Enbody**, J. Welklin, S. Ketaloya, J. Karubian, and H. Schwabl. 2022. Male White-shouldered Fairywrens (Malurus alboscapulatus) elevate testosterone when courting females but not during territorial challenges. [Hormones and Behavior: 105158](https://doi.org/10.1016/j.yhbeh.2022.105158).
 
 `2021`
 **E.D. Enbody**, C.G. Sprehn, A. Abzhanov, H. Bi, M.P. Dobreva, O.G. Osborne, C.J. Rubin, P.R. Grant, B.R. Grant, L. Andersson. 2021. A multispecies BCO2 beak color polymorphism in the Darwin’s finch radiation. [Current Biology. 31(24):5597-5604.e7](https://doi.org/10.1016/j.cub.2021.09.085).
@@ -107,7 +106,7 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 ### Under review or in revision
 
-`.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff.
+`.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Link to preprint](https://doi.org/10.1101/2022.04.27.489720)
 
 ### Genome assemblies
 
@@ -117,9 +116,9 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 [European Rabbit (in progress)](https://www.ncbi.nlm.nih.gov/assembly/GCA_013371645.1)
 
-Ruff: *Calidris pugnax* (in progress)
+Ruff: *Calidris pugnax* (completed)
 
-White-shouldered Fairywrren: *Malurus alboscapulatus* (in progress)
+White-shouldered Fairywrren: *Malurus alboscapulatus* (completed)
 
 Red-backed Fairywren: *Malurus melanocephalus* (in progress)
 
@@ -170,7 +169,7 @@ Red-backed Fairywren: *Malurus melanocephalus* (in progress)
 ### Other Honors
 
 `2021-22`
-UCSC BSOE Super Slug Award x2
+UCSC BSOE Super Slug Award x3
 
 `2018`
 American Ornithological Society Council Best Student Presentation Award
@@ -184,6 +183,15 @@ Richard G. and Reba Beidleman Award in Ecology
 “Awarded to a Colorado College student demonstrating outstanding potential for becoming a professional ecologist and/or field biologist.”
 
 ## Invited Seminars & Visiting Lectures
+
+`2022`
+Upcoming: Using whole community genomics to study the effects of natural selection and introgression on Galápagos finch evolution. UCSC EEB Fall Seminar Series, UC Santa Cruz, CA, USA. (scheduled October 28th)
+
+`2022`
+Upcoming: Complete community genome sequencing in Galápagos finches: large effect loci for key ecological traits and their evolutionary histories. MVZ Seminar Series, UC Berkeley (scheduled October 15th)
+
+`2022`
+Bioinformatics Overview and WGS Demo. California Conservation Genomics Project All Hands Meeting, UCLA, CA, USA.
 
 `2021`
 Big data landscape genomics: linking contemporary processes to deep time genomic inferences in an adaptive radiation. BSOE Seminar Series, UC Santa Cruz, CA, USA.
@@ -216,6 +224,15 @@ Genetic, transcriptional, and endocrine factors drive evolutionary transitions i
 Female Ornamentation in the White-shouldered Fairywren. Guest lecture at Binatang Research Center, Madang Province, Papua New Guinea.
 
 ## Conference Presentations
+
+`2022`
+Hill†, J., **E.D. Enbody†** (presenter), H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. A American Ornithological Society Meeting, San Juan, Puerto Rico.
+
+`2022`
+Hill†, J., **E.D. Enbody†** (presenter), H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. Evolution (virtual).
+
+`2022`
+**Enbody, E.D.**, C. Grace Sprehn, Ashley T. Sendell-Price, B. Rosemary Grant, Peter R. Grant, Leif Andersson. Population genomics of an entire community of Galápagos finches. Population, Evolutionary, and Quantitative Genetics Conference, Asilomar, CA.
 
 `2021`
 **Enbody, E.D.**, C. Grace Sprehn, Ashley T. Sendell-Price, B. Rosemary Grant, Peter R. Grant, Leif Andersson. The evolution of Darwin’s finches — Whole genome sequencing of an entire community of finches on Daphne island. Evolution (Virtual). 
@@ -326,11 +343,15 @@ Rose, A.^, S.M. Lantz, **E.D. Enbody**, J. Karubian. How do feathers relevant to
 ### Workshops
 
 `2018`
-Differential Expression workshop: Designed and implemented a short workshop to teach the fundamentals and methods for RNAseq data processing and differential expression analysis. Included as a part of the first Bioinformatics & Genomics Course taught at Tulane University.
+Differential Expression workshop: Designed and implemented a short workshop to teach the fundamentals and methods for RNAseq data processing and differential expression analysis. Included as a part of the first Bioinformatics & Genomics Course taught in EEB at Tulane University.
 
 `2016/su` Summer Bioinformatics Workshop, Cofounder & instructor, Tulane University: Focus on using python, R, and UNIX for analysis of RADseq datasets (eight participants).
 
 ### Mentoring
+
+`2022` Nick Chan - undergraduate developing comparative demographic modeling methods.
+
+`2022` Cade Merchandani - student and assistant specialist developing variant calling workflow.
 
 `2019-20` Navaneeth Menon - intern training in bioinformatics techniques for the study of wagtail evolution.
 
@@ -401,6 +422,9 @@ Current Biology (1), PLOS Genetics (1), Molecular Ecology (1), Journal of Evolut
 
 `2022-`
 UC Santa Cruz Genomics Institute Diversity Committee Member
+
+`2020`
+"Best presentation judge, North American Ornithological Conference (virtual)
 
 `2020-01`
 "Skype-a-scientist" Webber Middle School, Fort Collins, CO
