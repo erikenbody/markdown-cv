@@ -49,11 +49,13 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
-`2022`
-Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. *Accepted Manuscript*. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Science Advances. 8(27):eabm5982](https://doi.org/10.1126/sciadv.abm5982).
+`2022` Boersma, J., **E.D. Enbody**, J. Karubian, H. Watts, H. Schwabl. *Accepted manuscript*. Drought disrupts year-round breeding readiness in a tropical songbird. Avian Conservation and Ecology. 
 
 `2022`
-**Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. *Accepted Manuscript*. The evolutionary history and mechanistic basis of female ornamentation in a tropical songbird. [Evolution. 76(8):1720-1736](https://doi.org/10.1111/evo.14545).
+Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. 2022. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Science Advances. 8(27):eabm5982](https://doi.org/10.1126/sciadv.abm5982).
+
+`2022`
+**Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. 2022. The evolutionary history and mechanistic basis of female ornamentation in a tropical songbird. [Evolution. 76(8):1720-1736](https://doi.org/10.1111/evo.14545).
 
 `2022`
 Boersma, J., J. A. Jones, **E. D. Enbody**, J. Welklin, S. Ketaloya, J. Karubian, and H. Schwabl. 2022. Male White-shouldered Fairywrens (Malurus alboscapulatus) elevate testosterone when courting females but not during territorial challenges. [Hormones and Behavior: 105158](https://doi.org/10.1016/j.yhbeh.2022.105158).
@@ -108,6 +110,8 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 `.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Link to preprint](https://doi.org/10.1101/2022.04.27.489720)
 
+Pettersson, M.E., A. P. Fuentes-Pardo, C. M. Rochus, **E. D. Enbody**, H. Bi, R. Väinölä, L. Andersson. *in revision* A long-standing hybrid population between Pacific and Atlantic herring in a subarctic fjord of Norway.
+
 ### Genome assemblies
 
 [White Wagtail assembly](https://www.ncbi.nlm.nih.gov/assembly/GCF_015832195.1)
@@ -118,7 +122,7 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 Ruff: *Calidris pugnax* (completed)
 
-White-shouldered Fairywrren: *Malurus alboscapulatus* (completed)
+[White-shouldered Fairywren](https://www.ncbi.nlm.nih.gov/assembly/GCA_025434525.1/)
 
 Red-backed Fairywren: *Malurus melanocephalus* (in progress)
 
@@ -169,7 +173,7 @@ Red-backed Fairywren: *Malurus melanocephalus* (in progress)
 ### Other Honors
 
 `2021-22`
-UCSC BSOE Super Slug Award x3
+UCSC BSOE Super Slug Award x4
 
 `2018`
 American Ornithological Society Council Best Student Presentation Award
