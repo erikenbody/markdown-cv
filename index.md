@@ -108,7 +108,9 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 ### Under review or in revision
 
-`.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Link to preprint](https://doi.org/10.1101/2022.04.27.489720)
+`.` **E.D. Enbody**, A.T. Sendell-Price, C.G. Sprehn, C.-J. Rubin, P.M. Visscher, B.R. Grant, P.R. Grant, L. Andersson. *submitted*. Large effect loci have a prominent role in Darwin's finch evolution. [Link to preprint](https://doi.org/10.1101/2022.10.29.514326).
+
+`.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Link to preprint](https://doi.org/10.1101/2022.04.27.489720).
 
 Pettersson, M.E., A. P. Fuentes-Pardo, C. M. Rochus, **E. D. Enbody**, H. Bi, R. Väinölä, L. Andersson. *in revision* A long-standing hybrid population between Pacific and Atlantic herring in a subarctic fjord of Norway.
 
@@ -386,7 +388,7 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 **Dissertation fieldwork**: Papua New Guinea (Milne Bay, Western, Madang, Highlands, Enga, and Morobe Provinces)
 
 `2013/su`
-**Volunteer*Research assistant Red-backed Fairywren behavioral ecology study, Batchelor, Northern Territory.
+**Volunteer** Research assistant Red-backed Fairywren behavioral ecology study, Batchelor, Northern Territory.
 
 `2012/fa`
 **Full time** Banding intern at the Palomarin field station, Bolinas, California: Seasonal internship banding passerines at various locations in the Point Reyes National Seashore (480 birds processed).
@@ -398,7 +400,7 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 **Full time** Thesis research and Flammulated Owl crew research assistant: Developed and performed an independent research project on Red Squirrel predation of Flammulated Owls using artificial nests in natural cavities. Also assisted with spot mapping, nest searching, and banding of owls.
 
 `2011`
-**Volunteer**Undergraduate research, Ecuador: Conducted various class projects surveying birds, frogs, and butterflies in the Ecuadorian Amazon and Manabí Province. Designed playback experiment to test heterospecific responses between two sympatric antshrike species.
+**Volunteer** Undergraduate research, Ecuador: Conducted various class projects surveying birds, frogs, and butterflies in the Ecuadorian Amazon and Manabí Province. Designed playback experiment to test heterospecific responses between two sympatric antshrike species.
 
 `2010`
 **Full time** Vegetation Sampling Assistant (summer contractor): U.S. Geological Survey, Elko, Nevada
@@ -428,7 +430,7 @@ Current Biology (1), PLOS Genetics (1), Molecular Ecology (1), Journal of Evolut
 UC Santa Cruz Genomics Institute Diversity Committee Member
 
 `2020`
-"Best presentation judge, North American Ornithological Conference (virtual)
+Presentation judge, North American Ornithological Conference (virtual)
 
 `2020-01`
 "Skype-a-scientist" Webber Middle School, Fort Collins, CO
