@@ -108,11 +108,18 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 ### Under review or in revision
 
-`.` **E.D. Enbody**, A.T. Sendell-Price, C.G. Sprehn, C.-J. Rubin, P.M. Visscher, B.R. Grant, P.R. Grant, L. Andersson. *submitted*. Large effect loci have a prominent role in Darwin's finch evolution. [Link to preprint](https://doi.org/10.1101/2022.10.29.514326).
+`.` **E.D. Enbody**, A.T. Sendell-Price, C.G. Sprehn, C.-J. Rubin, P.M. Visscher, B.R. Grant, P.R. Grant, L. Andersson. *under review*. Large effect loci have a prominent role in Darwin's finch evolution. [Link to preprint](https://doi.org/10.1101/2022.10.29.514326).
 
 `.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Link to preprint](https://doi.org/10.1101/2022.04.27.489720).
 
-Pettersson, M.E., A. P. Fuentes-Pardo, C. M. Rochus, **E. D. Enbody**, H. Bi, R. Väinölä, L. Andersson. *in revision* A long-standing hybrid population between Pacific and Atlantic herring in a subarctic fjord of Norway.
+`.` Khalil, S., **E.D. Enbody**, C. Frankl, J.F. Welklin, R.E. Koch, M.B. Toomey, S.Y.W. Sin, S.V. Edwards, M. Gahr, H. Schwabl, M.S. Webster, J. Karubian. *under review*. Testosterone coordinates gene expression across different tissues to produce carotenoid-based red ornamentation.
+
+`.` Alström, P., Z. Mohammadi, **E. D. Enbody**, M. Irestedt, D.
+Engelbrecht, P.-A. Crochet, A. Guillaumet, L. Rancilhac, B.I. Tieleman,
+U. Olsson, P.F. Donald, M. Stervander. *under review*. Systematics of the avian family Alaudidae using multilocus and genomic
+data. 
+
+`.` Pettersson, M.E., A. P. Fuentes-Pardo, C. M. Rochus, **E. D. Enbody**, H. Bi, R. Väinölä, L. Andersson. *in revision* A long-standing hybrid population between Pacific and Atlantic herring in a subarctic fjord of Norway.
 
 ### Genome assemblies
 
@@ -191,16 +198,25 @@ Richard G. and Reba Beidleman Award in Ecology
 ## Invited Seminars & Visiting Lectures
 
 `2022`
-Upcoming: Using whole community genomics to study the effects of natural selection and introgression on Galápagos finch evolution. UCSC EEB Fall Seminar Series, UC Santa Cruz, CA, USA. (scheduled October 28th)
+Population genomics of an entire community of Galápagos finches. Guest lecture for Genetics course at Loyola Chicago, Illinois (by Zoom).
 
 `2022`
-Upcoming: Complete community genome sequencing in Galápagos finches: large effect loci for key ecological traits and their evolutionary histories. MVZ Seminar Series, UC Berkeley (scheduled October 15th)
+Using whole community genomics to study the effects of natural selection and introgression on Galápagos finch evolution. UCSC EEB Fall Seminar Series, UC Santa Cruz, CA, USA. 
+
+`2022`
+Complete community genome sequencing in Galápagos finches: large effect loci for key ecological traits and their evolutionary histories. MVZ Seminar Series, UC Berkeley. 
 
 `2022`
 Bioinformatics Overview and WGS Demo. California Conservation Genomics Project All Hands Meeting, UCLA, CA, USA.
 
 `2021`
+Big data landscape genomics: linking contemporary processes to deep time genomic inferences in an adaptive radiation. E3B Seminar Series, Columbia University, NY, USA.
+
+`2021`
 Big data landscape genomics: linking contemporary processes to deep time genomic inferences in an adaptive radiation. BSOE Seminar Series, UC Santa Cruz, CA, USA.
+
+`2021`
+Biodiversity evolution: color evolution from different perspectives. Black Hills State University Seminar Series (virtual). Spearfish, SD, USA.
 
 `2020`
 Evolution of color in Darwin's Finches and *Motacilla* Wagtails. Department of Medical Biochemistry and Microbiology, Comparative Genetics and Functional Genomics Seminar Series, Uppsala University, Uppsala, Sweden.
