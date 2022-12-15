@@ -49,7 +49,7 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
-`2022` Boersma, J., **E.D. Enbody**, J. Karubian, H. Watts, H. Schwabl. *Accepted manuscript*. Drought disrupts year-round breeding readiness in a tropical songbird. Avian Conservation and Ecology. 
+`2022` Boersma, J., **E.D. Enbody**, J. Karubian, H. Watts, H. Schwabl. 2022. Drought disrupts year-round breeding readiness in a tropical songbird. [Avian Conservation and Ecology 17(2):44](https://doi.org/10.5751/ACE-2343-170244).
 
 `2022`
 Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. 2022. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Science Advances. 8(27):eabm5982](https://doi.org/10.1126/sciadv.abm5982).
