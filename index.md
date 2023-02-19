@@ -49,6 +49,9 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
+
+`2023` Khalil, S., **E.D. Enbody**, C. Frankl, J.F. Welklin, R.E. Koch, M.B. Toomey, S.Y.W. Sin, S.V. Edwards, M. Gahr, H. Schwabl, M.S. Webster, J. Karubian. *Accepted manuscript*. Testosterone coordinates gene expression across different tissues to produce carotenoid-based red ornamentation. Molecular Biology and Evolution.
+
 `2022` Boersma, J., **E.D. Enbody**, J. Karubian, H. Watts, H. Schwabl. 2022. Drought disrupts year-round breeding readiness in a tropical songbird. [Avian Conservation and Ecology 17(2):44](https://doi.org/10.5751/ACE-2343-170244).
 
 `2022`
@@ -112,7 +115,7 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 `.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Link to preprint](https://doi.org/10.1101/2022.04.27.489720).
 
-`.` Khalil, S., **E.D. Enbody**, C. Frankl, J.F. Welklin, R.E. Koch, M.B. Toomey, S.Y.W. Sin, S.V. Edwards, M. Gahr, H. Schwabl, M.S. Webster, J. Karubian. *under review*. Testosterone coordinates gene expression across different tissues to produce carotenoid-based red ornamentation.
+`.` Boersma, J., **E.D. Enbody**, S. Ketaloya, H. Watts, J. Karubian, H. Schwabl. *submitted*. Does capacity to elevate androgens underlie variation in female ornamentation and territoriality in White-shouldered Fairywren (Malurus alboscapulatus)?. [Link to preprint](https://doi.org/10.1101/2023.02.16.528857).
 
 `.` Alström, P., Z. Mohammadi, **E. D. Enbody**, M. Irestedt, D.
 Engelbrecht, P.-A. Crochet, A. Guillaumet, L. Rancilhac, B.I. Tieleman,
