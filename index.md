@@ -15,7 +15,7 @@ title: Erik Enbody CV
 
 ## About Me
 
-I am an evolutionary biologist trained in bioinformatics, field ecology, and behavioral research. My research is driven by my fascination with the processes that generate and maintain diversity in wild populations. This research includes projects on birds, mammals, invertebrates, fish, and plants from the Americas, Eurasia, and Oceania.
+I am an evolutionary and conservation biologist trained in bioinformatics, field ecology, and behavioral research. This research includes projects on birds, mammals, invertebrates, fish, and plants from the Americas, Eurasia, and Oceania.
 
 ## Appointments
 
@@ -49,10 +49,13 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
+`2023` Alström, P., Z. Mohammadi, **E. D. Enbody**, M. Irestedt, D.
+Engelbrecht, P.-A. Crochet, A. Guillaumet, L. Rancilhac, B.I. Tieleman,
+U. Olsson, P.F. Donald, M. Stervander. *in press*. Systematics of the avian family Alaudidae using multilocus and genomic data. [Avian Research, in press](https://doi.org/10.1016/j.avrs.2023.100095).
 
-`2023` Khalil, S., **E.D. Enbody**, C. Frankl, J.F. Welklin, R.E. Koch, M.B. Toomey, S.Y.W. Sin, S.V. Edwards, M. Gahr, H. Schwabl, M.S. Webster, J. Karubian. *Accepted manuscript*. Testosterone coordinates gene expression across different tissues to produce carotenoid-based red ornamentation. Molecular Biology and Evolution.
+`2023` Khalil, S., **E.D. Enbody**, C. Frankl, J.F. Welklin, R.E. Koch, M.B. Toomey, S.Y.W. Sin, S.V. Edwards, M. Gahr, H. Schwabl, M.S. Webster, J. Karubian. 2023. Testosterone coordinates gene expression across different tissues to produce carotenoid-based red ornamentation. [Molecular Biology and Evolution. 40(4): msad056](https://doi.org/10.1093/molbev/msad056).
 
-`2022` Boersma, J., **E.D. Enbody**, J. Karubian, H. Watts, H. Schwabl. 2022. Drought disrupts year-round breeding readiness in a tropical songbird. [Avian Conservation and Ecology 17(2):44](https://doi.org/10.5751/ACE-2343-170244).
+`2022` Boersma, J., **E.D. Enbody**, J. Karubian, H. Watts, H. Schwabl. 2022. Drought disrupts year-round breeding readiness in a tropical songbird. [Avian Conservation and Ecology. 17(2):44](https://doi.org/10.5751/ACE-2343-170244).
 
 `2022`
 Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. 2022. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Science Advances. 8(27):eabm5982](https://doi.org/10.1126/sciadv.abm5982).
@@ -115,14 +118,9 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 `.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Link to preprint](https://doi.org/10.1101/2022.04.27.489720).
 
-`.` Boersma, J., **E.D. Enbody**, S. Ketaloya, H. Watts, J. Karubian, H. Schwabl. *submitted*. Does capacity to elevate androgens underlie variation in female ornamentation and territoriality in White-shouldered Fairywren (Malurus alboscapulatus)?. [Link to preprint](https://doi.org/10.1101/2023.02.16.528857).
+`.` Boersma, J., **E.D. Enbody**, S. Ketaloya, H. Watts, J. Karubian, H. Schwabl. *under review*. Does capacity to elevate androgens underlie variation in female ornamentation and territoriality in White-shouldered Fairywren (Malurus alboscapulatus)?. [Link to preprint](https://doi.org/10.1101/2023.02.16.528857).
 
-`.` Alström, P., Z. Mohammadi, **E. D. Enbody**, M. Irestedt, D.
-Engelbrecht, P.-A. Crochet, A. Guillaumet, L. Rancilhac, B.I. Tieleman,
-U. Olsson, P.F. Donald, M. Stervander. *under review*. Systematics of the avian family Alaudidae using multilocus and genomic
-data. 
-
-`.` Pettersson, M.E., A. P. Fuentes-Pardo, C. M. Rochus, **E. D. Enbody**, H. Bi, R. Väinölä, L. Andersson. *in revision* A long-standing hybrid population between Pacific and Atlantic herring in a subarctic fjord of Norway.
+`.` Pettersson, M.E., A. P. Fuentes-Pardo, C. M. Rochus, **E. D. Enbody**, H. Bi, R. Väinölä, L. Andersson. *under review* A long-standing hybrid population between Pacific and Atlantic herring in a subarctic fjord of Norway.
 
 ### Genome assemblies
 
@@ -199,6 +197,9 @@ Richard G. and Reba Beidleman Award in Ecology
 “Awarded to a Colorado College student demonstrating outstanding potential for becoming a professional ecologist and/or field biologist.”
 
 ## Invited Seminars & Visiting Lectures
+
+`2023`
+Using whole community genomics to study the effects of natural selection and introgression on Galápagos finch evolution. Indiana University Biology Seminar Series, Bloomington, Indiana. 
 
 `2022`
 Population genomics of an entire community of Galápagos finches. Guest lecture for Genetics course at Loyola Chicago, Illinois (by Zoom).
