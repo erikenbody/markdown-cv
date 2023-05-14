@@ -49,9 +49,11 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
+`2023` Pettersson, M.E., A. P. Fuentes-Pardo, C. M. Rochus, **E. D. Enbody**, H. Bi, R. Väinölä, L. Andersson. 2023. A long-standing hybrid population between Pacific and Atlantic herring in a subarctic fjord of Norway. [Genome Biology and Evolution. 15(5): evad069](https://doi.org/10.1093/gbe/evad069).
+
 `2023` Alström, P., Z. Mohammadi, **E. D. Enbody**, M. Irestedt, D.
 Engelbrecht, P.-A. Crochet, A. Guillaumet, L. Rancilhac, B.I. Tieleman,
-U. Olsson, P.F. Donald, M. Stervander. *in press*. Systematics of the avian family Alaudidae using multilocus and genomic data. [Avian Research, in press](https://doi.org/10.1016/j.avrs.2023.100095).
+U. Olsson, P.F. Donald, M. Stervander. 2023. Systematics of the avian family Alaudidae using multilocus and genomic data. [Avian Research. 14: 100095](https://doi.org/10.1016/j.avrs.2023.100095).
 
 `2023` Khalil, S., **E.D. Enbody**, C. Frankl, J.F. Welklin, R.E. Koch, M.B. Toomey, S.Y.W. Sin, S.V. Edwards, M. Gahr, H. Schwabl, M.S. Webster, J. Karubian. 2023. Testosterone coordinates gene expression across different tissues to produce carotenoid-based red ornamentation. [Molecular Biology and Evolution. 40(4): msad056](https://doi.org/10.1093/molbev/msad056).
 
@@ -120,7 +122,9 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 `.` Boersma, J., **E.D. Enbody**, S. Ketaloya, H. Watts, J. Karubian, H. Schwabl. *under review*. Does capacity to elevate androgens underlie variation in female ornamentation and territoriality in White-shouldered Fairywren (Malurus alboscapulatus)?. [Link to preprint](https://doi.org/10.1101/2023.02.16.528857).
 
-`.` Pettersson, M.E., A. P. Fuentes-Pardo, C. M. Rochus, **E. D. Enbody**, H. Bi, R. Väinölä, L. Andersson. *under review* A long-standing hybrid population between Pacific and Atlantic herring in a subarctic fjord of Norway.
+`.` Alström, A., Z. Mohammadi, P.F. Donald, M. Nymark, **E.D.
+Enbody**, M. Irestedt, E.B. Elisha, H.K. Ndithia, B.I.
+Tieleman, D. Engelbrecht, U. Olsson, L. Rancilhac, M. Stervander. *under review*. Integrative taxonomy reveals unrecognised species diversity in African Corypha larks (Aves: Alaudidae). 
 
 ### Genome assemblies
 
@@ -161,6 +165,8 @@ Red-backed Fairywren: *Malurus melanocephalus* (in progress)
 `2011`	Colorado College Student-Faculty Collaborative Grant for thesis research, $2,500
 
 ### Travel Grants
+
+`2022` Society for the Molecular Biologgy adn Evolution, ~$3,500
 
 `2018` Society for the Study of Evolution Travel Award, $500
 
@@ -375,13 +381,15 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 ### Mentoring
 
-`2022` Nick Chan - undergraduate developing comparative demographic modeling methods.
+`2022-` Mara Baylis — junior specialist (now Ph.D. student) developing data wrangling, cloud, and bioinformatics experience.
 
-`2022` Cade Merchandani - student and assistant specialist developing variant calling workflow.
+`2022-23` Nick Chan - undergraduate (now Ph.D. student) developing comparative demographic modeling methods.
 
-`2019-20` Navaneeth Menon - intern training in bioinformatics techniques for the study of wagtail evolution.
+`2022-` Cade Merchandani - student and assistant specialist (now Ph.D. student) developing variant calling workflow.
 
-`2019-` Fahime Mohamadnejad - Ph.D. student in animal genomics, training in fundamentals of bioinformatics.
+`2019-20` Navaneeth Menon - intern training (now Ph.D. student) in bioinformatics techniques for the study of wagtail evolution.
+
+`2019-21` Fahime Mohamadnejad - Ph.D. student in animal genomics, training in fundamentals of bioinformatics.
 
 `2017-` Sarah Khalil - Ph.D. student in fundamentals of bioinformatics.
 
@@ -441,10 +449,12 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 ### Manuscript reviews
 
-Current Biology (1), PLOS Genetics (1), Molecular Ecology (1), Journal of Evolutionary Biology (2), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (2), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
+Current Biology (1), PLOS Genetics (1), Molecular Ecology (2), Ornithology (1), Journal of Evolutionary Biology (2), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (2), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
 
 
 ### Service & Outreach
+
+`2023` DNA Day Panel Member and Presentor, CSU Monterey Bay, CA
 
 `2022-`
 UC Santa Cruz Genomics Institute Diversity Committee Member
