@@ -550,11 +550,13 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 **Languages** English, Spanish (Intermediate), Swedish (Beginner)
 
-**Programming** R, bash/unix, Python
+**Programming** R, Python, bash/unix
+
+**Cloud computing** Google Cloud
 
 **Workflow managers** Snakemake
 
-**Database** Filemaker, FreezerPro
+**Database** MongoDB, Filemaker, FreezerPro
 
 **Version Control** GIT
 
