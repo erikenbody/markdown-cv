@@ -326,13 +326,13 @@ Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Se
 ## Poster Presentations
 (^undergraduate student, \*Papua New Guinea national & researcher)
 
-`2023` Comparative genomics reveals evolutionary history of plumage evolution in the hyper variable White Wagtail. *E. D. Enbody*, P. Alström, L. Rancilhac, R. Harris, F. Lei, Y. Liu, N. Menon, G. Semenov, S. Taylor, P. Unneberg, T. Van der Valk, Leif Andersson. Evolution, Albuquerque, NM. 
+`2023` *E. D. Enbody*, P. Alström, L. Rancilhac, R. Harris, F. Lei, Y. Liu, N. Menon, G. Semenov, S. Taylor, P. Unneberg, T. Van der Valk, Leif Andersson. Comparative genomics reveals evolutionary history of plumage evolution in the hyper variable White Wagtail. Evolution, Albuquerque, NM. 
 
 `2022`
-High throughput conservation and landscape genomics. **E.D. Enbody**, C. Mirchandani, R. Corbett-Detig. USPA Postdoc Day, UC Santa Cruz, CA.
+**E.D. Enbody**, C. Mirchandani, R. Corbett-Detig. High throughput conservation and landscape genomics. USPA Postdoc Day, UC Santa Cruz, CA.
 
 `2022`
-Evolutionary Genomics of the *Motacilla alba* (white wagtails) radiation. Unneberg, P., **E.D. Enbody**, T. van der Valk, L. Andersson, P. Alström. Probabalistic Modeling in Genomics Conference. Oxford, UK. 
+Unneberg, P., **E.D. Enbody**, T. van der Valk, L. Andersson, P. Alström. Evolutionary Genomics of the *Motacilla alba* (white wagtails) radiation. Probabalistic Modeling in Genomics Conference. Oxford, UK. 
 
 `2018`
 **Enbody, E.D.**, Y.W. Sin, J. Boersma, H. Schwabl, M.S. Webster, S.V. Edwards, J. Karubian. The genomic architecture of female ornament evolution. Joint Congress on Evolutionary Biology. Montpellier, France.
