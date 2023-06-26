@@ -257,8 +257,17 @@ Female Ornamentation in the White-shouldered Fairywren. Guest lecture at Binatan
 
 ## Conference Presentations
 
+`2023` 
+**E.D. Enbody**, J. Novembre, R. Corbett-Detig. Comparative effective estimated migration surfaces across California’s wildlife. Evolution, Albuquerque, NM. 
+
+`2023`
+P. M. Benham, C. Cicero, **E.D. Enbody**, L. L. Smith, M. M. Davila, M. W. Nachman, R. C. K. Bowie. Comparing spatial patterns of genetic diversity across three Californian quail species. Evolution, Albuquerque, NM. 
+
+`2023`
+S.Y.W. Sin, F. Ke, G. Chen, **E.D. Enbody**, J. Karubian, M.S. Webster, S.V. Edwards. Genetic basis and evolution of structural color polymorphism in an Australian songbird
+
 `2022`
-Hill†, J., **E.D. Enbody†** (presenter), H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. A American Ornithological Society Meeting, San Juan, Puerto Rico.
+Hill†, J., **E.D. Enbody†** (presenter), H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. American Ornithological Society Meeting, San Juan, Puerto Rico.
 
 `2022`
 Hill†, J., **E.D. Enbody†** (presenter), H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. Evolution (virtual).
@@ -316,6 +325,8 @@ Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Se
 
 ## Poster Presentations
 (^undergraduate student, \*Papua New Guinea national & researcher)
+
+`2023` Comparative genomics reveals evolutionary history of plumage evolution in the hyper variable White Wagtail. *E. D. Enbody*, P. Alström, L. Rancilhac, R. Harris, F. Lei, Y. Liu, N. Menon, G. Semenov, S. Taylor, P. Unneberg, T. Van der Valk, Leif Andersson. Evolution, Albuquerque, NM. 
 
 `2022`
 High throughput conservation and landscape genomics. **E.D. Enbody**, C. Mirchandani, R. Corbett-Detig. USPA Postdoc Day, UC Santa Cruz, CA.
