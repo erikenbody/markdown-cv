@@ -49,6 +49,13 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
+`2023` **E.D. Enbody**, A.T. Sendell-Price, C.G. Sprehn, C.-J. Rubin, P.M. Visscher, B.R. Grant, P.R. Grant, L. Andersson. *Accepted manuscript*. Community-wide genome sequencing reveals 30 years of Darwin’s finch evolution. [Science. Link to preprint](https://doi.org/10.1101/2022.10.29.514326).
+
+
+`2023` Boersma, J., **E.D. Enbody**, S. Ketaloya, H. Watts, J. Karubian, H. Schwabl. *Accepted manuscript*. Does capacity to elevate androgens underlie variation in female ornamentation and territoriality in White-shouldered Fairywren (Malurus alboscapulatus)?. [Hormones & Behavior, Link to preprint](https://doi.org/10.1101/2023.02.16.528857).
+
+`2023` Alström, A., Z. Mohammadi, P.F. Donald, M. Nymark, **E.D. Enbody**, M. Irestedt, E.B. Elisha, H.K. Ndithia, B.I. Tieleman, D. Engelbrecht, U. Olsson, L. Rancilhac, M. Stervander. *Accepted manuscript*. Integrative taxonomy reveals unrecognised species diversity in African Corypha larks (Aves: Alaudidae). Zoological Journal of the Linnean Society.
+
 `2023` Pettersson, M.E., A. P. Fuentes-Pardo, C. M. Rochus, **E. D. Enbody**, H. Bi, R. Väinölä, L. Andersson. 2023. A long-standing hybrid population between Pacific and Atlantic herring in a subarctic fjord of Norway. [Genome Biology and Evolution. 15(5): evad069](https://doi.org/10.1093/gbe/evad069).
 
 `2023` Alström, P., Z. Mohammadi, **E. D. Enbody**, M. Irestedt, D.
@@ -116,15 +123,9 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 ### Under review or in revision
 
-`.` **E.D. Enbody**, A.T. Sendell-Price, C.G. Sprehn, C.-J. Rubin, P.M. Visscher, B.R. Grant, P.R. Grant, L. Andersson. *under review*. Large effect loci have a prominent role in Darwin's finch evolution. [Link to preprint](https://doi.org/10.1101/2022.10.29.514326).
-
 `.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Link to preprint](https://doi.org/10.1101/2022.04.27.489720).
 
-`.` Boersma, J., **E.D. Enbody**, S. Ketaloya, H. Watts, J. Karubian, H. Schwabl. *under review*. Does capacity to elevate androgens underlie variation in female ornamentation and territoriality in White-shouldered Fairywren (Malurus alboscapulatus)?. [Link to preprint](https://doi.org/10.1101/2023.02.16.528857).
-
-`.` Alström, A., Z. Mohammadi, P.F. Donald, M. Nymark, **E.D.
-Enbody**, M. Irestedt, E.B. Elisha, H.K. Ndithia, B.I.
-Tieleman, D. Engelbrecht, U. Olsson, L. Rancilhac, M. Stervander. *under review*. Integrative taxonomy reveals unrecognised species diversity in African Corypha larks (Aves: Alaudidae). 
+`.` A fast, reproducible, high-throughput variant calling workflow for evolutionary, ecological, and conservation genomics. C.D. Mirchandani, A.J. Shultz,G.W.C. Thomas, S.J. Smith, M. Baylis, B. Arnold,R. Corbett-Detig†, **E. D. Enbody†**, T. B. Sackton†. [Link to preprint](https://www.biorxiv.org/content/10.1101/2023.06.22.546168v1)
 
 ### Genome assemblies
 
@@ -166,7 +167,9 @@ Red-backed Fairywren: *Malurus melanocephalus* (in progress)
 
 ### Travel Grants
 
-`2022` Society for the Molecular Biologgy adn Evolution, ~$3,500
+`2023` DeLill Nasser Travel Award for Professional Development in Genetics, $1000
+
+`2022` Society for the Molecular Biologgy adn Evolution, $3,500
 
 `2018` Society for the Study of Evolution Travel Award, $500
 
@@ -326,6 +329,9 @@ Odom, K.J., K.E. Cain, **E.D. Enbody**, M.L. Hall, J. Karubian, M.S. Webster. Se
 ## Poster Presentations
 (^undergraduate student, \*Papua New Guinea national & researcher)
 
+`2023` 
+**E.D. Enbody**, J. Novembre, R. Corbett-Detig. Comparative effective estimated migration surfaces. Society for Molecular Biology and Evolution, Ferrara, Italy. 
+
 `2023` *E. D. Enbody*, P. Alström, L. Rancilhac, R. Harris, F. Lei, Y. Liu, N. Menon, G. Semenov, S. Taylor, P. Unneberg, T. Van der Valk, Leif Andersson. Comparative genomics reveals evolutionary history of plumage evolution in the hyper variable White Wagtail. Evolution, Albuquerque, NM. 
 
 `2022`
@@ -392,7 +398,7 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 ### Mentoring
 
-`2022-` Mara Baylis — junior specialist (now Ph.D. student) developing data wrangling, cloud, and bioinformatics experience.
+`2022-23` Mara Baylis — junior specialist (now Ph.D. student) developing data wrangling, cloud, and bioinformatics experience.
 
 `2022-23` Nick Chan - undergraduate (now Ph.D. student) developing comparative demographic modeling methods.
 
