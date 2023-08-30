@@ -51,7 +51,6 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 
 `2023` **E.D. Enbody**, A.T. Sendell-Price, C.G. Sprehn, C.-J. Rubin, P.M. Visscher, B.R. Grant, P.R. Grant, L. Andersson. *Accepted manuscript*. Community-wide genome sequencing reveals 30 years of Darwin’s finch evolution. [Science. Link to preprint](https://doi.org/10.1101/2022.10.29.514326).
 
-
 `2023` Boersma, J., **E.D. Enbody**, S. Ketaloya, H. Watts, J. Karubian, H. Schwabl. *Accepted manuscript*. Does capacity to elevate androgens underlie variation in female ornamentation and territoriality in White-shouldered Fairywren (Malurus alboscapulatus)?. [Hormones & Behavior, Link to preprint](https://doi.org/10.1101/2023.02.16.528857).
 
 `2023` Alström, A., Z. Mohammadi, P.F. Donald, M. Nymark, **E.D. Enbody**, M. Irestedt, E.B. Elisha, H.K. Ndithia, B.I. Tieleman, D. Engelbrecht, U. Olsson, L. Rancilhac, M. Stervander. *Accepted manuscript*. Integrative taxonomy reveals unrecognised species diversity in African Corypha larks (Aves: Alaudidae). Zoological Journal of the Linnean Society.
@@ -125,7 +124,9 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 `.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Link to preprint](https://doi.org/10.1101/2022.04.27.489720).
 
-`.` A fast, reproducible, high-throughput variant calling workflow for evolutionary, ecological, and conservation genomics. C.D. Mirchandani, A.J. Shultz,G.W.C. Thomas, S.J. Smith, M. Baylis, B. Arnold,R. Corbett-Detig†, **E. D. Enbody†**, T. B. Sackton†. [Link to preprint](https://www.biorxiv.org/content/10.1101/2023.06.22.546168v1)
+`.` Mirchandani, C.D., A.J. Shultz, G.W.C. Thomas, S.J. Smith, M. Baylis, B. Arnold,R. Corbett-Detig†, **E.D. Enbody†**, T. B. Sackton†. *under review*. A fast, reproducible, high-throughput variant calling workflow for evolutionary, ecological, and conservation genomics.[Link to preprint](https://www.biorxiv.org/content/10.1101/2023.06.22.546168v1)
+
+`.` Rancilhac, L. **E.D. Enbody**, R. Harris, T. Saitoh, M, Irestedt,Y. Liu, F. Lei, L. Andersson, P. Alström. Introgression underlies phylogenetic uncertainty but not parallel plumage evolution in a recent songbird radiation. [Link to preprint](https://www.biorxiv.org/content/10.1101/2023.04.25.538255v1)
 
 ### Genome assemblies
 
