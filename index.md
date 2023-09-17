@@ -126,7 +126,7 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 `.` Mirchandani, C.D., A.J. Shultz, G.W.C. Thomas, S.J. Smith, M. Baylis, B. Arnold,R. Corbett-Detig†, **E.D. Enbody†**, T. B. Sackton†. *under review*. A fast, reproducible, high-throughput variant calling workflow for evolutionary, ecological, and conservation genomics.[Link to preprint](https://www.biorxiv.org/content/10.1101/2023.06.22.546168v1)
 
-`.` Rancilhac, L. **E.D. Enbody**, R. Harris, T. Saitoh, M, Irestedt,Y. Liu, F. Lei, L. Andersson, P. Alström. Introgression underlies phylogenetic uncertainty but not parallel plumage evolution in a recent songbird radiation. [Link to preprint](https://www.biorxiv.org/content/10.1101/2023.04.25.538255v1)
+`.` Rancilhac, L. **E.D. Enbody**, R. Harris, T. Saitoh, M, Irestedt,Y. Liu, F. Lei, L. Andersson, P. Alström. **minor revision**. Introgression underlies phylogenetic uncertainty but not parallel plumage evolution in a recent songbird radiation. [Link to preprint](https://www.biorxiv.org/content/10.1101/2023.04.25.538255v1)
 
 ### Genome assemblies
 
@@ -136,7 +136,7 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 [European Rabbit (in progress)](https://www.ncbi.nlm.nih.gov/assembly/GCA_013371645.1)
 
-Ruff: *Calidris pugnax* (completed)
+[Ruff: *Calidris pugnax*](https://github.com/LeifAnderssonLab/Ruff_assembly_2022/)
 
 [White-shouldered Fairywren](https://www.ncbi.nlm.nih.gov/assembly/GCA_025434525.1/)
 
