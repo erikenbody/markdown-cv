@@ -122,23 +122,25 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 ### Under review or in revision
 
-`.` Hill†, J., **E.D. Enbody†**, H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Link to preprint](https://doi.org/10.1101/2022.04.27.489720).
+`.` Hill†, J., **E.D. Enbody†**, H. Bi†, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Link to preprint](https://doi.org/10.1101/2022.04.27.489720).
 
 `.` Mirchandani, C.D., A.J. Shultz, G.W.C. Thomas, S.J. Smith, M. Baylis, B. Arnold,R. Corbett-Detig†, **E.D. Enbody†**, T. B. Sackton†. *under review*. A fast, reproducible, high-throughput variant calling workflow for evolutionary, ecological, and conservation genomics.[Link to preprint](https://www.biorxiv.org/content/10.1101/2023.06.22.546168v1)
 
-`.` Rancilhac, L. **E.D. Enbody**, R. Harris, T. Saitoh, M, Irestedt,Y. Liu, F. Lei, L. Andersson, P. Alström. **minor revision**. Introgression underlies phylogenetic uncertainty but not parallel plumage evolution in a recent songbird radiation. [Link to preprint](https://www.biorxiv.org/content/10.1101/2023.04.25.538255v1)
+`.` Rancilhac, L., **E.D. Enbody**, R. Harris, T. Saitoh, M, Irestedt,Y. Liu, F. Lei, L. Andersson, P. Alström. **minor revision**. Introgression underlies phylogenetic uncertainty but not parallel plumage evolution in a recent songbird radiation. [Link to preprint](https://www.biorxiv.org/content/10.1101/2023.04.25.538255v1).
+
+`.` Sin, S.Y.W., F. K., G. Chen, P.-Y. Huang, E.D. Enbody, J. Karubian, M. S. Webster, S. V. Edwards. **submitted manuscript**. Genetic basis and evolution of structural color polymorphism in an Australian songbird. [Link to preprint](https://www.biorxiv.org/content/10.1101/2023.09.03.556140v1).
 
 ### Genome assemblies
 
-[White Wagtail assembly](https://www.ncbi.nlm.nih.gov/assembly/GCF_015832195.1)
+[White Wagtail assembly *Motacilla alba*](https://www.ncbi.nlm.nih.gov/assembly/GCF_015832195.1)
 
-[Small Tree Finch assembly](https://www.ncbi.nlm.nih.gov/assembly/GCA_902806625.1)
+[Small Tree Finch assembly *Camharynchus parvulus*](https://www.ncbi.nlm.nih.gov/assembly/GCA_902806625.1)
 
 [European Rabbit (in progress)](https://www.ncbi.nlm.nih.gov/assembly/GCA_013371645.1)
 
 [Ruff: *Calidris pugnax*](https://github.com/LeifAnderssonLab/Ruff_assembly_2022/)
 
-[White-shouldered Fairywren](https://www.ncbi.nlm.nih.gov/assembly/GCA_025434525.1/)
+[White-shouldered Fairywren *Malurus alboscapulatus*](https://www.ncbi.nlm.nih.gov/assembly/GCA_025434525.1/)
 
 Red-backed Fairywren: *Malurus melanocephalus* (in progress)
 
@@ -467,10 +469,12 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 ### Manuscript reviews
 
-Current Biology (1), PLOS Genetics (1), Molecular Ecology (2), Ornithology (1), Journal of Evolutionary Biology (2), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (2), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
+Current Biology (1), Molecular Biology & Evolution (2), LOS Genetics (1), Molecular Ecology (3), Ornithology (1), Journal of Evolutionary Biology (2), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (2), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
 
 
 ### Service & Outreach
+
+`2023` Anti-racist symposium co-organizer with GI DEI committee
 
 `2023` DNA Day Panel Member and Presentor, CSU Monterey Bay, CA
 
