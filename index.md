@@ -49,9 +49,9 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
-`2023` **E.D. Enbody**, A.T. Sendell-Price, C.G. Sprehn, C.-J. Rubin, P.M. Visscher, B.R. Grant, P.R. Grant, L. Andersson. *Accepted manuscript*. Community-wide genome sequencing reveals 30 years of Darwin’s finch evolution. [Science. Link to preprint](https://doi.org/10.1101/2022.10.29.514326).
+`2023` **E.D. Enbody**, A.T. Sendell-Price, C.G. Sprehn, C.-J. Rubin, P.M. Visscher, B.R. Grant, P.R. Grant, L. Andersson. 2023. Community-wide genome sequencing reveals 30 years of Darwin’s finch evolution. [Science. 331(6665)](https://doi.org/10.1126/science.adf6218).
 
-`2023` Boersma, J., **E.D. Enbody**, S. Ketaloya, H. Watts, J. Karubian, H. Schwabl. *Accepted manuscript*. Does capacity to elevate androgens underlie variation in female ornamentation and territoriality in White-shouldered Fairywren (Malurus alboscapulatus)?. [Hormones & Behavior, Link to preprint](https://doi.org/10.1101/2023.02.16.528857).
+`2023` Boersma, J., **E.D. Enbody**, S. Ketaloya, H. Watts, J. Karubian, H. Schwabl. 2023. Does capacity to elevate androgens underlie variation in female ornamentation and territoriality in White-shouldered Fairywren (Malurus alboscapulatus)?. [Hormones & Behavior. 154(105393)](https://doi.org/10.1016/j.yhbeh.2023.105393).
 
 `2023` Alström, A., Z. Mohammadi, P.F. Donald, M. Nymark, **E.D. Enbody**, M. Irestedt, E.B. Elisha, H.K. Ndithia, B.I. Tieleman, D. Engelbrecht, U. Olsson, L. Rancilhac, M. Stervander. *Accepted manuscript*. Integrative taxonomy reveals unrecognised species diversity in African Corypha larks (Aves: Alaudidae). Zoological Journal of the Linnean Society.
 
