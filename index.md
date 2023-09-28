@@ -51,6 +51,8 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 
 `2023` **E.D. Enbody**, A.T. Sendell-Price, C.G. Sprehn, C.-J. Rubin, P.M. Visscher, B.R. Grant, P.R. Grant, L. Andersson. 2023. Community-wide genome sequencing reveals 30 years of Darwin’s finch evolution. [Science. 331(6665)](https://doi.org/10.1126/science.adf6218).
 
+`2023` Hill†, J., **E.D. Enbody†**, H. Bi†, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. **Accepted manuscript**. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Molecular Biology and Evolution, link to preprint](https://doi.org/10.1101/2022.04.27.489720).
+
 `2023` Boersma, J., **E.D. Enbody**, S. Ketaloya, H. Watts, J. Karubian, H. Schwabl. 2023. Does capacity to elevate androgens underlie variation in female ornamentation and territoriality in White-shouldered Fairywren (Malurus alboscapulatus)?. [Hormones & Behavior. 154(105393)](https://doi.org/10.1016/j.yhbeh.2023.105393).
 
 `2023` Alström, A., Z. Mohammadi, P.F. Donald, M. Nymark, **E.D. Enbody**, M. Irestedt, E.B. Elisha, H.K. Ndithia, B.I. Tieleman, D. Engelbrecht, U. Olsson, L. Rancilhac, M. Stervander. *Accepted manuscript*. Integrative taxonomy reveals unrecognised species diversity in African Corypha larks (Aves: Alaudidae). Zoological Journal of the Linnean Society.
@@ -121,8 +123,6 @@ Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvo
 Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Colombelli-Négrel, **E.D. Enbody**, K. Gielow, M. L. Hall, A. E. Johnson, J. Karubian, S. A. Kingma, S. Kleindorfer, M. Louter, R.A. Mulder, A. Peters, S. Pruett-Jones, K. A. Tarvin, D.J. Thrasher, C.W. Varian-Ramos, M.S. Webster, A. Cockburn. 2017. Multiple hypotheses explain variation in extra-pair paternity at different levels in a highly variable avian family. [Molecular Ecology. 26:6717–6729](http://onlinelibrary.wiley.com/doi/10.1111/mec.14385/full).
 
 ### Under review or in revision
-
-`.` Hill†, J., **E.D. Enbody†**, H. Bi†, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. *under review*. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Link to preprint](https://doi.org/10.1101/2022.04.27.489720).
 
 `.` Mirchandani, C.D., A.J. Shultz, G.W.C. Thomas, S.J. Smith, M. Baylis, B. Arnold,R. Corbett-Detig†, **E.D. Enbody†**, T. B. Sackton†. *under review*. A fast, reproducible, high-throughput variant calling workflow for evolutionary, ecological, and conservation genomics.[Link to preprint](https://www.biorxiv.org/content/10.1101/2023.06.22.546168v1)
 
