@@ -58,7 +58,7 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 
 `2023` Boersma, J., **E.D. Enbody**, S. Ketaloya, H. Watts, J. Karubian, H. Schwabl. 2023. Does capacity to elevate androgens underlie variation in female ornamentation and territoriality in White-shouldered Fairywren (Malurus alboscapulatus)?. [Hormones & Behavior. 154(105393)](https://doi.org/10.1016/j.yhbeh.2023.105393).
 
-`2023` Alström, A., Z. Mohammadi, P.F. Donald, M. Nymark, **E.D. Enbody**, M. Irestedt, E.B. Elisha, H.K. Ndithia, B.I. Tieleman, D. Engelbrecht, U. Olsson, L. Rancilhac, M. Stervander. *Accepted manuscript*. Integrative taxonomy reveals unrecognised species diversity in African Corypha larks (Aves: Alaudidae). Zoological Journal of the Linnean Society.
+`2023` Alström, A., Z. Mohammadi, P.F. Donald, M. Nymark, **E.D. Enbody**, M. Irestedt, E.B. Elisha, H.K. Ndithia, B.I. Tieleman, D. Engelbrecht, U. Olsson, L. Rancilhac, M. Stervander. *Accepted manuscript*. Integrative taxonomy reveals unrecognised species diversity in African Corypha larks (Aves: Alaudidae). [Zoological Journal of the Linnean Society. zlad107](https://doi.org/10.1093/zoolinnean/zlad107)
 
 `2023` Pettersson, M.E., A. P. Fuentes-Pardo, C. M. Rochus, **E. D. Enbody**, H. Bi, R. Väinölä, L. Andersson. 2023. A long-standing hybrid population between Pacific and Atlantic herring in a subarctic fjord of Norway. [Genome Biology and Evolution. 15(5): evad069](https://doi.org/10.1093/gbe/evad069).
 
