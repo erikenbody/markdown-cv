@@ -51,6 +51,9 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 
 `2023` **E.D. Enbody**, A.T. Sendell-Price, C.G. Sprehn, C.-J. Rubin, P.M. Visscher, B.R. Grant, P.R. Grant, L. Andersson. 2023. Community-wide genome sequencing reveals 30 years of Darwin’s finch evolution. [Science. 331(6665)](https://doi.org/10.1126/science.adf6218).
 
+
+`2023` Rancilhac, L., **E.D. Enbody**, R. Harris, T. Saitoh, M, Irestedt,Y. Liu, F. Lei, L. Andersson, P. Alström. **Accepted manuscript**. Introgression underlies phylogenetic uncertainty but not parallel plumage evolution in a recent songbird radiation. [Systematiic Biology, Link to preprint](https://www.biorxiv.org/content/10.1101/2023.04.25.538255v1).
+
 `2023` Hill†, J., **E.D. Enbody†**, H. Bi†, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. **Accepted manuscript**. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Molecular Biology and Evolution, link to preprint](https://doi.org/10.1101/2022.04.27.489720).
 
 `2023` Boersma, J., **E.D. Enbody**, S. Ketaloya, H. Watts, J. Karubian, H. Schwabl. 2023. Does capacity to elevate androgens underlie variation in female ornamentation and territoriality in White-shouldered Fairywren (Malurus alboscapulatus)?. [Hormones & Behavior. 154(105393)](https://doi.org/10.1016/j.yhbeh.2023.105393).
@@ -125,8 +128,6 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 ### Under review or in revision
 
 `.` Mirchandani, C.D., A.J. Shultz, G.W.C. Thomas, S.J. Smith, M. Baylis, B. Arnold,R. Corbett-Detig†, **E.D. Enbody†**, T. B. Sackton†. *under review*. A fast, reproducible, high-throughput variant calling workflow for evolutionary, ecological, and conservation genomics.[Link to preprint](https://www.biorxiv.org/content/10.1101/2023.06.22.546168v1)
-
-`.` Rancilhac, L., **E.D. Enbody**, R. Harris, T. Saitoh, M, Irestedt,Y. Liu, F. Lei, L. Andersson, P. Alström. **minor revision**. Introgression underlies phylogenetic uncertainty but not parallel plumage evolution in a recent songbird radiation. [Link to preprint](https://www.biorxiv.org/content/10.1101/2023.04.25.538255v1).
 
 `.` Sin, S.Y.W., F. K., G. Chen, P.-Y. Huang, E.D. Enbody, J. Karubian, M. S. Webster, S. V. Edwards. **submitted manuscript**. Genetic basis and evolution of structural color polymorphism in an Australian songbird. [Link to preprint](https://www.biorxiv.org/content/10.1101/2023.09.03.556140v1).
 
@@ -262,6 +263,9 @@ Genetic, transcriptional, and endocrine factors drive evolutionary transitions i
 Female Ornamentation in the White-shouldered Fairywren. Guest lecture at Binatang Research Center, Madang Province, Papua New Guinea.
 
 ## Conference Presentations
+
+`2023` 
+**E.D. Enbody**, J. Novembre, R. Corbett-Detig. High-throughput comparative population genomics using comparative migration surfaces across California’s wildlife. Biodiversity Genomics 2023, Virtual Conference. 
 
 `2023` 
 **E.D. Enbody**, J. Novembre, R. Corbett-Detig. Comparative effective estimated migration surfaces across California’s wildlife. Evolution, Albuquerque, NM. 
