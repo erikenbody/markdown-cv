@@ -131,6 +131,8 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 `.` Sin, S.Y.W., F. K., G. Chen, P.-Y. Huang, E.D. Enbody, J. Karubian, M. S. Webster, S. V. Edwards. **submitted manuscript**. Genetic basis and evolution of structural color polymorphism in an Australian songbird. [Link to preprint](https://www.biorxiv.org/content/10.1101/2023.09.03.556140v1).
 
+F.M. Sangdehi, M.S. Jamsandekar, **E.D. Enbody**, M.E. Pettersson, L. Andersson. **submitted manuscript**. Copy number variation and elevated genetic diversity at immune 1 trait loci in Atlantic and Pacific herring 
+
 ### Genome assemblies
 
 [White Wagtail assembly *Motacilla alba*](https://www.ncbi.nlm.nih.gov/assembly/GCF_015832195.1)
