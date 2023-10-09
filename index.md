@@ -54,7 +54,7 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 
 `2023` Rancilhac, L., **E.D. Enbody**, R. Harris, T. Saitoh, M, Irestedt,Y. Liu, F. Lei, L. Andersson, P. Alström. **Accepted manuscript**. Introgression underlies phylogenetic uncertainty but not parallel plumage evolution in a recent songbird radiation. [Systematiic Biology](https://doi.org/10.1093/sysbio/syad062).
 
-`2023` Hill†, J., **E.D. Enbody†**, H. Bi†, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. **Accepted manuscript**. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Molecular Biology and Evolution, link to preprint](https://doi.org/10.1101/2022.04.27.489720).
+`2023` Hill†, J., **E.D. Enbody†**, H. Bi†, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. **Accepted manuscript**. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Molecular Biology and Evolution](https://doi.org/10.1093/molbev/msad224).
 
 `2023` Boersma, J., **E.D. Enbody**, S. Ketaloya, H. Watts, J. Karubian, H. Schwabl. 2023. Does capacity to elevate androgens underlie variation in female ornamentation and territoriality in White-shouldered Fairywren (Malurus alboscapulatus)?. [Hormones & Behavior. 154(105393)](https://doi.org/10.1016/j.yhbeh.2023.105393).
 
