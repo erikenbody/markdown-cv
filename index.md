@@ -51,7 +51,6 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 
 `2023` **E.D. Enbody**, A.T. Sendell-Price, C.G. Sprehn, C.-J. Rubin, P.M. Visscher, B.R. Grant, P.R. Grant, L. Andersson. 2023. Community-wide genome sequencing reveals 30 years of Darwin’s finch evolution. [Science. 331(6665)](https://doi.org/10.1126/science.adf6218).
 
-
 `2023` Rancilhac, L., **E.D. Enbody**, R. Harris, T. Saitoh, M, Irestedt,Y. Liu, F. Lei, L. Andersson, P. Alström. **Accepted manuscript**. Introgression underlies phylogenetic uncertainty but not parallel plumage evolution in a recent songbird radiation. [Systematiic Biology](https://doi.org/10.1093/sysbio/syad062).
 
 `2023` Hill†, J., **E.D. Enbody†**, H. Bi†, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. **Accepted manuscript**. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. [Molecular Biology and Evolution](https://doi.org/10.1093/molbev/msad224).
