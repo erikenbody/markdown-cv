@@ -49,7 +49,10 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
-`.` Mirchandani, C.D., A.J. Shultz, G.W.C. Thomas, S.J. Smith, M. Baylis, B. Arnold,R. Corbett-Detig†, **E.D. Enbody†**, T. B. Sackton†. *In press*. A fast, reproducible, high-throughput variant calling workflow for evolutionary, ecological, and conservation genomics.[Molecular Biology and Evolution, in press](https://doi.org/10.1093/molbev/msad270)
+
+`2024` Sin, S.Y.W., F. K., G. Chen, P.-Y. Huang, **E.D. Enbody**, J. Karubian, M. S. Webster, S. V. Edwards. 2024. Genetic basis and evolution of structural color polymorphism in an Australian songbird. [Molecular Biology and Evolution](https://doi.org/10.1093/molbev/msae046).
+
+`2024` Mirchandani, C.D., A.J. Shultz, G.W.C. Thomas, S.J. Smith, M. Baylis, B. Arnold,R. Corbett-Detig†, **E.D. Enbody†**, T. B. Sackton†. 2024. A fast, reproducible, high-throughput variant calling workflow for evolutionary, ecological, and conservation genomics.[Molecular Biology and Evolution, in press](https://doi.org/10.1093/molbev/msad270)
 
 `2023` **E.D. Enbody**, A.T. Sendell-Price, C.G. Sprehn, C.-J. Rubin, P.M. Visscher, B.R. Grant, P.R. Grant, L. Andersson. 2023. Community-wide genome sequencing reveals 30 years of Darwin’s finch evolution. [Science. 331(6665)](https://doi.org/10.1126/science.adf6218).
 
@@ -128,10 +131,9 @@ Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Co
 
 ### Under review or in revision
 
+Sangdehi, F.M., M.S. Jamsandekar, **E.D. Enbody**, M.E. Pettersson, L. Andersson. **submitted manuscript**. Copy number variation and elevated genetic diversity at immune 1 trait loci in Atlantic and Pacific herring.
 
-`.` Sin, S.Y.W., F. K., G. Chen, P.-Y. Huang, E.D. Enbody, J. Karubian, M. S. Webster, S. V. Edwards. **submitted manuscript**. Genetic basis and evolution of structural color polymorphism in an Australian songbird. [Link to preprint](https://www.biorxiv.org/content/10.1101/2023.09.03.556140v1).
-
-F.M. Sangdehi, M.S. Jamsandekar, **E.D. Enbody**, M.E. Pettersson, L. Andersson. **submitted manuscript**. Copy number variation and elevated genetic diversity at immune 1 trait loci in Atlantic and Pacific herring 
+Wooldridge, B., C. Orland, **E.D. Enbody**, M. Escalona, C. Mirchandani, R. Corbett-Detig, J.D. Kapp, Nathaniel Fletcher, K. Ammann, P. Raimondi, B. Shapiro. **submitted manuscript**. Limited genomic signatures of population collapse in the critically endangered black abalone (Haliotis cracherodii).[link to preprint](https://doi.org/10.1101/2024.01.26.577275)
 
 ### Genome assemblies
 
@@ -214,7 +216,7 @@ Richard G. and Reba Beidleman Award in Ecology
 ## Invited Seminars & Visiting Lectures
 
 `2024`
-Community genomics in Galápagos finches: linking ecological change with evolutionary outcomes. Ole Miss Seminar Series, Oxford, Mississippi. 
+Community genomics in Galápagos finches: linking ecological change with evolutionary outcomes. Ole Miss Seminar Series, Oxford, Mississippi. 
 
 `2023`
 Using whole community genomics to study the effects of natural selection and introgression on Galápagos finch evolution. Indiana University Biology Seminar Series, Bloomington, Indiana. 
