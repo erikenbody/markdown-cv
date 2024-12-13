@@ -19,10 +19,15 @@ I am an evolutionary and conservation biologist trained in bioinformatics, field
 
 ## Appointments
 
-`2021-`
+`2025-`
+**Cornell University, Ithaca, NY**
+
+**Current** Susan E. Lynch Assistant Professor. Department of Computational Biology. 
+
+`2021-2024`
 **University of California, Santa Cruz, CA**
 
-**Current**: Postdoctoral Scholar in Genomics & Bioinformatics with Dr. Russ Corbett-Detig. Biomolecular
+Postdoctoral Scholar in Genomics & Bioinformatics with Dr. Russ Corbett-Detig. Biomolecular
 Engineering Department, UCSC and the California Conservation Genomics Project.
 
 `2018-21`
@@ -49,6 +54,11 @@ Thesis: “Factors affecting the predation of avian nest cavities by Red Squirre
 ### Peer-reviewed journal articles
 (\*Papua New Guinea national & researcher, † denotes equal contribution)
 
+### Under review or in revision
+
+`2024` Sangdehi, F.M., M.S. Jamsandekar, **E.D. Enbody**, M.E. Pettersson, L. Andersson. 2024. Copy number variation and elevated genetic diversity at immune 1 trait loci in Atlantic and Pacific herring. [BMC Genomics](https://doi.org/10.1186/s12864-024-10380-5).
+
+`2024` Wooldridge, B., C. Orland, **E.D. Enbody**, M. Escalona, C. Mirchandani, R. Corbett-Detig, J.D. Kapp, Nathaniel Fletcher, K. Ammann, P. Raimondi, B. Shapiro. 2024. Limited genomic signatures of population collapse in the critically endangered black abalone (Haliotis cracherodii).[Molecular Ecology](https://doi.org/10.1111/mec.17362).
 
 `2024` Sin, S.Y.W., F. K., G. Chen, P.-Y. Huang, **E.D. Enbody**, J. Karubian, M. S. Webster, S. V. Edwards. 2024. Genetic basis and evolution of structural color polymorphism in an Australian songbird. [Molecular Biology and Evolution](https://doi.org/10.1093/molbev/msae046).
 
@@ -75,7 +85,7 @@ U. Olsson, P.F. Donald, M. Stervander. 2023. Systematics of the avian family Ala
 `2022` Boersma, J., **E.D. Enbody**, J. Karubian, H. Watts, H. Schwabl. 2022. Drought disrupts year-round breeding readiness in a tropical songbird. [Avian Conservation and Ecology. 17(2):44](https://doi.org/10.5751/ACE-2343-170244).
 
 `2022`
-Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. 2022. Darwin’s finches - an adaptive radiation constructed from ancestral genetic modules. [Science Advances. 8(27):eabm5982](https://doi.org/10.1126/sciadv.abm5982).
+Rubin†, C.-J. **E.D. Enbody†**, M.P. Dobreva, A. Abzhanov, B.W. Davis, S. Lamichhaney, M. Pettersson, C. G. Sprehn, C.A. Valle, K. Vasco, O. Wallerman, B.R. Grant, P.R. Grant, L. Andersson. 2022. Rapid adaptive radiation of Darwin’s finches depends on ancestral genetic modules. [Science Advances. 8(27):eabm5982](https://doi.org/10.1126/sciadv.abm5982).
 
 `2022`
 **Enbody, E.D**, S.Y.W. Sin, J. Boersma, H. Schwabl, S.V. Edwards, M.S. Webster, J. Karubian. 2022. The evolutionary history and mechanistic basis of female ornamentation in a tropical songbird. [Evolution. 76(8):1720-1736](https://doi.org/10.1111/evo.14545).
@@ -129,12 +139,6 @@ Hill, J., **E.D. Enbody**, M.E. Pettersson, C.G. Sprehn, D. Bekkevold, A. Folkvo
 `2017`
 Brouwer, L., M. van de Pol, N. H. Aranzamendi, G. Bain, D. T. Baldassarre, D. Colombelli-Négrel, **E.D. Enbody**, K. Gielow, M. L. Hall, A. E. Johnson, J. Karubian, S. A. Kingma, S. Kleindorfer, M. Louter, R.A. Mulder, A. Peters, S. Pruett-Jones, K. A. Tarvin, D.J. Thrasher, C.W. Varian-Ramos, M.S. Webster, A. Cockburn. 2017. Multiple hypotheses explain variation in extra-pair paternity at different levels in a highly variable avian family. [Molecular Ecology. 26:6717–6729](http://onlinelibrary.wiley.com/doi/10.1111/mec.14385/full).
 
-### Under review or in revision
-
-Sangdehi, F.M., M.S. Jamsandekar, **E.D. Enbody**, M.E. Pettersson, L. Andersson. **submitted manuscript**. Copy number variation and elevated genetic diversity at immune 1 trait loci in Atlantic and Pacific herring.
-
-Wooldridge, B., C. Orland, **E.D. Enbody**, M. Escalona, C. Mirchandani, R. Corbett-Detig, J.D. Kapp, Nathaniel Fletcher, K. Ammann, P. Raimondi, B. Shapiro. **submitted manuscript**. Limited genomic signatures of population collapse in the critically endangered black abalone (Haliotis cracherodii).[link to preprint](https://doi.org/10.1101/2024.01.26.577275)
-
 ### Genome assemblies
 
 [White Wagtail assembly *Motacilla alba*](https://www.ncbi.nlm.nih.gov/assembly/GCF_015832195.1)
@@ -175,9 +179,9 @@ Red-backed Fairywren: *Malurus melanocephalus* (in progress)
 
 ### Travel Grants
 
-`2023` DeLill Nasser Travel Award for Professional Development in Genetics, $1000
+`2024` American Ornithological Society Student Travel Award
 
-`2022` Society for the Molecular Biologgy adn Evolution, $3,500
+`2022` Society for the Molecular Biologgy and Evolution, $3,500
 
 `2018` Society for the Study of Evolution Travel Award, $500
 
@@ -199,6 +203,8 @@ Red-backed Fairywren: *Malurus melanocephalus* (in progress)
 
 ### Other Honors
 
+`2023` DeLill Nasser Travel Award for Professional Development in Genetics, $1000
+
 `2021-22`
 UCSC BSOE Super Slug Award x4
 
@@ -216,6 +222,30 @@ Richard G. and Reba Beidleman Award in Ecology
 ## Invited Seminars & Visiting Lectures
 
 `2024`
+Community genomics in a changing world: linking ecological change with evolutionary outcomes. Cornell University, New York.
+
+`2024`
+Community genomics in a changing world: linking ecological change with evolutionary outcomes. UT Austin, Texas.
+
+`2024`
+Community genomics in a changing world: linking ecological change with evolutionary outcomes. University of Wyoming, Wyoming. 
+
+`2024`
+Community genomics in Galápagos finches: linking ecological change with evolutionary outcomes. University of British Columbia, Canada.
+
+`2024`
+Community genomics in Galápagos finches: linking ecological change with evolutionary outcomes. Louisiana State University, Louisiana.
+
+`2024`
+Community genomics in a changing world: linking ecological change with evolutionary outcomes. Michigan State University, Michigan.
+
+`2024`
+Evolutionary change through an ecological, social, and genomic perspective: lessons from birds. Lewis & Clark College, Oregon.
+
+`2023`
+Community genomics in a changing world: lessons learned from island birds. Dauphin Island Sea Labs, Alabama
+
+`2023`
 Community genomics in Galápagos finches: linking ecological change with evolutionary outcomes. Ole Miss Seminar Series, Oxford, Mississippi. 
 
 `2023`
@@ -271,6 +301,22 @@ Female Ornamentation in the White-shouldered Fairywren. Guest lecture at Binatan
 
 ## Conference Presentations
 
+`2024`
+**E. D. Enbody**. Regional conservation genomics highlights factors affecting population health. Biodiversity Genomics 2023, Virtual Conference. 
+
+`2024`
+**E. D. Enbody**, L. Keller, S. Lamichhaney, K. Petren, C.-J. Rubin, R. Corbett-Detig, C. Grace Sprehn, C. A. Valle, B, R. Grant, P. R. Grant, L. Andersson. Impacts of hybridization between cactus and ground finches (Geospiza) on Isla San Cristóbal, Galápagos Islands. American Ornithological Society Meeting, Estes Park, CO. 
+
+`2024`
+M. Laubstein, C. Cicero, P. Benham, L. Smith, M. Davila, **Erik D. Enbody**, R. C.K. Bowie. Whole genome sequences corroborate deep split and cryptic variation in Steller’s Jays (*Cyanocitta stelleri*). American Ornithological Society Meeting, Estes Park, CO. 
+
+`2024`
+S. Khalil, J Walsh, **E. D. Enbody**, D. Baldassarre, M. Webster, J. Karubian. Adaptive introgression of putative carotenoid pigment genes explains geographic variation in a sexually-selected plumage trait. American Ornithological Society Meeting, Estes Park, CO. 
+
+
+`2024`
+E. R. Voss, *Erik D. Enbody*, M. M. Davila, L. Smith, C. J. Conroy, R. C.K. Bowie, and M. W. Nachman. Exploring patterns of genomic diversity across three threatened species of kangaroo rats (*Dipodomys*) in California. Evolution, 2024. 
+
 `2023` 
 **E.D. Enbody**, J. Novembre, R. Corbett-Detig. High-throughput comparative population genomics using comparative migration surfaces across California’s wildlife. Biodiversity Genomics 2023, Virtual Conference. 
 
@@ -281,7 +327,7 @@ Female Ornamentation in the White-shouldered Fairywren. Guest lecture at Binatan
 P. M. Benham, C. Cicero, **E.D. Enbody**, L. L. Smith, M. M. Davila, M. W. Nachman, R. C. K. Bowie. Comparing spatial patterns of genetic diversity across three Californian quail species. Evolution, Albuquerque, NM. 
 
 `2023`
-S.Y.W. Sin, F. Ke, G. Chen, **E.D. Enbody**, J. Karubian, M.S. Webster, S.V. Edwards. Genetic basis and evolution of structural color polymorphism in an Australian songbird
+S.Y.W. Sin, F. Ke, G. Chen, **E.D. Enbody**, J. Karubian, M.S. Webster, S.V. Edwards. Genetic basis and evolution of structural color polymorphism in an Australian songbird. Evolution, Albuquerque, NM. 
 
 `2022`
 Hill†, J., **E.D. Enbody†** (presenter), H. Bi, S. Lamichhaney, D. Schwochow, S. Younis, F. Widemo, L. Andersson. Low mutation load in a supergene underpinning alternative male mating strategies in ruff. American Ornithological Society Meeting, San Juan, Puerto Rico.
@@ -405,6 +451,9 @@ Rose, A.^, S.M. Lantz, **E.D. Enbody**, J. Karubian. How do feathers relevant to
 
 ### Workshops
 
+`2022`
+Workshop on California Conservation Genomics Project variant calling workflow, UCLA, CA.
+
 `2018`
 Differential Expression workshop: Designed and implemented a short workshop to teach the fundamentals and methods for RNAseq data processing and differential expression analysis. Included as a part of the first Bioinformatics & Genomics Course taught in EEB at Tulane University.
 
@@ -480,10 +529,11 @@ Differential Expression workshop: Designed and implemented a short workshop to t
 
 ### Manuscript reviews
 
-Current Biology (1), Molecular Biology & Evolution (2), LOS Genetics (1), Molecular Ecology (3), Ornithology (1), Journal of Evolutionary Biology (2), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (2), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
-
+Current Biology (2), Molecular Biology & Evolution (2), LOS Genetics (1), Molecular Ecology (3), Ornithology (1), Journal of Evolutionary Biology (2), Behavioral Ecology (2), Behavioral Ecology and Sociobiology (2), Biological Journal of the Linnean Society (1), Frontiers in Ecology and Evolution (1), Global Ecology and Biogeography (1), Emu (1), Ibis (1), Ecology and Evolution (1), Ethology Ecology and Evolution (1)
 
 ### Service & Outreach
+
+`2024` Presentation Judge, American Ornithological Society meeting, Estes Park, CO
 
 `2023` Anti-racist symposium co-organizer with GI DEI committee
 
@@ -545,9 +595,9 @@ Volunteer at Louisiana Rice & Rails festival: Annual event focused on bringing t
 
 ### Professional memberships
 
-`2014-22`	American Ornithological Society
+`2014-24`	American Ornithological Society
 
-`2014-22`	Society for the Study of Evolution
+`2014-24`	Society for the Study of Evolution
 
 `2019-21`	European Society for Evolutionary Biology
 
